@@ -1,0 +1,81 @@
+portfolios_area:
+  categories:
+    - title: "Branding"
+      filter: "branding"
+
+    - title: "Corporate"
+      filter: "corporate"
+
+    - title: "Application"
+      filter: "application"
+
+    - title: "Video"
+      filter: "video"
+
+  portfolios:
+    - title: "Fringilla Nullam"
+      sub_title: "Corporate, Application"
+      sm_image: "/assets/images/art/s1.webp"
+      big_image: "/assets/images/art/s1-2.webp"
+      url: "#"
+      filters:
+        - corporate
+        - branding
+    - title: "Ridiculus Parturient"
+      sub_title: "Application"
+      sm_image: "/assets/images/art/s2.webp"
+      big_image: "/assets/images/art/s2-2.webp"
+      url: "#"
+      filters:
+        - application
+    - title: "Nullam Mollis"
+      sub_title: "Application"
+      sm_image: "/assets/images/art/s3.webp"
+      big_image: "/assets/images/art/s3-2.webp"
+      url: "#"
+      filters:
+        - video
+    - title: "Ridiculus Parturient"
+      sub_title: "Application"
+      sm_image: "/assets/images/art/s4.webp"
+      big_image: "/assets/images/art/s4-2.webp"
+      url: "#"
+      filters:
+        - branding
+    - title: "Ridiculus Tristique"
+      sub_title: "Application"
+      sm_image: "/assets/images/art/s5.webp"
+      big_image: "/assets/images/art/s5-2.webp"
+      url: "#"
+      filters:
+        - application
+        - branding
+    - title: "Euismod Risus"
+      sub_title: "Application"
+      sm_image: "/assets/images/art/s6.webp"
+      big_image: "/assets/images/art/s6-2.webp"
+      url: "#"
+      filters:
+        - corporate
+    - title: "Sollicitudin Pharetra"
+      sub_title: "Audio, Video"
+      sm_image: "/assets/images/art/s7.webp"
+      big_image: "/assets/images/art/s7-2.webp"
+      url: "#"
+      filters:
+        - branding
+    - title: "Consectetur Malesuada"
+      sub_title: "Branding"
+      sm_image: "/assets/images/art/s8.webp"
+      big_image: "/assets/images/art/s8-2.webp"
+      url: "#"
+      filters:
+        - video
+    - title: "Ridiculus Parturient"
+      sub_title: "Application"
+      sm_image: "/assets/images/art/s9.webp"
+      big_image: "/assets/images/art/s9-2.webp"
+      url: "#"
+      filters:
+        - corporate
+        - branding

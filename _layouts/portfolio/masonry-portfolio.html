@@ -1,0 +1,39 @@
+---
+layout: page
+---
+
+<div class="wrapper light-wrapper">
+  <div class="container inner">
+    <div class="grid grid-view">
+      <div class="isotope-filter text-center">
+        <ul>
+          <li><a class="button active" data-filter="*">All</a></li>
+          {% for post in page.portfolio_area.categories %}
+           <li><a class="button" data-filter=".{{post.filter}}">{{post.title}}</a></li>
+          {% endfor %}
+        </ul>
+      </div>
+      <div class="clearfix"></div>
+      <div class="tiles tiles-m">
+        <div class="row isotope">
+          {% assign masonry_portfolio = site.portfolio | where:"grouped_by","masonry" %}
+          {% for post in masonry_portfolio %}
+          <div class="item grid-sizer col-md-6 col-lg-4 {% for filter in post.filters %} {{filter}} {% endfor %}">
+            <figure class="overlay overlay1 rounded">
+            <a href="{{post.url}}">
+             <img src="{{post.image}}" alt="{{post.title}}"/></a>
+              <figcaption>
+                <h5 class="from-top mb-0">{{post.title}}</h5>
+              </figcaption>
+            </figure>
+          </div>
+          <!-- /.item -->
+         {% endfor %}
+        </div>
+        <!-- /.row -->
+      </div>
+      <!-- /.tiles -->
+    </div>
+    <!-- /.grid -->
+  </div>
+</div>

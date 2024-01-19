@@ -1,0 +1,81 @@
+portfolio_area:
+  categories:
+    - title: "Branding"
+      filter: "branding"
+
+    - title: "Corporate"
+      filter: "corporate"
+
+    - title: "Application"
+      filter: "application"
+
+    - title: "Video"
+      filter: "video"
+  portfolios:
+    - title: "Shopping Bag"
+      sub_title: "Application"
+      sm_img: "/assets/images/art/s1.webp"
+      big_img: "/assets/images/art/s1-2.webp"
+      url: "#"
+      filters:
+        - video
+        - branding
+    - title: "Paperback Book"
+      sub_title: "Corporate, Branding"
+      sm_img: "/assets/images/art/s2.webp"
+      big_img: "/assets/images/art/s2-2.webp"
+      url: "#"
+      filters:
+        - video
+        - branding
+    - title: "Clipboard Office"
+      sub_title: "Application"
+      sm_img: "/assets/images/art/s3.webp"
+      big_img: "/assets/images/art/s3-2.webp"
+      url: "#"
+      filters:
+        - video
+        - branding
+    - title: "Branding Stationery"
+      sub_title: "Video, Application"
+      sm_img: "/assets/images/art/s4.webp"
+      big_img: "/assets/images/art/s4-2.webp"
+      url: "#"
+      filters:
+        - application
+    - title: "Branding Stationery"
+      sub_title: "Video, Application"
+      sm_img: "/assets/images/art/s5.webp"
+      big_img: "/assets/images/art/s5-2.webp"
+      url: "#"
+      filters:
+        - branding
+    - title: "Shopping Paperbag"
+      sub_title: "Corporate, Branding"
+      sm_img: "/assets/images/art/s6.webp"
+      big_img: "/assets/images/art/s6-2.webp"
+      url: "#"
+      filters:
+        - corporate
+    - title: "Clipboard Office"
+      sub_title: "Application"
+      sm_img: "/assets/images/art/s7.webp"
+      big_img: "/assets/images/art/s7-2.webp"
+      url: "#"
+      filters:
+        - application
+    - title: "Branding Stationery"
+      sub_title: "Video, Application"
+      sm_img: "/assets/images/art/s8.webp"
+      big_img: "/assets/images/art/s8-2.webp"
+      url: "#"
+      filters:
+        - branding
+
+    - title: "Branding Stationery"
+      sub_title: "Video, Application"
+      sm_img: "/assets/images/art/s9.webp"
+      big_img: "/assets/images/art/s9-2.webp"
+      url: "#"
+      filters:
+        - video

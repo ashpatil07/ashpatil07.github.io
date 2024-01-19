@@ -1,0 +1,21 @@
+main_menu:
+
+  - text: "Home"
+    url: "/"
+    menu_type: "simple"
+
+  - text: "Our Divisions"
+    url: "/"
+    menu_type: "simple"
+
+  - text: "Expertise Areas"
+    url: "/"
+    menu_type: "simple"
+
+  - text: "About Us"
+    url: "/"
+    menu_type: "simple"
+
+  - text: "Blog"
+    url: "/blogs/index"
+    menu_type: "simple"

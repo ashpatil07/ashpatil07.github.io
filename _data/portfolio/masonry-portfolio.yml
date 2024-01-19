@@ -1,0 +1,83 @@
+portfolio_area:
+  categories:
+    - title: "Branding"
+      filter: "branding"
+
+    - title: "Corporate"
+      filter: "corporate"
+
+    - title: "Application"
+      filter: "application"
+
+    - title: "Video"
+      filter: "video"
+  portfolios:
+    - title: "Fringilla Nullam"
+      image: "/assets/images/art/m1.webp"
+      url: "#"
+      filters:
+        - corporate
+        - branding
+    - title: "Ridiculus Parturient"
+      image: "/assets/images/art/m2.webp"
+      url: "#"
+      filters:
+        - application
+    - title: "Ornare Ipsum"
+      image: "/assets/images/art/m3.webp"
+      url: "#"
+      filters:
+        - video
+    - title: "Nullam Mollis"
+      image: "/assets/images/art/m4.webp"
+      url: "#"
+      filters:
+        - corporate
+        - application
+    - title: "Euismod Risus"
+      image: "/assets/images/art/m5.webp"
+      url: "#"
+      filters:
+        - branding
+    - title: "Pellentesque Commodo"
+      image: "/assets/images/art/m6.webp"
+      url: "#"
+      filters:
+        - video
+        - branding
+    - title: "Pellentesque Commodo"
+      image: "/assets/images/art/m7.webp"
+      url: "#"
+      filters:
+        - video
+        - branding
+    - title: "Pellentesque Commodo"
+      image: "/assets/images/art/m8.webp"
+      url: "#"
+      filters:
+        - video
+        - branding
+    - title: "Pellentesque Commodo"
+      image: "/assets/images/art/m9.webp"
+      url: "#"
+      filters:
+        - video
+        - branding
+    - title: "Pellentesque Commodo"
+      image: "/assets/images/art/m10.webp"
+      url: "#"
+      filters:
+        - video
+        - branding
+    - title: "Pellentesque Commodo"
+      image: "/assets/images/art/m11.webp"
+      url: "#"
+      filters:
+        - video
+        - branding
+    - title: "Pellentesque Commodo"
+      image: "/assets/images/art/m12.webp"
+      url: "#"
+      filters:
+        - video
+        - branding

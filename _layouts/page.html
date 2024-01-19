@@ -1,0 +1,15 @@
+---
+layout: default
+---
+
+{% include nav/nav.html %}
+{%- if page.classic_nav -%}
+{% include header/page-title3.html %}
+{%- else -%}
+{% include header/page-title9.html %}
+
+{%- endif -%}
+
+{{content}}
+
+{% include footer/footer-1.html light_logo="true" %}
