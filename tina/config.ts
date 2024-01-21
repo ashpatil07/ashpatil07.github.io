@@ -95,7 +95,7 @@ export default defineConfig({
             type: "string",
             name: "slider_post",
             label: "Slider Post",
-            required: false,
+            required: true,
           },
           {
             type: "rich-text",
