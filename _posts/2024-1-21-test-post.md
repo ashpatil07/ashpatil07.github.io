@@ -6,6 +6,8 @@ author: admin
 meta_title: Test Post
 meta_description: Test post in tinacms
 slider_post: 'false'
+permalink: /posts/test-post
+simple_nav: 'true'
 ---
 
 Test

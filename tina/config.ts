@@ -98,6 +98,18 @@ export default defineConfig({
             required: true,
           },
           {
+            type: "string",
+            name: "permalink",
+            label: "Permalink",
+            required: true,
+          },
+          {
+            type: "string",
+            name: "simple_nav",
+            label: "Simple Nav",
+            required: false,
+          },
+          {
             type: "rich-text",
             name: "body",
             label: "Body",
