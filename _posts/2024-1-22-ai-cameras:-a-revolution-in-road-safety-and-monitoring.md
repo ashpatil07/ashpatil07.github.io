@@ -7,7 +7,7 @@ post_image: /assets/images/art/tb2.webp
 permalink: /posts/ai-cameras-a-revolution-in-road-safety-and-monitoring
 ---
 
-\######## Category: Smart Road Technologies
+###### Category: Smart Road Technologies
 
 In today’s fast-paced world, road safety has become a critical concern, necessitating the integration of advanced technologies. AI cameras stand out as a transformative tool in addressing these challenges by providing real-time insights and proactive measures for safer roads.
 
