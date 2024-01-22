@@ -110,6 +110,12 @@ export default defineConfig({
             required: false,
           },
           {
+            type: "string",
+            name: "sidebar",
+            label: "Sidebar",
+            required: false,
+          },
+          {
             type: "rich-text",
             name: "body",
             label: "Body",
