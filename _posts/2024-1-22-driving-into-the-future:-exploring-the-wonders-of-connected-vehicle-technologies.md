@@ -66,7 +66,7 @@ In conclusion, As we steer into the future, Connected Vehicle Technologies are t
 #### Outcome:
 
 * CitySmart experienced a notable reduction in traffic congestion, leading to shorter commute times.
-* The integration of predictive maintenance contributed to a decrease in roadside breakdowns, enhancing overall road safety.
+* The integration of predictive maintenance contributed to a decrease in roadside breakdowns, enhancing overall road safety..
 
 ### Case Study 2: SmartDrive Corporation's Fleet Efficiency with Connected Vehicles
 
