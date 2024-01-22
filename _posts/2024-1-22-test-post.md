@@ -6,7 +6,7 @@ author: admin
 meta_title: The Natural Places in Brazil
 meta_description: Test post in tinacms
 slider_post: 'true'
-permalink: /post/test-post
+permalink: /posts/test-post
 simple_nav: 'true'
 sidebar: 'true'
 ---
