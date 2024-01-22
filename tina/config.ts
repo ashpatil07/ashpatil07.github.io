@@ -50,6 +50,12 @@ export default defineConfig({
         fields: [
           {
             type: "string",
+            name: "layout",
+            label: "Layout",
+            required: true,
+          },
+          {
+            type: "string",
             name: "title",
             label: "Title",
             isTitle: true,
@@ -59,12 +65,6 @@ export default defineConfig({
             type: "datetime",
             name: "date",
             label: "Date",
-            required: true,
-          },
-          {
-            type: "string",
-            name: "layout",
-            label: "Layout",
             required: true,
           },
           {
