@@ -3,8 +3,8 @@ layout: post-boxed
 title: >-
   Driving into the Future: Exploring the Wonders of Connected Vehicle
   Technologies
-date: 2022-09-02T14:37:13.000Z
-author: Tortoiz Themes
+date: 2024-01-21T18:30:00.000Z
+author: admin
 post_image: /assets/images/art/tb2.webp
 permalink: >-
   /posts/driving-into-the-future-exploring-the-wonders-of-connected-vehicle-technologies
