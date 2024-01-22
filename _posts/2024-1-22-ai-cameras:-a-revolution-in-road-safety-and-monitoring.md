@@ -25,12 +25,12 @@ In today’s fast-paced world, road safety has become a critical concern, necess
 
 * AI cameras contribute significantly to security through number plate tracking. This technology aids law enforcement agencies in identifying stolen vehicles, managing traffic violations, and enhancing overall security on the roads. The ability to quickly and accurately match number plates against databases allows for efficient handling of security-related incidents.
 
-<b>Conlusion:</b>
+<b>Conclusion:</b>
 
 <p>In conclusion, the integration of AI cameras marks a significant leap forward in road safety and monitoring. The discussed applications – from enhancing safety features to proactive road maintenance and security measures – showcase the diverse capabilities of AI technology. As advancements in AI continue, the potential for making roads even safer and more secure remains promising. The collaborative efforts of technology and transportation sectors pave the way for a future where roads are not only efficient but also remarkably safe.</p>
---- 
+*** 
 ## CASE STUDY
---- 
+***  
 ### Case Study 1: CityX's Smart Traffic Management System:
 
 #### Introduction:
