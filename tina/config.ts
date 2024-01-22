@@ -99,12 +99,6 @@ export default defineConfig({
           },
           {
             type: "string",
-            name: "permalink",
-            label: "Permalink",
-            required: true,
-          },
-          {
-            type: "string",
             name: "simple_nav",
             label: "Simple Nav",
             required: false,
@@ -114,6 +108,12 @@ export default defineConfig({
             name: "sidebar",
             label: "Sidebar",
             required: false,
+          },
+          {
+            type: "string",
+            name: "permalink",
+            label: "Permalink",
+            required: true,
           },
           {
             type: "rich-text",
