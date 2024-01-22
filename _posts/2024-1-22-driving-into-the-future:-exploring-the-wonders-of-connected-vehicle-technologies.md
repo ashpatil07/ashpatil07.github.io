@@ -53,7 +53,7 @@ In conclusion, As we steer into the future, Connected Vehicle Technologies are t
 * – CitySmart integrated V2V communication among vehicles to share real-time information about traffic conditions.
 * – Connected vehicles exchanged data about their speed, location, and route plans, enabling dynamic traffic flow adjustments.
 
-\#####V2I Communication for Smart Traffic Lights:
+##### V2I Communication for Smart Traffic Lights:
 
 * – Traffic lights were equipped with V2I communication capabilities, allowing them to interact with connected vehicles.
 * – Smart traffic lights adjusted timings based on incoming data, creating smoother traffic flow and reducing unnecessary stops.
