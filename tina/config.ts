@@ -50,69 +50,9 @@ export default defineConfig({
         fields: [
           {
             type: "string",
-            name: "layout",
-            label: "Layout",
-            required: true,
-          },
-          {
-            type: "string",
             name: "title",
             label: "Title",
             isTitle: true,
-            required: true,
-          },
-          {
-            type: "datetime",
-            name: "date",
-            label: "Date",
-            required: true,
-          },
-          {
-            type: "string",
-            name: "author",
-            label: "Author",
-            required: false,
-          },
-          {
-            type: "image",
-            name: "post_image",
-            label: "Post Image",
-            required: false,
-          },
-          {
-            type: "string",
-            name: "meta_title",
-            label: "Meta Title",
-            required: false,
-          },
-          {
-            type: "string",
-            name: "meta_description",
-            label: "Meta Description",
-            required: false,
-          },
-          {
-            type: "string",
-            name: "slider_post",
-            label: "Slider Post",
-            required: true,
-          },
-          {
-            type: "string",
-            name: "simple_nav",
-            label: "Simple Nav",
-            required: false,
-          },
-          {
-            type: "string",
-            name: "sidebar",
-            label: "Sidebar",
-            required: false,
-          },
-          {
-            type: "string",
-            name: "permalink",
-            label: "Permalink",
             required: true,
           },
           {
