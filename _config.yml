@@ -1,6 +1,6 @@
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://ashpatil07-github-io.vercel.app" # the base hostname & protocol for your site, e.g. http://example.com
-permalink: /:year/:month/:day/:slug:output_ext
+permalink: "/:title"
 
 # Build settings
 #theme: minima
