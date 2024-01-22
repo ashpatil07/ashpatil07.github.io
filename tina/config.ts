@@ -50,9 +50,39 @@ export default defineConfig({
         fields: [
           {
             type: "string",
+            name: "layout",
+            label: "Layout",
+            required: true,
+          },
+          {
+            type: "string",
             name: "title",
             label: "Title",
             isTitle: true,
+            required: true,
+          },
+          {
+            type: "datetime",
+            name: "date",
+            label: "Date",
+            required: true,
+          },
+          {
+            type: "string",
+            name: "author",
+            label: "Author",
+            required: false,
+          },
+          {
+            type: "image",
+            name: "post_image",
+            label: "Post Image",
+            required: false,
+          },
+          {
+            type: "string",
+            name: "permalink",
+            label: "Permalink",
             required: true,
           },
           {
