@@ -3,7 +3,7 @@ layout: post
 title: Test Goutham
 date: 2024-01-20T18:30:00.000Z
 author: Admin
-post_image: /images/art/b13.webp
+post_image: /images/logo.png
 permalink: /posts/test-post-2
 ---
 
