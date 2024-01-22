@@ -84,7 +84,7 @@ In conclusion, As we steer into the future, Connected Vehicle Technologies are t
 ##### Fuel Efficiency Optimization:
 
 * – SmartDrive used the collected data to optimize routes, reduce idle times, and enhance fuel efficiency.
-  \*– Drivers received real-time feedback on their driving habits, encouraging fuel-conscious behavior.
+* – Drivers received real-time feedback on their driving habits, encouraging fuel-conscious behavior.
 
 ##### Safety Enhancements through V2I Communication:
 
