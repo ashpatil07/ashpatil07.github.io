@@ -70,6 +70,7 @@ In conclusion, the grand play of our daily commutes, Intelligent Traffic Managem
 * CityZ witnessed a significant reduction in traffic congestion and travel times.
 * Road accidents decreased, and the proactive approach to traffic management garnered positive feedback from residents.
 
+<br>
 ### Case Study 2: HighwayX's ITMS for Safety and Efficiency:
 
 #### Introduction:
