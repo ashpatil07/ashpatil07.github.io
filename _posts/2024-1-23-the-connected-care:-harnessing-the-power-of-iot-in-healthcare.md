@@ -7,7 +7,7 @@ post_image: /assets/images/art/tb2.webp
 permalink: /posts/the-connected-care-harnessing-the-power-of-iot-in-healthcare
 ---
 
-###### Category: Smart Agriculture Technologies
+###### Category: Smart Healthcare Technologies
 
 In the ever-evolving landscape of healthcare, the integration of the Internet of Things (IoT) has ushered in a new era of connected and data-driven patient care. IoT, with its network of interconnected devices and sensors, is transforming how healthcare is delivered and experienced. This article explores the multifaceted impact of IoT in healthcare, examining how it enhances patient monitoring, streamlines healthcare operations, and contributes to the vision of a more efficient and patient-centric healthcare ecosystem.
 
