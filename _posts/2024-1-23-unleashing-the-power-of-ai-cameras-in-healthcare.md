@@ -33,21 +33,21 @@ In the dynamic landscape of healthcare, the integration of Artificial Intelligen
 
 <br>
 
-## CASE STUDY
+## CASE STUDIES
 
-### Case Study 1: John Deere's Precision Agriculture with IoT
+### Case Study 1: Singapore General Hospital (SGH)-Remote Patient Monitoring
 
 #### Overview:
 
-* John Deere, a global leader in agricultural machinery, has embraced IoT to enhance precision farming practices and optimize equipment performance.
+* Singapore General Hospital (SGH) implemented an innovative remote patient monitoring system using AI cameras and big data analytics to enhance patient care. The project aimed to extend medical surveillance beyond hospital walls, enabling continuous monitoring of patients recovering at home.
 
 #### Implementation:
 
-* John Deere’s tractors and combines are equipped with IoT sensors that collect data on soil conditions, crop health, and machinery performance. This data is transmitted to the John Deere Operations Center, a cloud-based platform. Farmers can access real-time insights and analytics, allowing them to make informed decisions on planting, harvesting, and equipment maintenance. The integration of IoT in John Deere’s precision agriculture solutions has transformed farming practices by increasing efficiency, reducing input costs, and improving overall crop yields.
+* AI cameras equipped with sensors were installed in the homes of post-surgery patients. These cameras captured vital signs, movements, and other relevant health data. The collected data was then processed using advanced big data analytics tools. The analytics platform identified patterns indicative of potential complications, allowing healthcare professionals to intervene promptly.
 
 #### Results:
 
-* Farmers adopting John Deere’s IoT-enabled precision agriculture solutions have reported significant improvements in productivity and resource management. The ability to monitor and analyze field data in real-time has led to optimized planting and harvesting schedules, precise application of fertilizers and pesticides, and efficient use of water resources. John Deere’s case illustrates how IoT is revolutionizing traditional farming methods, ushering in an era of data-driven agriculture.
+* The implementation significantly reduced readmission rates and improved patient outcomes. Through continuous monitoring and data-driven alerts, SGH achieved a proactive approach to patient care. The integration of big data analytics ensured that healthcare providers could prioritize interventions based on real-time data, ultimately enhancing the quality of care for patients recovering outside the hospital.
 
 <br>
 
