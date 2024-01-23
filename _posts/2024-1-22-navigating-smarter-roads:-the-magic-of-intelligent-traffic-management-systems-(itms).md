@@ -1,5 +1,5 @@
 ---
-layout: post-boxed-sidebar
+layout: post-boxed
 title: >-
   Navigating Smarter Roads: The Magic of Intelligent Traffic Management Systems
   (ITMS)
