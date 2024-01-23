@@ -42,6 +42,7 @@ In Conclusion, As we embark on the road ahead, Intelligent Transportation System
 
 </p>
 <br>
+
 ## CASE STUDY
 
 ### Case Study 1: SmartCity's ITS Transformation
