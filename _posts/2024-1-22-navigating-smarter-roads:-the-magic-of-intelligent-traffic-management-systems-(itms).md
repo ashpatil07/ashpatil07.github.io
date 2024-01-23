@@ -39,7 +39,7 @@ In the hustle and bustle of our daily lives, getting from point A to point B can
 <p>
 In conclusion, the grand play of our daily commutes, Intelligent Traffic Management Systems take the stage as silent heroes. They transform chaos into coordination, predicting problems, and keeping our roads safe and efficient. As technology continues to weave its magic, our journeys become not just about reaching a destination but enjoying the ride on smarter, more intelligent roads. With ITMS, the future of traffic management looks bright, promising us a ticket to smoother, stress-free travels.
 </p>
-
+<br>
 ## CASE STUDY
 
 ### Case Study 1: CityZ's ITMS Overhaul:
