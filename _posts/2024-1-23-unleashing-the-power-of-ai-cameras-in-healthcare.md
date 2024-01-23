@@ -51,7 +51,7 @@ In the dynamic landscape of healthcare, the integration of Artificial Intelligen
 
 <br>
 
-### Case Study 2: The Climate Corporation's FieldView Platform
+### Case Study 2: Mayo Clinic - AI-Powered Diagnostic Imaging
 
 #### Overview:
 
