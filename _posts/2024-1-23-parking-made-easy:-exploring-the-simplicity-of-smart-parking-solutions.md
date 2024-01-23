@@ -78,7 +78,7 @@ In conclusion, As we navigate our way through bustling city streets and crowded 
 ##### IoT Sensors for Parking Space Monitoring:
 
 * Streetline deployed IoT sensors in on-street parking spaces to monitor occupancy in real-time.
-  \*The data collected from these sensors was used to create a dynamic parking availability map accessible to drivers through the city’s parking app.
+* The data collected from these sensors was used to create a dynamic parking availability map accessible to drivers through the city’s parking app.
 
 ##### Dynamic Pricing and Traffic Management:
 
