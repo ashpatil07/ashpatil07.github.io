@@ -36,7 +36,7 @@ In the ever-evolving landscape of healthcare, the integration of telemedicine an
 
 <br>
 
-## CASE STUDY
+## CASE STUDIES
 
 ### Case Study 1: Teladoc Health - Pioneering Telemedicine Services
 
