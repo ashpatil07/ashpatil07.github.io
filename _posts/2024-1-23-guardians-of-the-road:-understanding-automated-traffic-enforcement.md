@@ -46,7 +46,7 @@ In conclusion, Automated Traffic Enforcement may be invisible, but its impact on
 
 #### Introduction:
 
-\*London, one of the world’s busiest cities, implemented the Congestion Charge, a form of Automated Traffic Enforcement aimed at reducing traffic congestion and encouraging the use of public transportation.
+* London, one of the world’s busiest cities, implemented the Congestion Charge, a form of Automated Traffic Enforcement aimed at reducing traffic congestion and encouraging the use of public transportation.
 
 #### Implementation:
 
