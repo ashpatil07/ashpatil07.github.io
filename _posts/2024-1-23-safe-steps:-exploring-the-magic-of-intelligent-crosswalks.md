@@ -77,8 +77,8 @@ In conclusion, Intelligent Crosswalks are the unsung heroes of our daily journey
 
 ##### Responsive Signal Timing:
 
-* MnDOT has deployed RWIS stations across the state, collecting data on temperature, pavement conditions, and visibility.
-* These stations provide continuous, real-time information, enabling timely responses to changing weather patterns.
+* Some crosswalks in Tel Aviv utilize smart technologies that dynamically adjust signal timings based on real-time pedestrian flow.
+* During peak pedestrian times, the signals adapt to accommodate larger groups, ensuring efficient and safe crossing.
 
 ##### Pedestrian-Centric Design:
 
