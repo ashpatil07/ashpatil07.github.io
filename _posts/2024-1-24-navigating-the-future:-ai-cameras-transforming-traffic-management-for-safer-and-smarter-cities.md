@@ -41,13 +41,13 @@ In the bustling arteries of urban landscapes, the integration of artificial inte
 ##### Traffic Rule Enforcement
 
   <p>
-  * AI cameras equipped with ALPR can identify vehicles violating traffic rules, such as running red lights or exceeding speed limits. Automated alerts are sent to law enforcement for swift action.
+   AI cameras equipped with ALPR can identify vehicles violating traffic rules, such as running red lights or exceeding speed limits. Automated alerts are sent to law enforcement for swift action.
   </p>
 
 ##### Enhanced Security
 
   <p>
- * ALPR contributes to enhancing overall security by identifying stolen vehicles or those associated with criminal activities.
+  ALPR contributes to enhancing overall security by identifying stolen vehicles or those associated with criminal activities.
   </p>
 
 ### Smart Toll Collection:
@@ -59,13 +59,13 @@ In the bustling arteries of urban landscapes, the integration of artificial inte
 ##### Seamless Tolling Experience
 
   <p>
- * AI cameras with ALPR technology enable non-stop tolling, allowing vehicles to pass through toll booths without the need to stop, enhancing the overall traffic flow.
+  AI cameras with ALPR technology enable non-stop tolling, allowing vehicles to pass through toll booths without the need to stop, enhancing the overall traffic flow.
   </p>
 
 ##### Reduced Congestion
 
   <p>
- * Eliminating manual toll collection points minimizes queues, reducing the risk of traffic jams around toll booths.
+  Eliminating manual toll collection points minimizes queues, reducing the risk of traffic jams around toll booths.
   </p>
 
 ### Challenges and Considerations:
