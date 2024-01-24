@@ -10,7 +10,7 @@ permalink: >-
   /posts/beyond-the-scoreboard-how-ai-cameras-are-changing-the-game-in-sports-analytics
 ---
 
-###### Category: AI Camera, Smart Defence Technologies
+###### Category: AI Camera
 
 In the thrilling world of sports, where every move counts, AI cameras are stepping into the spotlight, not just as spectators but as game-changers. These unassuming lenses, fueled by the power of artificial intelligence, are transforming the way we understand and analyze sports. Join us as we dive into the realm of sports analytics, where the watchful eyes of AI cameras are rewriting the playbook and uncovering new dimensions of performance.
 
