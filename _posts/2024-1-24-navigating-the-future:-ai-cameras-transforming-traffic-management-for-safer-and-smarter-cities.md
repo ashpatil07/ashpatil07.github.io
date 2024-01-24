@@ -20,18 +20,19 @@ In the bustling arteries of urban landscapes, the integration of artificial inte
 
 #### Benefits:
 
-##### Dynamic Signal Optimization</b>
+##### Dynamic Signal Optimization
 
   <p>
-  * AI algorithms adjust traffic signal timings based on the current flow of vehicles, minimizing congestion and reducing wait times at intersections.
+  AI algorithms adjust traffic signal timings based on the current flow of vehicles, minimizing congestion and reducing wait times at intersections.
   </p>
 
 ##### Predictive Analytics
 
   <p>
-  * By identifying patterns and trends, AI cameras help predict peak traffic hours, allowing authorities to implement proactive measures and allocate resources efficiently.
+  By identifying patterns and trends, AI cameras help predict peak traffic hours, allowing authorities to implement proactive measures and allocate resources efficiently.
   </p>
-  ### Automatic License Plate Recognition (ALPR) Systems:
+
+### Automatic License Plate Recognition (ALPR) Systems:
 
 * ALPR systems, powered by AI, have become pivotal in modern traffic management. These systems use cameras to capture license plate information and automatically process it for various applications, ranging from law enforcement to toll collection.
 
