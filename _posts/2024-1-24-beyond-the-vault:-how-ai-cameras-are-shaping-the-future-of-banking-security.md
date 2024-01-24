@@ -8,7 +8,7 @@ permalink: >-
   /posts/beyond-the-vault-how-ai-cameras-are-shaping-the-future-of-banking-security
 ---
 
-###### Category: AI Camera, Smart Defence Technologies
+###### Category: AI Camera,
 
 In the world of finance, where trust and security are paramount, AI cameras are emerging as silent guardians, ensuring that every transaction is not just recorded but protected with the precision of artificial intelligence. Join us on a journey into the heart of banking and finance, where the vigilant eyes of AI cameras are rewriting the rules of security and customer protection.
 
