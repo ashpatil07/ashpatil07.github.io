@@ -10,7 +10,7 @@ permalink: >-
   /posts/on-the-road-to-tomorrow-how-ai-cameras-are-driving-transportation-into-the-future
 ---
 
-###### Category: AI Camera, Smart Defence Technologies
+###### Category: AI Camera, Smart Road Technologies
 
 In the vast network of transportation, where every journey counts, AI cameras are emerging as the navigators of tomorrow. These unassuming lenses, guided by the intelligence of artificial intelligence, are not just capturing images of roads and vehicles—they are transforming the way we move and travel. Join us on a journey into the realm of transportation, where the watchful eyes of AI cameras are steering us toward safer, more efficient, and smarter travel experiences.
 
