@@ -6,6 +6,7 @@ title: >-
 date: 2024-01-21T18:30:00.000Z
 author: admin
 post_image: /assets/images/art/tb2.webp
+boxed_sidebar: 'true'
 permalink: >-
   /posts/navigating-smarter-roads-the-magic-of-intelligent-traffic-management-systems-(itms)
 ---
