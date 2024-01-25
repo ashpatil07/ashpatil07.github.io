@@ -81,11 +81,6 @@ export default defineConfig({
           },
           {
             type: "string",
-            name: "boxed_sidebar",
-            label: "Boxed Sidebar",
-          },
-          {
-            type: "string",
             name: "permalink",
             label: "Permalink",
             required: true,
