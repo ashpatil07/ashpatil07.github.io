@@ -4,6 +4,7 @@ title: 'Fields of the Future: How AI Cameras Are Transforming Agriculture'
 date: 2024-01-23T18:30:00.000Z
 author: admin
 post_image: /assets/images/art/aia8.jpg
+boxed_sidebar: 'true'
 permalink: /posts/fields-of-the-future-how-ai-cameras-are-transforming-agriculture
 ---
 
