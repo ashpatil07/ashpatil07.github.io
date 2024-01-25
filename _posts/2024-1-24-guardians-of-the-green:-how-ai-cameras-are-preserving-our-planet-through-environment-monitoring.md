@@ -6,6 +6,7 @@ title: >-
 date: 2024-01-23T18:30:00.000Z
 author: admin
 post_image: /assets/images/art/aia13.jpg
+boxed_sidebar: 'true'
 permalink: >-
   /posts/guardians-of-the-green-how-ai-cameras-are-preserving-our-planet-through-environment-monitoring
 ---
