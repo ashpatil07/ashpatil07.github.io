@@ -3,7 +3,7 @@ layout: post-boxed
 title: 'Securing Health Data: Exploring the Impact of Blockchain in Healthcare'
 date: 2024-01-22T18:30:00.000Z
 author: admin
-post_image: /assets/images/art/tb2.webp
+post_image: /assets/images/art/ha6.jpg
 permalink: /posts/securing-health-data-exploring-the-impact-of-blockchain-in-healthcare
 ---
 
