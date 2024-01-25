@@ -5,7 +5,7 @@ title: >-
   Engagement
 date: 2024-01-23T18:30:00.000Z
 author: admin
-post_image: /assets/images/art/tb2.webp
+post_image: /assets/images/art/aia3.jpg
 permalink: >-
   /posts/revolutionizing-retail-the-ai-camera-experience-in-redefining-customer-engagements
 ---
