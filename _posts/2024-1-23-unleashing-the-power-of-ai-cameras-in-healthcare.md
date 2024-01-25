@@ -3,7 +3,7 @@ layout: post-boxed
 title: Unleashing the Power of AI Cameras in Healthcare
 date: 2024-01-22T18:30:00.000Z
 author: admin
-post_image: /assets/images/art/tb2.webp
+post_image: /assets/images/art/ha1.jpg
 permalink: /posts/unleashing-the-power-of-ai-cameras-in-healthcare
 ---
 
