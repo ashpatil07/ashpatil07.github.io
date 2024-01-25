@@ -6,6 +6,7 @@ title: >-
 date: 2024-01-23T18:30:00.000Z
 author: admin
 post_image: /assets/images/art/aia2.jpeg
+boxed_sidebar: 'true'
 permalink: >-
   /posts/navigating-the-future-ai-cameras-transforming-traffic-management-for-safer-and-smarter-cities
 ---
