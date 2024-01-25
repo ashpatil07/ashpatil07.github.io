@@ -4,6 +4,7 @@ title: The Role of Artificial Intelligence in Defense Systems
 date: 2024-01-23T18:30:00.000Z
 author: admin
 post_image: /assets/images/art/da2.jpg
+boxed_sidebar: 'true'
 permalink: /posts/the-role-of-artificial-intelligence-in-defense-systems
 ---
 
