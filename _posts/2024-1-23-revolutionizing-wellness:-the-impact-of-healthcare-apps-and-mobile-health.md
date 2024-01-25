@@ -3,7 +3,7 @@ layout: post-boxed
 title: 'Revolutionizing Wellness: The Impact of Healthcare Apps and Mobile Health'
 date: 2024-01-22T18:30:00.000Z
 author: admin
-post_image: /assets/images/art/tb2.webp
+post_image: /assets/images/art/ha7.jpg
 permalink: >-
   /posts/revolutionizing-wellness-the-impact-of-healthcare-apps-and-mobile-health
 ---
