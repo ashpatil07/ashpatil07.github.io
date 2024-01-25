@@ -3,7 +3,7 @@ layout: post-boxed
 title: 'Next-Gen Robotics: The Evolution of Unmanned Systems in Defense'
 date: 2024-01-23T18:30:00.000Z
 author: admin
-post_image: /assets/images/art/tb2.webp
+post_image: /assets/images/art/da8.jpg
 permalink: /posts/next-gen-robotics-the-evolution-of-unmanned-systems-in-defense
 ---
 
