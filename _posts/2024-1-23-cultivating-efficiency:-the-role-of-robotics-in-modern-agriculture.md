@@ -4,6 +4,7 @@ title: 'Cultivating Efficiency: The Role of Robotics in Modern Agriculture'
 date: 2024-01-22T18:30:00.000Z
 author: admin
 post_image: /assets/images/art/tb2.webp
+boxed_sidebar: 'true'
 permalink: /posts/cultivating-efficiency-the-role-of-robotics-in-modern-agriculture
 ---
 
