@@ -4,6 +4,7 @@ title: 'Eyes of Innovation: How AI Cameras are Revolutionizing Healthcare'
 date: 2024-01-23T18:30:00.000Z
 author: admin
 post_image: /assets/images/art/aia4.jpg
+boxed_sidebar: 'true'
 permalink: /posts/eyes-of-innovation-how-ai-cameras-are-revolutionizing-healthcare
 ---
 
