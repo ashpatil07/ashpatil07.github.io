@@ -3,7 +3,7 @@ layout: post-boxed
 title: 'Guardians of the Borders: How AI Cameras Are Reinforcing Defense Strategies'
 date: 2024-01-23T18:30:00.000Z
 author: admin
-post_image: /assets/images/art/tb2.webp
+post_image: /assets/images/art/aia9.jpg
 permalink: >-
   /posts/guardians-of-the-borders-how-ai-cameras-are-reinforcing-defense-strategies
 ---
