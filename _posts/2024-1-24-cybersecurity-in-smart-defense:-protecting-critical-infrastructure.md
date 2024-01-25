@@ -4,6 +4,7 @@ title: 'Cybersecurity in Smart Defense: Protecting Critical Infrastructure'
 date: 2024-01-23T18:30:00.000Z
 author: admin
 post_image: /assets/images/art/da3.jpg
+boxed_sidebar: 'true'
 permalink: /posts/cybersecurity-in-smart-defense-protecting-critical-infrastructure
 ---
 
