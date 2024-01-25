@@ -5,7 +5,7 @@ title: >-
   Future
 date: 2024-01-23T18:30:00.000Z
 author: admin
-post_image: /assets/images/art/tb2.webp
+post_image: /assets/images/art/aia12.jpg
 permalink: >-
   /posts/on-the-road-to-tomorrow-how-ai-cameras-are-driving-transportation-into-the-future
 ---
