@@ -3,7 +3,7 @@ layout: post-boxed
 title: 'Precision Warfare: The Advancement of Smart Munitions'
 date: 2024-01-23T18:30:00.000Z
 author: admin
-post_image: /assets/images/art/tb2.webp
+post_image: /assets/images/art/da9.jpg
 permalink: /posts/precision-warfare-the-advancement-of-smart-munitions
 ---
 
