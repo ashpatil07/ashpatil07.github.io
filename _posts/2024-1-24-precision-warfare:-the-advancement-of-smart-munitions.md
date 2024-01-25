@@ -4,6 +4,7 @@ title: 'Precision Warfare: The Advancement of Smart Munitions'
 date: 2024-01-23T18:30:00.000Z
 author: admin
 post_image: /assets/images/art/da9.jpg
+boxed_sidebar: 'true'
 permalink: /posts/precision-warfare-the-advancement-of-smart-munitions
 ---
 
