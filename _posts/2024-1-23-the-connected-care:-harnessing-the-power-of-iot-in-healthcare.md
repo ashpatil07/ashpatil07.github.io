@@ -3,7 +3,7 @@ layout: post-boxed
 title: 'The Connected Care: Harnessing the Power of IoT in Healthcare'
 date: 2024-01-22T18:30:00.000Z
 author: admin
-post_image: /assets/images/art/tb2.webp
+post_image: /assets/images/art/ha4.jpg
 permalink: /posts/the-connected-care-harnessing-the-power-of-iot-in-healthcare
 ---
 
