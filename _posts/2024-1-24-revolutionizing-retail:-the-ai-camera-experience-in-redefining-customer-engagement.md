@@ -6,6 +6,7 @@ title: >-
 date: 2024-01-23T18:30:00.000Z
 author: admin
 post_image: /assets/images/art/aia3.jpg
+boxed_sidebar: 'true'
 permalink: >-
   /posts/revolutionizing-retail-the-ai-camera-experience-in-redefining-customer-engagements
 ---
