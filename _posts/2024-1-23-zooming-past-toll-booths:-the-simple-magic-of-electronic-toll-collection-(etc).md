@@ -4,6 +4,7 @@ title: 'Zooming Past Toll Booths: The Simple Magic of Electronic Toll Collection
 date: 2024-01-22T18:30:00.000Z
 author: admin
 post_image: /assets/images/art/tb2.webp
+boxed_sidebar: 'true'
 permalink: >-
   /posts/zooming-past-toll-booths-the-simple-magic-of-electronic-toll-collection-(etc)
 ---
