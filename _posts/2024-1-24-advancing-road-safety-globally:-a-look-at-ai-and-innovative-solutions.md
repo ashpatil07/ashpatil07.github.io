@@ -4,6 +4,7 @@ title: 'Advancing Road Safety Globally: A Look at AI and Innovative Solutions'
 date: 2024-01-23T18:30:00.000Z
 author: admin
 post_image: /assets/images/art/aia1.jpeg
+boxed_sidebar: 'true'
 permalink: /posts/advancing-road-safety-globally-a-look-at-ai-and-innovative-solutions
 ---
 
