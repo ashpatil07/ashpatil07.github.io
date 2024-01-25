@@ -4,6 +4,7 @@ title: 'Growing Trust: Blockchain''s Revolutionary Impact on Agriculture'
 date: 2024-01-22T18:30:00.000Z
 author: admin
 post_image: /assets/images/art/tb2.webp
+boxed_sidebar: 'true'
 permalink: /posts/growing-trust-blockchain's-revolutionary-impact-on-agriculture
 ---
 
