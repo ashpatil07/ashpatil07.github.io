@@ -4,6 +4,7 @@ title: 'Revolutionizing Wellness: The Impact of Healthcare Apps and Mobile Healt
 date: 2024-01-22T18:30:00.000Z
 author: admin
 post_image: /assets/images/art/ha7.jpg
+boxed_sidebar: 'true'
 permalink: >-
   /posts/revolutionizing-wellness-the-impact-of-healthcare-apps-and-mobile-health
 ---
