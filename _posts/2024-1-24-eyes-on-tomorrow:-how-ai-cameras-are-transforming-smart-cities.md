@@ -4,6 +4,7 @@ title: 'Eyes on Tomorrow: How AI Cameras Are Transforming Smart Cities'
 date: 2024-01-23T18:30:00.000Z
 author: admin
 post_image: /assets/images/art/aia6.jpg
+boxed_sidebar: 'true'
 permalink: /posts/eyes-on-tomorrow-how-ai-cameras-are-transforming-smart-cities
 ---
 
