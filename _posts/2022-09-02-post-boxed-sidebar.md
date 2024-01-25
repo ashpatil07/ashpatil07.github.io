@@ -12,7 +12,7 @@ meta_title: "Boxed Post"
 meta_description: |
   Snowlake Jekyll Theme is a perfectly crafted fast loading and SEO-friendly static site generator theme
 simple_nav: true
-boxed_sidebar: true
+boxed-sidebar: true
 permalink: "/posts/post-boxed_sidebar"
 ---
 

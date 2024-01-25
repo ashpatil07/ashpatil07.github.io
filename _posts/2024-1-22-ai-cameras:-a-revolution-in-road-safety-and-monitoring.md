@@ -4,7 +4,6 @@ title: 'AI Cameras: A Revolution in Road Safety and Monitoring'
 date: 2024-01-21T18:30:00.000Z
 author: admin
 post_image: /assets/images/art/aia17.jpg
-boxed_sidebar: 'true'
 permalink: /posts/ai-cameras-a-revolution-in-road-safety-and-monitoring
 ---
 
