@@ -4,6 +4,7 @@ title: 'Taking Flight: The Transformative Role of Drones in Healthcare'
 date: 2024-01-22T18:30:00.000Z
 author: admin
 post_image: /assets/images/art/ha2.jpeg
+boxed_sidebar: 'true'
 permalink: /posts/taking-flight-the-transformative-role-of-drones-in-healthcare
 ---
 
