@@ -4,6 +4,7 @@ title: 'Biometric Technologies: Enhancing Security in the Military'
 date: 2024-01-23T18:30:00.000Z
 author: admin
 post_image: /assets/images/art/da5.jpg
+boxed_sidebar: 'true'
 permalink: /posts/biometric technologies enhancing security in the military
 ---
 
