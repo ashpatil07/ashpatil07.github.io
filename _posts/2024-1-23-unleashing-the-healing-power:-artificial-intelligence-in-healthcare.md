@@ -4,6 +4,7 @@ title: 'Unleashing the Healing Power: Artificial Intelligence in Healthcare'
 date: 2024-01-22T18:30:00.000Z
 author: admin
 post_image: /assets/images/art/ha5.jpg
+boxed_sidebar: 'true'
 permalink: /posts/unleashing-the-healing-power-artificial-intelligence-in-healthcare
 ---
 
