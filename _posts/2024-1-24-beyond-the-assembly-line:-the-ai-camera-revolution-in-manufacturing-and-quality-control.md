@@ -6,6 +6,7 @@ title: >-
 date: 2024-01-23T18:30:00.000Z
 author: admin
 post_image: /assets/images/art/aia5.jpg
+boxed_sidebar: 'true'
 permalink: >-
   /posts/beyond-the-assembly-line-the-ai-camera-revolution-in-manufacturing-and-quality-control
 ---
