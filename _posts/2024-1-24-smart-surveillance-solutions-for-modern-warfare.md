@@ -4,6 +4,7 @@ title: Smart Surveillance Solutions for Modern Warfare
 date: 2024-01-23T18:30:00.000Z
 author: admin
 post_image: /assets/images/art/da4.jpg
+boxed_sidebar: 'true'
 permalink: /posts/smart-surveillance-solutions-for-modern-warfare
 ---
 
