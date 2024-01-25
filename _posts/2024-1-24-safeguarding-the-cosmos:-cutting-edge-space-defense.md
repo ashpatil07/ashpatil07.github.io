@@ -4,6 +4,7 @@ title: 'Safeguarding the Cosmos: Cutting-Edge Space Defense'
 date: 2024-01-23T18:30:00.000Z
 author: admin
 post_image: /assets/images/art/da10.jpg
+boxed_sidebar: 'true'
 permalink: /posts/safeguarding-the-cosmos-cutting-edge-space-defense
 ---
 
