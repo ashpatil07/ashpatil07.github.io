@@ -41,8 +41,6 @@ In the vibrant world of tourism and hospitality, where every guest experience is
 In conclusion, in the dynamic landscape of tourism and hospitality, AI cameras are not just documenting journeys—they are shaping the very essence of travel and stay. From ensuring safety to offering personalized experiences, these intelligent lenses are elevating the way we explore and enjoy the world. The future of tourism and hospitality is framed by the watchful eyes of AI cameras, promising a world where every traveler’s story is uniquely captured and celebrated.
 </p>
 
-![Image Using Kramdown](/images/assets/art/b16.webp){:class="img-responsive"}
-
 ## CASE STUDIES
 
 ### Case Study 1: Marriott International - Contactless Check-In with Mobile Key
