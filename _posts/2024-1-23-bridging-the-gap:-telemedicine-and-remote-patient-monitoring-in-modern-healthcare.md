@@ -6,6 +6,7 @@ title: >-
 date: 2024-01-22T18:30:00.000Z
 author: admin
 post_image: /assets/images/art/ha3.jpg
+boxed_sidebar: 'true'
 permalink: >-
   /posts/bridging-the-gap-telemedicine-and-remote-patient-monitoring-in-modern-healthcare
 ---
