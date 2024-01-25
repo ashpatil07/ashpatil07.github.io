@@ -3,7 +3,7 @@ layout: post-boxed
 title: 'Capturing Knowledge: The Role of AI Cameras in Transforming Education'
 date: 2024-01-23T18:30:00.000Z
 author: admin
-post_image: /assets/images/art/tb2.webp
+post_image: /assets/images/art/aia7.jpg
 permalink: /posts/capturing-knowledge-the-role-of-ai-cameras-in-transforming-education
 ---
 
