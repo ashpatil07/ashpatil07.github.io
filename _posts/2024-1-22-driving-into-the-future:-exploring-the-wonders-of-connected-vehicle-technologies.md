@@ -6,6 +6,7 @@ title: >-
 date: 2024-01-21T18:30:00.000Z
 author: admin
 post_image: /assets/images/art/tb2.webp
+boxed_sidebar: 'true'
 permalink: >-
   /posts/driving-into-the-future-exploring-the-wonders-of-connected-vehicle-technologies
 ---
