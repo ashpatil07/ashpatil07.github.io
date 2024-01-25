@@ -5,7 +5,7 @@ title: >-
   Healthcare
 date: 2024-01-22T18:30:00.000Z
 author: admin
-post_image: /assets/images/art/tb2.webp
+post_image: /assets/images/art/ha8.jpg
 permalink: >-
   /posts/unraveling-insights-the-transformative-power-of-big-data-analytics-in-healthcare
 ---
