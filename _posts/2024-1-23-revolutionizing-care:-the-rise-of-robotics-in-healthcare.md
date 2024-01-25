@@ -4,6 +4,7 @@ title: 'Revolutionizing Care: The Rise of Robotics in Healthcare'
 date: 2024-01-22T18:30:00.000Z
 author: admin
 post_image: /assets/images/art/ha9.jpg
+boxed_sidebar: 'true'
 permalink: /posts/revolutionizing-care-the-rise-of-robotics-in-healthcare
 ---
 
