@@ -25,7 +25,7 @@ permalink: /posts/a-dreamy-roadtrip-in-australia
 <h4>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</h4>
 <p>eleifend hac porta faucibus aliquam eros, massa facilisis, sed pede maecenas porttitor id magnis. Ac sed aliquam in felis amet, adipiscing pede a amet faucibus sit, quis in et ullamcorper vel commodo. Volutpat ut pede sem ipsum non, sapien adipiscing, suspendisse neque, quis dolor donec dolor. Sit voluptatibus, scelerisque in semper lacus nostra, ac integer dolor mauris tempus egett</p>
 
-![Image Using Kramdown](/images/art/a1.webp){:class="img-responsive"}
+![Image Using Kramdown](/images/images/art/a1.webp){:class="img-responsive"}
 
 Accumsan augue ullamcorper eros viverra neque, libero est metus libero. Lacinia wisi feugiat tellus neque dui pellentesque, libero Lorem ipsum dolor sit amet, consectetur adipisicing elit. Suscipit est velit similique laborum, cumque aliquam porro dicta debitis repellat, tempore dignissimos, neque ab fuga voluptatibus. Earum numquam repellat sed perspiciatis ratione explicabo, odit! Repellendus voluptatibus nemo praesentium
 
