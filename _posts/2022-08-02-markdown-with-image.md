@@ -25,7 +25,11 @@ permalink: /posts/post-with-image
 
 ## Image Using Kramdown
 
-![Image Using Kramdown](/images/assets/art/b16.webp){:class="img-responsive"}
+![Image Using Kramdown](/images/assets/art/b16.webp)
+
+![](/images/art/a1.webp)
+
+{:class="img-responsive"}
 
 # H1 Heading
 
