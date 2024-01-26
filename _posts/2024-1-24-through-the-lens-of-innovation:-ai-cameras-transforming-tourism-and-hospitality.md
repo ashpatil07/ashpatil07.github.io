@@ -19,7 +19,7 @@ In the vibrant world of tourism and hospitality, where every guest experience is
 
 ## Image Using Kramdown
 
-![Image Using Kramdown](/images/assets/art/b16.webp){:class="img-responsive"}
+![Image Using Kramdown](/images/assets/images/art/aia16.jpg){:class="img-responsive"}
 
 * AI cameras play a crucial role in ensuring the safety and security of travelers. Strategically placed in hotels, airports, and tourist destinations, these cameras use facial recognition and real-time monitoring to enhance security measures. Guests can enjoy their journey with the assurance that their well-being is prioritized.
 
