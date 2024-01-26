@@ -4,7 +4,7 @@ title: 'Beyond the Vault: How AI Cameras Are Shaping the Future of Banking Secur
 date: 2024-01-23T18:30:00.000Z
 author: admin
 post_image: /assets/images/art/aia11.jpg
-boxed_sidebar: 'true'
+boxed_sidebar: 'false'
 permalink: >-
   /posts/beyond-the-vault-how-ai-cameras-are-shaping-the-future-of-banking-security
 ---
