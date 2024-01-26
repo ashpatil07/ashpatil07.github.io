@@ -88,3 +88,21 @@ In conclusion, in the dynamic landscape of tourism and hospitality, AI cameras a
 * The AI-driven crowd management system at Changi Airport has significantly improved the passenger experience. By preventing overcrowding and optimizing flow, the airport ensures a smoother journey for travelers. The real-time insights provided by the system contribute to efficient operations, demonstrating how AI cameras can be instrumental in enhancing the safety and experience of visitors in high-traffic environments.
 
 ### RESULTS
+
+{% highlight ruby %}
+def bubble\_sort(list)
+return list if list.size \<= 1 # already sorted
+swapped = true
+while swapped do
+swapped = false
+0.upto(list.size-2) do |i|
+if list\[i] > list\[i+1]
+list\[i], list\[i+1] = list\[i+1], list\[i] # swap values
+swapped = true
+end
+end
+end
+
+list
+end
+{% endhighlight %}
