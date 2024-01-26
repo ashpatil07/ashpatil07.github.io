@@ -31,6 +31,8 @@ In the vibrant world of tourism and hospitality, where every guest experience is
 
 ### 2. Contactless Check-In: A Seamless Arrival Experience
 
+![](/images/logo.png)
+
 * In the era of contactless hospitality, AI cameras facilitate smooth check-in processes. Facial recognition technology allows guests to check in without physical contact, creating a seamless and efficient arrival experience. This not only reduces wait times but also aligns with the growing demand for touch-free interactions.
 
 ### 3. Personalized Guest Experiences: Tailoring Hospitality with Insights
