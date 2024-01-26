@@ -21,6 +21,8 @@ In the vibrant world of tourism and hospitality, where every guest experience is
 
 ## Image Using Kramdown
 
+## Image Using Kramdown
+
 ![Image Using Kramdown](/images/assets/images/art/aia16.jpg){:class="img-responsive"}
 
 ![Image Using Kramdown](/images/assets/art/b16.webp)
