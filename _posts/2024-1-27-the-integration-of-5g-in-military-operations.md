@@ -19,6 +19,8 @@ In the pursuit of achieving unprecedented speed, connectivity, and data transfer
 
 ### 2. Network Slicing: Tailoring Networks for Diverse Military Needs
 
+![Image Using Kramdown](/assets/images/art/da1b.png){:class="img-responsive"}
+
 * Explore the concept of network slicing, a unique feature of 5G technology that allows military operators to customize virtual networks for specific applications. Discuss how this flexibility supports diverse military requirements, from mission-critical communications to the connectivity needs of unmanned systems and autonomous vehicles.
 
 ### 3. Edge Computing in Military Deployments: Reducing Latency
