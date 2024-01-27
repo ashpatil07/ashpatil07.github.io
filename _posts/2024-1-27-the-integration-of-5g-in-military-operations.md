@@ -4,6 +4,7 @@ title: "How 5G is Transforming Military Communications and\_Capabilities"
 date: 2024-01-26T18:30:00.000Z
 author: admin
 post_image: /assets/images/art/da06.jpeg
+boxed_sidebar: 'true'
 permalink: /posts/the-integration-of-5g-in-military-operations
 ---
 
@@ -39,8 +40,8 @@ In the pursuit of achieving unprecedented speed, connectivity, and data transfer
 
 * Explore how 5G is catalyzing the growth of the Internet of Military Things (IoMT), connecting a multitude of sensors, devices, and platforms on the battlefield. Discuss the advantages of this interconnected ecosystem, from logistics optimization to the integration of smart surveillance systems and autonomous drones.
 
-![Image Using Kramdown](/assets/images/art/CSSS.png){:class="img-responsive"}
-![Image Using Kramdown](/assets/images/art/CSSS.png){:class="img-responsive"}
+![Image Using Kramdown](/images/assets/art/CSSS.png){:class="img-responsive"}
+![Image Using Kramdown](/images/assets/art/CSSS.png){:class="img-responsive"}
 
 ### Case Study 1: U.S. Department of Defense and 5G Innovation
 
