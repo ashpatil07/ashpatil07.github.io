@@ -3,7 +3,7 @@ layout: post-boxed
 title: 'Guardians of the Road: Understanding Automated Traffic Enforcement'
 date: 2024-01-22T18:30:00.000Z
 author: admin
-post_image: /assets/images/art/tb2.webp
+post_image: /assets/images/art/sra9.jpg
 boxed_sidebar: 'true'
 permalink: /posts/guardians-of-the-road-understanding-automated-traffic-enforcement
 ---
