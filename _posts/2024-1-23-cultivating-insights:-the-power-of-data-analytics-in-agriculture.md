@@ -3,7 +3,7 @@ layout: post-boxed
 title: 'Cultivating Insights: The Power of Data Analytics in Agriculture'
 date: 2024-01-22T18:30:00.000Z
 author: admin
-post_image: /assets/images/art/tb2.webp
+post_image: /assets/images/art/aa5.jpg
 boxed_sidebar: 'true'
 permalink: /posts/cultivating-insights-the-power-of-data-analytics-in-agriculture
 ---
