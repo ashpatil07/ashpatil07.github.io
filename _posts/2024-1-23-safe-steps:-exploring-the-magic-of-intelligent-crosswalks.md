@@ -3,7 +3,7 @@ layout: post-boxed
 title: 'Safe Steps: Exploring the Magic of Intelligent Crosswalks'
 date: 2024-01-22T18:30:00.000Z
 author: admin
-post_image: /assets/images/art/tb2.webp
+post_image: /assets/images/art/sra8.jpg
 boxed_sidebar: 'true'
 permalink: /posts/safe-steps-exploring-the-magic-of-intelligent-crosswalks
 ---
