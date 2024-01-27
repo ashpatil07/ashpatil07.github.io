@@ -3,7 +3,7 @@ layout: post-boxed
 title: 'Harvesting Intelligence: The Impact of AI and Machine Learning in Agriculture'
 date: 2024-01-22T18:30:00.000Z
 author: admin
-post_image: /assets/images/art/tb2.webp
+post_image: /assets/images/art/aa4.jpg
 boxed_sidebar: 'true'
 permalink: >-
   /posts/harvesting-intelligence-the-impact-of-ai-and-machine-learning-in-agriculture
