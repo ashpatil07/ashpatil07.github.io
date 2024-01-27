@@ -4,7 +4,7 @@ title: Smart Surveillance Solutions for Modern Warfare
 date: 2024-01-26T18:30:00.000Z
 author: admin
 post_image: /assets/images/art/da4.jpg
-boxed_sidebar: 'true'
+boxed_sidebar: ''
 permalink: /posts/smart-surveillance-solutions-for-modern-warfare
 ---
 
@@ -40,7 +40,7 @@ In the landscape of modern warfare, intelligence is a cornerstone of strategic a
 
 * Address the ethical considerations surrounding smart surveillance solutions. Discuss concerns related to privacy, data security, and the responsible use of surveillance technologies in military operations. Explore the importance of striking a balance between security imperatives and respecting individual rights.
 
-![Image Using Kramdown](/assets/images/art/css.png){:class="img-responsive"}
+![Image Using Kramdown](/images/assets/art/css.png){:class="img-responsive"}
 
 ### Case Study 1: Project Maven in the United States
 
