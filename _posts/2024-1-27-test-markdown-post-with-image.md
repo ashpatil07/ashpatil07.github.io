@@ -3,7 +3,7 @@ layout: post
 title: >-
   Through the Lens of Innovation: AI Cameras Transforming Tourism and
   Hospitality
-date: 2024-01-26T18:30:00.000Z
+date: 2024-01-25T18:30:00.000Z
 author: admin
 post_image: /assets/images/art/aia16.jpg
 permalink: >-
