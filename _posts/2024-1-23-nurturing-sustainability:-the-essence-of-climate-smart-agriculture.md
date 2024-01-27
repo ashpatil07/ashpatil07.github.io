@@ -3,7 +3,7 @@ layout: post-boxed
 title: 'Nurturing Sustainability: The Essence of Climate-Smart Agriculture'
 date: 2024-01-22T18:30:00.000Z
 author: admin
-post_image: /assets/images/art/aa9.jpg
+post_image: /assets/images/art/
 permalink: /posts/nurturing-sustainability-the-essence-of-climate-smart-agriculture
 ---
 
