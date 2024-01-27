@@ -3,7 +3,7 @@ layout: post-boxed
 title: 'Nurturing Tomorrow''s Harvest: The Art and Science of Precision Farming'
 date: 2024-01-22T18:30:00.000Z
 author: admin
-post_image: /assets/images/art/tb2.webp
+post_image: /assets/images/art/aa2.jpg
 boxed_sidebar: 'true'
 permalink: /posts/nurturing-tomorrow's-harvest-the-art-and-science-of-precision-farming
 ---
