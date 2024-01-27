@@ -5,7 +5,7 @@ title: >-
   Systems
 date: 2024-01-22T18:30:00.000Z
 author: admin
-post_image: /assets/images/art/aa6.jpg
+post_image: /assets/images/art/
 permalink: >-
   /posts/nurturing-growth-the-evolution-of-agriculture-through-smart-irrigation-systems
 ---
