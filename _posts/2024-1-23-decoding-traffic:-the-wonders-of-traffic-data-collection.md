@@ -3,7 +3,7 @@ layout: post-boxed
 title: 'Decoding Traffic: The Wonders of Traffic Data Collection'
 date: 2024-01-22T18:30:00.000Z
 author: admin
-post_image: /assets/images/art/tb2.webp
+post_image: /assets/images/art/sra11.jpg
 boxed_sidebar: 'true'
 permalink: /posts/decoding-traffic-the-wonders-of-traffic-data-collection
 ---
