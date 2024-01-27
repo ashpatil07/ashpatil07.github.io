@@ -3,7 +3,7 @@ layout: post-boxed
 title: "How 5G is Transforming Military Communications and\_Capabilities"
 date: 2024-01-26T18:30:00.000Z
 author: admin
-post_image: /assets/images/art/da6.jpg
+post_image: /assets/images/art/da06.jpeg
 permalink: /posts/the-integration-of-5g-in-military-operations
 ---
 
