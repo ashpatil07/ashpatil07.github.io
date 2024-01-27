@@ -3,7 +3,7 @@ layout: post-boxed
 title: 'Zooming Past Toll Booths: The Simple Magic of Electronic Toll Collection (ETC)'
 date: 2024-01-22T18:30:00.000Z
 author: admin
-post_image: /assets/images/art/tb2.webp
+post_image: /assets/images/art/sra5.jpg
 boxed_sidebar: 'true'
 permalink: >-
   /posts/zooming-past-toll-booths-the-simple-magic-of-electronic-toll-collection-(etc)
