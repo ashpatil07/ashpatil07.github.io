@@ -3,7 +3,7 @@ layout: post-boxed
 title: 'Taking Flight: Drones Transforming Agriculture''s Horizon'
 date: 2024-01-22T18:30:00.000Z
 author: admin
-post_image: /assets/images/art/tb2.webp
+post_image: /assets/images/art/aa3.jpg
 boxed_sidebar: 'true'
 permalink: /posts/taking-flight-drones-transforming-agriculture's-horizon
 ---
