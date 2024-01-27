@@ -32,6 +32,8 @@ In the pursuit of achieving unprecedented speed, connectivity, and data transfer
 
 ### 4. Enhanced Command and Control: 5G's Impact on Military Decision-Making
 
+![Image Using Kramdown](/assets/images/art/da1d.jpg){:class="img-responsive"}
+
 * Examine the role of 5G in transforming command and control structures, facilitating seamless coordination between dispersed military units. Discuss how the high bandwidth and low latency of 5G networks enable commanders to access and analyze real-time data, enhancing their situational awareness and decision-making capabilities.
 
 ### 5. The Internet of Military Things (IoMT): Enabling Interconnected Systems
