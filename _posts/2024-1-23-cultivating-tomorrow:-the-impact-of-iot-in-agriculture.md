@@ -3,7 +3,7 @@ layout: post-boxed
 title: 'Cultivating Tomorrow: The Impact of IoT in Agriculture'
 date: 2024-01-22T18:30:00.000Z
 author: admin
-post_image: /assets/images/art/tb2.webp
+post_image: /assets/images/art/aa1.jpg
 boxed_sidebar: 'true'
 permalink: /posts/cultivating-tomorrow-the-impact-of-iot-in-agriculture
 ---
