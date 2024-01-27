@@ -4,6 +4,7 @@ title: Smart Surveillance Solutions for Modern Warfare
 date: 2024-01-26T18:30:00.000Z
 author: admin
 post_image: /assets/images/art/da4.jpg
+boxed_sidebar: 'true'
 permalink: /posts/smart-surveillance-solutions-for-modern-warfare
 ---
 
@@ -13,19 +14,19 @@ In the landscape of modern warfare, intelligence is a cornerstone of strategic a
 
 ### 1. Advanced Sensor Technologies: The Eyes of Smart Surveillance
 
-![Image Using Kramdown](/assets/images/art/da2a.png){:class="img-responsive"}
+![Image Using Kramdown](/images/assets/art/da2a.png){:class="img-responsive"}
 
 * Delve into the realm of advanced sensor technologies that form the foundation of smart surveillance solutions. Explore innovations in radar systems, infrared imaging, and high-resolution cameras that provide military forces with an unparalleled ability to monitor activities on the ground, at sea, and in the air.
 
 ### 2. Unmanned Aerial Vehicles (UAVs) in Surveillance Operations
 
-![Image Using Kramdown](/assets/images/art/da2b.png){:class="img-responsive"}
+![Image Using Kramdown](/images/assets/art/da2b.png){:class="img-responsive"}
 
 * Investigate the pivotal role of Unmanned Aerial Vehicles (UAVs) in modern surveillance. Discuss how UAVs equipped with sophisticated cameras and sensors enable real-time reconnaissance, surveillance of vast areas, and the ability to gather critical intelligence without risking human lives.
 
 ### 3. Artificial Intelligence in Video Analytics: Enhancing Insight
 
-![Image Using Kramdown](/assets/images/art/da2c.png){:class="img-responsive"}
+![Image Using Kramdown](/images/assets/art/da2c.png){:class="img-responsive"}
 
 * Explore how Artificial Intelligence (AI) transforms raw video data into actionable intelligence through advanced video analytics. Highlight the capabilities of AI-driven algorithms in detecting anomalies, tracking movements, and analyzing patterns, providing military forces with rapid and accurate insights.
 
@@ -35,11 +36,11 @@ In the landscape of modern warfare, intelligence is a cornerstone of strategic a
 
 ### 5. Privacy and Ethical Considerations in Smart Surveillance
 
-![Image Using Kramdown](/assets/images/art/da2d.jpg){:class="img-responsive"}
+![Image Using Kramdown](/images/assets/art/da2d.jpg){:class="img-responsive"}
 
 * Address the ethical considerations surrounding smart surveillance solutions. Discuss concerns related to privacy, data security, and the responsible use of surveillance technologies in military operations. Explore the importance of striking a balance between security imperatives and respecting individual rights.
 
-![Image Using Kramdown](/assets/images/art/css.png){:class="img-responsive"}
+![Image Using Kramdown](/images/assets/art/csss.png){:class="img-responsive"}
 
 ### Case Study 1: Project Maven in the United States
 
