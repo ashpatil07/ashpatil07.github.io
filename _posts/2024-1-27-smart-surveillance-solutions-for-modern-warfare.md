@@ -13,6 +13,8 @@ In the landscape of modern warfare, intelligence is a cornerstone of strategic a
 
 ### 1. Advanced Sensor Technologies: The Eyes of Smart Surveillance
 
+![Image Using Kramdown](/assets/images/art/da2a.png){:class="img-responsive"}
+
 * Delve into the realm of advanced sensor technologies that form the foundation of smart surveillance solutions. Explore innovations in radar systems, infrared imaging, and high-resolution cameras that provide military forces with an unparalleled ability to monitor activities on the ground, at sea, and in the air.
 
 ### 2. Unmanned Aerial Vehicles (UAVs) in Surveillance Operations
