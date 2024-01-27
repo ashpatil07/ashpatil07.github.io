@@ -5,7 +5,7 @@ title: >-
   (ITS)
 date: 2024-01-22T18:30:00.000Z
 author: admin
-post_image: /assets/images/art/tb2.webp
+post_image: /assets/images/art/sra4.jpg
 boxed_sidebar: 'true'
 permalink: >-
   /posts/navigating-the-future-a-simple-guide-to-intelligent-transportation-systems-(its)
