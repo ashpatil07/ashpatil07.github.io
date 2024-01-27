@@ -16,21 +16,9 @@ In the vibrant world of tourism and hospitality, where every guest experience is
 
 ### 1. Smart Security: Safeguarding Travelers with Vigilant Eyes
 
-## Image Using Kramdown
-
-![Image Using Kramdown](/images/assets/images/art/aia16.jpg){:class="img-responsive"}
-
-![Image Using Kramdown](/images/assets/art/b16.webp){:class="img-responsive"}
-
-![](/images/logo.png)
-
 * AI cameras play a crucial role in ensuring the safety and security of travelers. Strategically placed in hotels, airports, and tourist destinations, these cameras use facial recognition and real-time monitoring to enhance security measures. Guests can enjoy their journey with the assurance that their well-being is prioritized.
 
 ### 2. Contactless Check-In: A Seamless Arrival Experience
-
-![](/images/logo.png)
-
-### TEST Img
 
 * In the era of contactless hospitality, AI cameras facilitate smooth check-in processes. Facial recognition technology allows guests to check in without physical contact, creating a seamless and efficient arrival experience. This not only reduces wait times but also aligns with the growing demand for touch-free interactions.
 
