@@ -39,7 +39,7 @@ In the landscape of modern warfare, intelligence is a cornerstone of strategic a
 
 * Address the ethical considerations surrounding smart surveillance solutions. Discuss concerns related to privacy, data security, and the responsible use of surveillance technologies in military operations. Explore the importance of striking a balance between security imperatives and respecting individual rights.
 
-<br>
+![Image Using Kramdown](/assets/images/art/cs.png){:class="img-responsive"}
 
 ## CASE STUDIES
 
