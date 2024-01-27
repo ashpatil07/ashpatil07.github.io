@@ -25,6 +25,8 @@ In the landscape of modern warfare, intelligence is a cornerstone of strategic a
 
 ### 3. Artificial Intelligence in Video Analytics: Enhancing Insight
 
+![Image Using Kramdown](/assets/images/art/da2c.png){:class="img-responsive"}
+
 * Explore how Artificial Intelligence (AI) transforms raw video data into actionable intelligence through advanced video analytics. Highlight the capabilities of AI-driven algorithms in detecting anomalies, tracking movements, and analyzing patterns, providing military forces with rapid and accurate insights.
 
 ### 4. Networked Surveillance: Collaborative Intelligence Sharing
