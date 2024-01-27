@@ -19,6 +19,8 @@ In the landscape of modern warfare, intelligence is a cornerstone of strategic a
 
 ### 2. Unmanned Aerial Vehicles (UAVs) in Surveillance Operations
 
+![Image Using Kramdown](/assets/images/art/da2b.png){:class="img-responsive"}
+
 * Investigate the pivotal role of Unmanned Aerial Vehicles (UAVs) in modern surveillance. Discuss how UAVs equipped with sophisticated cameras and sensors enable real-time reconnaissance, surveillance of vast areas, and the ability to gather critical intelligence without risking human lives.
 
 ### 3. Artificial Intelligence in Video Analytics: Enhancing Insight
