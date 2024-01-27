@@ -13,7 +13,7 @@ In the pursuit of achieving unprecedented speed, connectivity, and data transfer
 
 ### 1. Unparalleled Connectivity: 5G's Quantum Leap in Communication
 
-![Image Using Kramdown](/images/assets/art/slider-bg1.webp){:class="img-responsive"}
+![Image Using Kramdown](/assets/images/art/slider-bg1.webp){:class="img-responsive"}
 
 * Dive into the enhanced connectivity offered by 5G networks, providing military personnel with high-speed, low-latency communication capabilities. Explore how this leap in connectivity is fostering real-time data exchange, enabling rapid decision-making and response in dynamic operational environments.
 
@@ -65,4 +65,4 @@ In the pursuit of achieving unprecedented speed, connectivity, and data transfer
 
 #### Results:
 
-* The 5G-powered smart military base in South Korea has demonstrated advancements in command and control capabilities. The use of 5G facilitates seamless communication, real-time data analysis, and enhanced training experiences through AR applications. This case study exemplifies how 5G contributes to modernizing military infrastructure and operations, ultimately strengthening national defense capabilities.![](/images/logo.png)
+* The 5G-powered smart military base in South Korea has demonstrated advancements in command and control capabilities. The use of 5G facilitates seamless communication, real-time data analysis, and enhanced training experiences through AR applications. This case study exemplifies how 5G contributes to modernizing military infrastructure and operations, ultimately strengthening national defense capabilities.
