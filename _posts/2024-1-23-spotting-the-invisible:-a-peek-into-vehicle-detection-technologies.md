@@ -3,7 +3,7 @@ layout: post-boxed
 title: 'Spotting the Invisible: A Peek into Vehicle Detection Technologies'
 date: 2024-01-22T18:30:00.000Z
 author: admin
-post_image: /assets/images/art/tb2.webp
+post_image: /assets/images/art/sra10.jpg
 boxed_sidebar: 'true'
 permalink: /posts/spotting-the-invisible-a-peek-into-vehicle-detection-technologies
 ---
