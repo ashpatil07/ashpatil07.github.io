@@ -13,8 +13,6 @@ In the pursuit of achieving unprecedented speed, connectivity, and data transfer
 
 ### 1. Unparalleled Connectivity: 5G's Quantum Leap in Communication
 
-![Image Using Kramdown](/assets/images/art/da-1a.jpg){:class="img-responsive"}
-
 * Dive into the enhanced connectivity offered by 5G networks, providing military personnel with high-speed, low-latency communication capabilities. Explore how this leap in connectivity is fostering real-time data exchange, enabling rapid decision-making and response in dynamic operational environments.
 
 ### 2. Network Slicing: Tailoring Networks for Diverse Military Needs
