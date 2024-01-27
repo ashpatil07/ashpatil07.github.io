@@ -35,7 +35,7 @@ In the pursuit of achieving unprecedented speed, connectivity, and data transfer
 
 ### 5. The Internet of Military Things (IoMT): Enabling Interconnected Systems
 
-![Image Using Kramdown](/assets/images/art/da1e.png){:class="img-responsive"}
+![Image Using Kramdown](/assets/images/art/da1ee.png){:class="img-responsive"}
 
 * Explore how 5G is catalyzing the growth of the Internet of Military Things (IoMT), connecting a multitude of sensors, devices, and platforms on the battlefield. Discuss the advantages of this interconnected ecosystem, from logistics optimization to the integration of smart surveillance systems and autonomous drones.
 
