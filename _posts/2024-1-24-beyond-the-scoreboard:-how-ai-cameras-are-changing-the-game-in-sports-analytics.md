@@ -6,7 +6,7 @@ title: >-
 date: 2024-01-23T18:30:00.000Z
 author: admin
 post_image: /assets/images/art/aia10.jpg
-boxed_sidebar: 'true'
+boxed_sidebar: ''
 permalink: >-
   /posts/beyond-the-scoreboard-how-ai-cameras-are-changing-the-game-in-sports-analytics
 ---
