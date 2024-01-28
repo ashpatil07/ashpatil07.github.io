@@ -39,9 +39,8 @@ Crossing the street is a simple act, but it becomes a lot safer and more interes
 In conclusion, Intelligent Crosswalks are the unsung heroes of our daily journeys. They use smart technology to make crossing the street not just safer but also more efficient. With traffic lights that talk, sensors that detect our movements, and helpful countdown timers, these smart crossings ensure that whether we’re walking, strolling, or taking our time, our journey across the road is a safe and pleasant experience. So, next time you see those blinking lights and countdown numbers, know that you’re crossing with the help of a little bit of magic from Intelligent Crosswalks.
 
 </p>
-<br>
 
-## CASE STUDY
+![Image Using Kramdown](/assets/images/art/case.png){:class="img-responsive"}
 
 ### Case Study 1:Singapore's Smart Crosswalks
 
