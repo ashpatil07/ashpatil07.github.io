@@ -32,9 +32,7 @@ In the expansive realm of agriculture, where supply chains span continents and t
 
 * Blockchain technology is fostering a paradigm shift towards ethical and sustainable agriculture. This section explores how Blockchain allows consumers to trace the origin of their food products and verify adherence to sustainability practices. Farmers adhering to environmentally friendly and fair trade practices can showcase their efforts through transparent Blockchain records, creating incentives for sustainable agriculture and meeting the growing demand for ethically sourced produce.
 
-<br>
-
-## CASE STUDIES
+![Image Using Kramdown](/assets/images/art/case.png){:class="img-responsive"}
 
 ### Case Study 1: IBM Food Trust in the Global Food Supply Chain
 
