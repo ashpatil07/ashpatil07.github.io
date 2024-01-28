@@ -32,9 +32,7 @@ In an era where the digital transformation of healthcare is accelerating, blockc
 
 * Blockchain is revolutionizing the landscape of clinical trials by addressing issues of data integrity, transparency, and trust. This section explores how blockchain ensures the immutability of trial data, preventing manipulation and enhancing the credibility of research outcomes. Blockchain’s role in creating transparent, auditable records accelerates the pace of research and development in the healthcare industry.
 
-<br>
-
-## CASE STUDIES
+![Image Using Kramdown](/assets/images/art/case.png){:class="img-responsive"}
 
 ### Case Study 1: MedRec - Blockchain for Electronic Health Records (EHR)
 
