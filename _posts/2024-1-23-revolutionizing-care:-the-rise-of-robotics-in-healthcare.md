@@ -32,9 +32,7 @@ In the era of technological advancement, robotics is transcending traditional bo
 
 * Robotics is becoming a valuable asset in elderly care, addressing the challenges of an aging population. This section explores how robotic companions and assistive devices support the elderly in daily activities, monitor health parameters, and provide companionship. Robotic-assisted elderly care is not a replacement for human touch but a complement, enhancing the overall quality of life for seniors
 
-<br>
-
-## CASE STUDIES
+![Image Using Kramdown](/assets/images/art/case.png){:class="img-responsive"}
 
 ### Case Study 1: da Vinci Surgical System - Revolutionizing Robotic-Assisted Surgery
 
