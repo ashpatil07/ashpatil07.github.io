@@ -32,9 +32,7 @@ In the ever-evolving landscape of agriculture, a silent revolution is taking pla
 
 * Data Analytics extends its influence beyond the fields and into the entire agricultural supply chain. This section explores how data analytics tools help optimize logistics, distribution, and market strategies. By analyzing data on crop yields, demand trends, and transportation efficiencies, farmers can streamline supply chain processes, reduce waste, and ensure that produce reaches consumers efficiently and sustainably.
 
-<br>
-
-## CASE STUDIES
+![Image Using Kramdown](/assets/images/art/case.png){:class="img-responsive"}
 
 ### Case Study 1: The Climate Corporation's Climate FieldView
 
