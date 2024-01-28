@@ -19,28 +19,33 @@ In the pursuit of achieving unprecedented speed, connectivity, and data transfer
 ### 2. Network Slicing: Tailoring Networks for Diverse Military Needs
 
 ![Image Using Kramdown](/images/assets/art/da1baa.png){:class="img-responsive"}
+![Image Using Kramdown](/assets/images/art/da1baa.png){:class="img-responsive"}
 
 * Explore the concept of network slicing, a unique feature of 5G technology that allows military operators to customize virtual networks for specific applications. Discuss how this flexibility supports diverse military requirements, from mission-critical communications to the connectivity needs of unmanned systems and autonomous vehicles.
 
 ### 3. Edge Computing in Military Deployments: Reducing Latency
 
 ![Image Using Kramdown](/images/assets/art/da1c.jpg){:class="img-responsive"}
+![Image Using Kramdown](/assets/images/art/da1c.jpg){:class="img-responsive"}
 
 * Investigate how 5G’s integration with edge computing is reducing latency in military operations. Discuss the advantages of processing data closer to the point of collection, enhancing the efficiency of applications such as real-time surveillance, autonomous vehicles, and augmented reality systems on the battlefield.
 
 ### 4. Enhanced Command and Control: 5G's Impact on Military Decision-Making
 
 ![Image Using Kramdown](/images/assets/art/da1d.jpg){:class="img-responsive"}
+![Image Using Kramdown](/assets/images/art/da1d.jpg){:class="img-responsive"}
 
 * Examine the role of 5G in transforming command and control structures, facilitating seamless coordination between dispersed military units. Discuss how the high bandwidth and low latency of 5G networks enable commanders to access and analyze real-time data, enhancing their situational awareness and decision-making capabilities.
 
 ### 5. The Internet of Military Things (IoMT): Enabling Interconnected Systems
 
 ![Image Using Kramdown](/images/assets/art/da1ee.png){:class="img-responsive"}
+![Image Using Kramdown](/assets/images/art/da1ee.png){:class="img-responsive"}
 
 * Explore how 5G is catalyzing the growth of the Internet of Military Things (IoMT), connecting a multitude of sensors, devices, and platforms on the battlefield. Discuss the advantages of this interconnected ecosystem, from logistics optimization to the integration of smart surveillance systems and autonomous drones.
 
 ![Image Using Kramdown](/images/assets/art/){:class="img-responsive"}
+![Image Using Kramdown](/assets/images/art/C_S.png){:class="img-responsive"}
 
 ### Case Study 1: U.S. Department of Defense and 5G Innovation
 
