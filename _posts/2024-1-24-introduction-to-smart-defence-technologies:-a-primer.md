@@ -32,9 +32,7 @@ In an era defined by rapid technological advancements, defence strategies worldw
 
 * Investigate the symbiotic relationship between smart defence technologies and cybersecurity. Highlight the importance of securing military networks, data, and communication channels in the age of interconnected smart systems.
 
-<br>
-
-## CASE STUDIES
+![Image Using Kramdown](/assets/images/art/case.png){:class="img-responsive"}
 
 ### Case Study 1: United States Department of Defense (DoD) and Project Maven
 
