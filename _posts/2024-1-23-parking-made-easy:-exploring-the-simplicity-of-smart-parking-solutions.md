@@ -39,9 +39,7 @@ Finding a parking spot can be a real challenge, especially during busy times. Bu
 In conclusion, As we navigate our way through bustling city streets and crowded parking lots, Smart Parking Solutions step in as our trusty guides. They simplify the parking process, making it quicker, more convenient, and stress-free. With real-time guidance, mobile apps, and the magic of sensors, finding the perfect parking spot becomes a breeze. So, let’s embrace the simplicity of Smart Parking Solutions – where parking is no longer a challenge but a smart and effortless experience.
 
 </p>
-<br>
-
-## CASE STUDY
+![Image Using Kramdown](/assets/images/art/case.png){:class="img-responsive"}
 
 ### Case Study 1: ParkWhiz in Chicago, USA
 
