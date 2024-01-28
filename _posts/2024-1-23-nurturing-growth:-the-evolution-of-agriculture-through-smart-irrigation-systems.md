@@ -6,6 +6,7 @@ title: >-
 date: 2024-01-22T18:30:00.000Z
 author: admin
 post_image: /assets/images/art/aa9.jpg
+boxed_sidebar: 'true'
 permalink: >-
   /posts/nurturing-growth-the-evolution-of-agriculture-through-smart-irrigation-systems
 ---
@@ -34,9 +35,7 @@ In the quest for sustainable agriculture, the integration of technology has give
 
 * Smart Irrigation extends beyond the boundaries of the field, allowing farmers to remotely monitor and control irrigation systems. This section explores how farmers can use mobile applications or web-based platforms to access real-time data, adjust irrigation settings, and receive alerts. Remote monitoring empowers farmers to manage water resources efficiently, even when they are not physically present on the farm.
 
-<br>
-
-## CASE STUDIES
+![Image Using Kramdown](/assets/images/art/case.png){:class="img-responsive"}
 
 ### Case Study 1: The Climate Corporation's Climate FieldView
 
