@@ -34,7 +34,7 @@ In the vast expanse of agricultural landscapes, a quiet revolution is underway, 
 
 <br>
 
-## CASE STUDIES
+![Image Using Kramdown](/assets/images/art/case.png){:class="img-responsive"}
 
 ### Case Study 1: John Deere - Precision Agriculture with AI Cameras
 
