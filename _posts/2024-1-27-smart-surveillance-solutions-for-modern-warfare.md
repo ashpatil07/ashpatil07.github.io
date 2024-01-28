@@ -40,12 +40,12 @@ In the landscape of modern warfare, intelligence is a cornerstone of strategic a
 ### 5. Privacy and Ethical Considerations in Smart Surveillance
 
 ![Image Using Kramdown](/images/assets/art/da2d.jpg){:class="img-responsive"} <br>
-![Image Using Kramdown](/assets/images/art/CSSS.png){:class="img-responsive"}
+![Image Using Kramdown](/assets/images/art/da2d.jpg){:class="img-responsive"}
 
 * Address the ethical considerations surrounding smart surveillance solutions. Discuss concerns related to privacy, data security, and the responsible use of surveillance technologies in military operations. Explore the importance of striking a balance between security imperatives and respecting individual rights.
 
 ![Image Using Kramdown](/images/assets/art/case.png){:class="img-responsive"} <br>
-![Image Using Kramdown](/assets/images/art/CSSS.png){:class="img-responsive"}
+![Image Using Kramdown](/assets/images/art/case.png){:class="img-responsive"}
 
 ### Case Study 1: Project Maven in the United States
 
