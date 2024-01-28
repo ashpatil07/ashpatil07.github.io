@@ -38,7 +38,7 @@ In the cozy corners of our homes, where comfort meets technology, AI cameras are
 In conclusion, the heart of our homes, AI cameras are not just capturing moments—they are creating an intelligent symphony of comfort, security, and efficiency. From securing your doorstep to monitoring your pet’s antics, these smart lenses are bringing a new level of convenience and control to our living spaces. The future of home automation is illuminated by the watchful eyes of AI cameras, promising a world where our homes are not just spaces but intelligent sanctuaries tailored to our needs and preferences
 </p>
 
-## CASE STUDIES
+![Image Using Kramdown](/assets/images/art/case.png){:class="img-responsive"}
 
 ### Case Study 1: Ring Smart Doorbell - Transforming Home Security
 
