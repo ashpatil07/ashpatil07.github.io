@@ -34,9 +34,7 @@ In an era of technological breakthroughs, countries around the world are harness
 In conclusion, the global landscape of road safety is undergoing a transformative shift with the integration of AI and innovative solutions. As countries tailor these technologies to address their specific challenges, the collective impact is a safer, more efficient, and more inclusive road network. The continued collaboration and exchange of best practices on a global scale promise a future where road safety is a shared commitment, transcending borders for the well-being of all road users.
 </p>
 
-<br>
-
-## CASE STUDIES
+![Image Using Kramdown](/assets/images/art/case.png){:class="img-responsive"}
 
 ### Case Study 1: United Kingdom - Predictive Policing with AI
 
