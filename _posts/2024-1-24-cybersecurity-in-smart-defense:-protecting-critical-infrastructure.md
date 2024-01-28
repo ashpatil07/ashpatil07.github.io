@@ -32,9 +32,7 @@ In an era where military operations are increasingly reliant on interconnected d
 
 * Address the importance of building resilience into smart defense systems to withstand cyber attacks. Discuss strategies such as redundancy, incident response planning, and regular cybersecurity drills to ensure that critical infrastructure remains operational even in the face of cyber threats.
 
-<br>
-
-## CASE STUDIES
+![Image Using Kramdown](/assets/images/art/case.png){:class="img-responsive"}
 
 ### Case Study 1: Stuxnet and Cybersecurity Vulnerabilities in Critical Infrastructure
 
