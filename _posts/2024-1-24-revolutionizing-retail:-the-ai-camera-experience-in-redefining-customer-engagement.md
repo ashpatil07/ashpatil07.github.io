@@ -117,7 +117,7 @@ In conclusion, the fusion of AI cameras with traffic management is propelling us
 
 <br>
 
-## CASE STUDIES
+![Image Using Kramdown](/assets/images/art/case.png){:class="img-responsive"}
 
 ### Case Study 1: Amazon Go - Revolutionizing Checkout Experience
 
