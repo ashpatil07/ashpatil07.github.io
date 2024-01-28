@@ -45,9 +45,8 @@ Reduced Traffic Congestion: With smoother toll transactions, traffic jams around
 In conclusion, the world of travel, Electronic Toll Collection is like a breath of fresh air. It’s a simple yet powerful solution that makes our journeys more efficient and stress-free. As we embrace the convenience of ETC, toll booths become a thing of the past, and our roads transform into seamless pathways, allowing us to focus on the joy of the journey rather than the tolls along the way.
 
 </p>
-<br>
 
-## CASE STUDY
+![Image Using Kramdown](/assets/images/art/case.png){:class="img-responsive"}
 
 ### Case Study 1: The E-ZPass System in the United States
 
