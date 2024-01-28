@@ -39,9 +39,8 @@ As we navigate through busy streets and highways, there’s more happening than 
 In conclusion, Traffic Data Collection is the silent maestro directing the symphony of vehicles on our roads. With sensors counting cars, smart signals keeping the beat, and travel time predictions helping us plan, it ensures our journeys are as smooth as possible. So, next time you breeze through green lights or check a traffic report, know that behind the scenes, Traffic Data Collection is at work, making every trip a well-coordinated dance of vehicles.
 
 </p>
-<br>
 
-## CASE STUDY
+![Image Using Kramdown](/assets/images/art/case.png){:class="img-responsive"}
 
 ### Case Study 1: Singapore's Smart Nation Traffic Management
 
