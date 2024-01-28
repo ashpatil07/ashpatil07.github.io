@@ -41,9 +41,7 @@ In the intricate dance of manufacturing, where precision and efficiency reign su
 In conclusion the symphony of manufacturing, AI cameras are not just observers; they are conductors of precision, efficiency, and quality. As manufacturing processes evolve, these intelligent lenses stand as testimony to the transformative power of technology in shaping the future of production. The era of AI-driven manufacturing is here, promising not only higher standards of quality but also a more efficient and sustainable approach to creating the products that shape our world.
 </p>
 
-<br>
-
-## CASE STUDIES
+![Image Using Kramdown](/assets/images/art/case.png){:class="img-responsive"}
 
 ### Case Study 1: Foxconn - Precision Manufacturing with AI Cameras
 
