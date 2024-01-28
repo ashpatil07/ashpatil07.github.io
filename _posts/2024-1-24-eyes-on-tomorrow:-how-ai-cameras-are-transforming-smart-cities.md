@@ -42,9 +42,7 @@ In the grand tapestry of urban development, the rise of smart cities is marked b
 In conclusion the symphony of urban development, AI cameras are the unseen conductors, orchestrating the harmonious integration of technology, efficiency, and sustainability. As we navigate the intricate paths of smart cities, the watchful eyes of AI cameras pave the way for a future where urban living is not only intelligent but also seamlessly connected and consciously designed.
 </p>
 
-<br>
-
-## CASE STUDIES
+![Image Using Kramdown](/assets/images/art/case.png){:class="img-responsive"}
 
 ### Case Study 1: Singapore - Pioneering Smart Traffic Management with AI Cameras
 
