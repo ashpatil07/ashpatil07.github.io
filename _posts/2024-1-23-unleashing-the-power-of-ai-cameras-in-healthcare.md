@@ -32,9 +32,7 @@ In the dynamic landscape of healthcare, the integration of Artificial Intelligen
 
 * In the era of AI cameras, healthcare organizations are transitioning towards data-driven decision-making. This heading examines how the wealth of visual data processed through Big Data analytics is providing actionable insights for strategic planning, operational optimization, and ultimately shaping the future of healthcare delivery.
 
-<br>
-
-## CASE STUDIES
+![Image Using Kramdown](/assets/images/art/case.png){:class="img-responsive"}
 
 ### Case Study 1: Singapore General Hospital (SGH)-Remote Patient Monitoring
 
