@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-boxed
 title: >-
   Through the Lens of Innovation: AI Cameras Transforming Tourism and
   Hospitality
