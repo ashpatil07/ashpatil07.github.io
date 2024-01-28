@@ -32,9 +32,7 @@ As the demands on global agriculture escalate, a new era is dawning, bringing wi
 
 * Robotics in agriculture generates a wealth of data that can be harnessed for intelligent decision-making. This section explores how robotics, coupled with data analytics, contribute to farm management. From monitoring crop health to assessing soil conditions, robotic systems provide real-time data that empowers farmers to make informed decisions, optimize resource usage, and enhance overall farm productivity.
 
-<br>
-
-## CASE STUDIES
+![Image Using Kramdown](/assets/images/art/case.png){:class="img-responsive"}
 
 ### Case Study 1: Small Robot Company's "Tom" in the United Kingdom
 
