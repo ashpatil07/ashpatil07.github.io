@@ -18,7 +18,7 @@ In the pursuit of achieving unprecedented speed, connectivity, and data transfer
 
 ### 2. Network Slicing: Tailoring Networks for Diverse Military Needs
 
-![Image Using Kramdown](/assets/images/art/da1baa.png){:class="img-responsive"}
+![Image Using Kramdown](/images/assets/art/da1baa.png){:class="img-responsive"}
 
 * Explore the concept of network slicing, a unique feature of 5G technology that allows military operators to customize virtual networks for specific applications. Discuss how this flexibility supports diverse military requirements, from mission-critical communications to the connectivity needs of unmanned systems and autonomous vehicles.
 
@@ -40,7 +40,7 @@ In the pursuit of achieving unprecedented speed, connectivity, and data transfer
 
 * Explore how 5G is catalyzing the growth of the Internet of Military Things (IoMT), connecting a multitude of sensors, devices, and platforms on the battlefield. Discuss the advantages of this interconnected ecosystem, from logistics optimization to the integration of smart surveillance systems and autonomous drones.
 
-![Image Using Kramdown](/images/assets/art/c_s.png){:class="img-responsive"}
+![Image Using Kramdown](/images/assets/art/){:class="img-responsive"}
 
 ### Case Study 1: U.S. Department of Defense and 5G Innovation
 
