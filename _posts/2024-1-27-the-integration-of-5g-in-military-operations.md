@@ -25,8 +25,8 @@ In the pursuit of achieving unprecedented speed, connectivity, and data transfer
 
 ### 3. Edge Computing in Military Deployments: Reducing Latency
 
-![Image Using Kramdown](/images/assets/art/da1c.jpg){:class="img-responsive"}
-![Image Using Kramdown](/assets/images/art/da1c.jpg){:class="img-responsive"}
+![Image Using Kramdown](/images/assets/art/da1cc.jpg){:class="img-responsive"}
+![Image Using Kramdown](/assets/images/art/da1cc.jpg){:class="img-responsive"}
 
 * Investigate how 5G’s integration with edge computing is reducing latency in military operations. Discuss the advantages of processing data closer to the point of collection, enhancing the efficiency of applications such as real-time surveillance, autonomous vehicles, and augmented reality systems on the battlefield.
 
