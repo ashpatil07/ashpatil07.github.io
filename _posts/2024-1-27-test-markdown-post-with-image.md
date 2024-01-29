@@ -52,6 +52,7 @@ In conclusion, in the dynamic landscape of tourism and hospitality, AI cameras a
 </p>
 
 ![Image Using Kramdown](/images/assets/art/case.png){:class="img-responsive"}
+![Image Using Kramdown](/assets/images/art/case.png){:class="img-responsive"}
 
 ### Case Study 1: Marriott International - Contactless Check-In with Mobile Key
 
