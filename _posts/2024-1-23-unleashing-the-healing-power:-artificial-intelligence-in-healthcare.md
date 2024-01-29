@@ -32,9 +32,7 @@ Artificial Intelligence (AI) has become a catalyst for transformative change in 
 
 * Beyond patient care, AI plays a pivotal role in optimizing healthcare operations. This section delves into how AI-driven solutions analyze data related to patient flow, resource utilization, and administrative tasks. By providing actionable insights, AI contributes to efficient resource allocation, streamlined workflows, and enhanced overall operational efficiency within healthcare organizations.
 
-<br>
-
-## CASE STUDIES
+![Image Using Kramdown](/assets/images/art/case.png){:class="img-responsive"}
 
 ### Case Study 1: IBM Watson for Oncology - AI in Precision Cancer Care
 

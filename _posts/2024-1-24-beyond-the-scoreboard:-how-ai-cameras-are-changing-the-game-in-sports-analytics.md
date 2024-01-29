@@ -41,7 +41,7 @@ In the thrilling world of sports, where every move counts, AI cameras are steppi
 In conclusion the fast-paced arena of sports, AI cameras are not just capturing the game—they are rewriting the narrative. From fine-tuning player performances to unraveling intricate game strategies, these intelligent lenses are reshaping the way we perceive and enjoy sports. As technology continues to evolve, the watchful eyes of AI cameras promise a future where every play, every goal, and every victory is illuminated by the insights they bring to the game.
 </p>
 
-## CASE STUDIES
+![Image Using Kramdown](/assets/images/art/case.png){:class="img-responsive"}
 
 ### Case Study 1: NBA's Use of Second Spectrum - Revolutionizing Basketball Analytics
 

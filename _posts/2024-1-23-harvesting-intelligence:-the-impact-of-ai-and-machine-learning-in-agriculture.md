@@ -3,7 +3,7 @@ layout: post-boxed
 title: 'Harvesting Intelligence: The Impact of AI and Machine Learning in Agriculture'
 date: 2024-01-22T18:30:00.000Z
 author: admin
-post_image: /assets/images/art/tb2.webp
+post_image: /assets/images/art/aa4.jpg
 boxed_sidebar: 'true'
 permalink: >-
   /posts/harvesting-intelligence-the-impact-of-ai-and-machine-learning-in-agriculture
@@ -33,9 +33,7 @@ In the age of digital transformation, agriculture is undergoing a technological 
 
 * AI and ML empower farmers with predictive analytics, allowing them to anticipate challenges and make proactive decisions. This section explores how intelligent systems analyze historical data, weather patterns, and market trends to provide insights on optimal planting times, crop rotations, and market conditions. Predictive analytics contribute to strategic farm management, enabling farmers to navigate uncertainties and make informed decisions for a more sustainable and profitable future.
 
-<br>
-
-## CASE STUDY
+![Image Using Kramdown](/assets/images/art/case.png){:class="img-responsive"}
 
 ### Case Study 1: Blue River Technology's See & Spray Robot
 

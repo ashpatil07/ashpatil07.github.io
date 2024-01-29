@@ -39,7 +39,7 @@ In the world of finance, where trust and security are paramount, AI cameras are 
 In the conclusion ever-evolving landscape of banking and finance, AI cameras are not just safeguarding transactions; they are fortifying the pillars of trust and security. From the moment you step into a bank branch to every digital transaction you make, the watchful eyes of AI cameras are ensuring that your financial journey is not just convenient but also shielded by the latest advancements in technology. The future of banking security is being shaped by the unblinking gaze of AI cameras, promising a world where your financial well-being is in safe hands.
 </p>
 
-## CASE STUDIES
+![Image Using Kramdown](/assets/images/art/case.png){:class="img-responsive"}
 
 ### Case Study 1: JPMorgan Chase - AI-Powered Fraud Detection
 

@@ -34,7 +34,7 @@ The vast expanse of outer space poses both opportunities and challenges, and as 
 
 <br>
 
-## CASE STUDIES
+![Image Using Kramdown](/assets/images/art/case.png){:class="img-responsive"}
 
 ### Case Study 1:Space Fence - United States
 

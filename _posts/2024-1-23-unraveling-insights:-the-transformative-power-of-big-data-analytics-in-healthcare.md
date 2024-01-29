@@ -35,9 +35,7 @@ In the dynamic landscape of healthcare, the integration of big data analytics ha
 
 * Big data analytics facilitates predictive analytics in healthcare, allowing for the anticipation and prevention of health issues. This section explores how machine learning models analyze historical data to identify patterns and predict future health trends. By leveraging predictive analytics, healthcare providers can intervene proactively, implement preventive measures, and allocate resources effectively to address emerging health challenges.
 
-<br>
-
-## CASE STUDIES
+![Image Using Kramdown](/assets/images/art/case.png){:class="img-responsive"}
 
 ### Case Study 1: Mount Sinai Health System - Predictive Analytics for Patient Health
 

@@ -41,7 +41,7 @@ In the vast expanse of our planet, where nature thrives and ecosystems intertwin
 In conclusion, a grand tapestry of our planet, AI cameras are not just capturing moments—they are actively contributing to the preservation of our environment. From monitoring air quality to safeguarding wildlife habitats, these intelligent lenses are working tirelessly to ensure that the delicate balance of nature remains intact. The journey toward a sustainable and healthier planet is guided by the watchful eyes of AI cameras, promising a future where environmental monitoring is a key ally in the ongoing quest for a greener and more resilient Earth.
 </p>
 
-## CASE STUDIES
+![Image Using Kramdown](/assets/images/art/case.png){:class="img-responsive"}
 
 ### Case Study 1: Singapore's Smart Nation Initiative - AI-Driven Traffic Management
 

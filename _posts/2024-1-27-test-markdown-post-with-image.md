@@ -1,11 +1,12 @@
 ---
-layout: post
+layout: post-boxed
 title: >-
   Through the Lens of Innovation: AI Cameras Transforming Tourism and
   Hospitality
 date: 2024-01-25T18:30:00.000Z
 author: admin
 post_image: /assets/images/art/aia16.jpg
+boxed_sidebar: 'true'
 permalink: >-
   /posts/through-the-lens-of-innovation-ai-cameras-transforming-tourism-and-hospitality
 ---
@@ -16,33 +17,31 @@ In the vibrant world of tourism and hospitality, where every guest experience is
 
 ### 1. Smart Security: Safeguarding Travelers with Vigilant Eyes
 
-## Image Using Kramdown
-
-![Image Using Kramdown](/images/assets/images/art/aia16.jpg){:class="img-responsive"}
-
-![Image Using Kramdown](/images/assets/art/b16.webp){:class="img-responsive"}
-
-![](/images/logo.png)
+![Image Using Kramdown](/assets/images/art/ai1a.jpg){:class="img-responsive"}
 
 * AI cameras play a crucial role in ensuring the safety and security of travelers. Strategically placed in hotels, airports, and tourist destinations, these cameras use facial recognition and real-time monitoring to enhance security measures. Guests can enjoy their journey with the assurance that their well-being is prioritized.
 
 ### 2. Contactless Check-In: A Seamless Arrival Experience
 
-![](/images/logo.png)
-
-### TEST Img
+![Image Using Kramdown](/assets/images/art/ai1b.jpg){:class="img-responsive"}
 
 * In the era of contactless hospitality, AI cameras facilitate smooth check-in processes. Facial recognition technology allows guests to check in without physical contact, creating a seamless and efficient arrival experience. This not only reduces wait times but also aligns with the growing demand for touch-free interactions.
 
 ### 3. Personalized Guest Experiences: Tailoring Hospitality with Insights
 
+![Image Using Kramdown](/assets/images/art/ai1c.jpg){:class="img-responsive"}
+
 * AI cameras contribute to personalized guest experiences by analyzing preferences and behaviors. Whether in hotels or tourist attractions, these cameras help hospitality providers understand guest preferences, allowing for tailored services and recommendations. From room amenities to tour suggestions, the experience becomes uniquely personalized.
 
 ### 4. Crowd Management: Navigating Popular Destinations with Ease
 
+![Image Using Kramdown](/assets/images/art/ai1d.jpg){:class="img-responsive"}
+
 * In bustling tourist destinations, AI cameras aid in crowd management. By monitoring foot traffic and analyzing crowd patterns, these cameras help authorities optimize public spaces, ensuring a smoother experience for visitors. Real-time data allows for proactive measures to handle crowd density effectively.
 
 ### 5. Virtual Tours: Exploring Destinations from Anywhere
+
+![Image Using Kramdown](/assets/images/art/ai1e.jpg){:class="img-responsive"}
 
 * AI cameras contribute to virtual tourism experiences by capturing high-quality images and videos. Tourists can explore destinations virtually, gaining a preview of attractions before planning a trip. This immersive approach allows potential travelers to make informed decisions about their destinations.
 
@@ -52,7 +51,8 @@ In the vibrant world of tourism and hospitality, where every guest experience is
 In conclusion, in the dynamic landscape of tourism and hospitality, AI cameras are not just documenting journeys—they are shaping the very essence of travel and stay. From ensuring safety to offering personalized experiences, these intelligent lenses are elevating the way we explore and enjoy the world. The future of tourism and hospitality is framed by the watchful eyes of AI cameras, promising a world where every traveler’s story is uniquely captured and celebrated.
 </p>
 
-## CASE STUDIES
+![Image Using Kramdown](/images/assets/art/case.png){:class="img-responsive"}
+![Image Using Kramdown](/assets/images/art/case.png){:class="img-responsive"}
 
 ### Case Study 1: Marriott International - Contactless Check-In with Mobile Key
 

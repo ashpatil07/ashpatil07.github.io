@@ -34,7 +34,7 @@ The evolution of unmanned systems, propelled by advancements in robotics and art
 
 <br>
 
-## CASE STUDIES
+![Image Using Kramdown](/assets/images/art/case.png){:class="img-responsive"}
 
 ### Case Study 1: Predator and Reaper UAVs (United States)
 

@@ -32,9 +32,7 @@ In the ever-evolving landscape of healthcare, the integration of the Internet of
 
 * While IoT brings immense benefits, it also raises concerns about security and privacy in healthcare. This section explores the critical importance of securing IoT devices and networks to safeguard patient data. From encryption methods to stringent access controls, implementing robust security measures is essential to ensure the trustworthiness of IoT applications in healthcare.
 
-<br>
-
-## CASE STUDIES
+![Image Using Kramdown](/assets/images/art/case.png){:class="img-responsive"}
 
 ### Case Study 1: Philips Healthcare - IoT in Remote Patient Monitoring
 

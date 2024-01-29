@@ -3,7 +3,7 @@ layout: post-boxed
 title: 'Smooth Travels: The Magic of Road Condition Monitoring'
 date: 2024-01-22T18:30:00.000Z
 author: admin
-post_image: /assets/images/art/tb2.webp
+post_image: /assets/images/art/sra13.jpg
 permalink: /posts/smooth-travels-the-magic-of-road-condition-monitoring
 ---
 

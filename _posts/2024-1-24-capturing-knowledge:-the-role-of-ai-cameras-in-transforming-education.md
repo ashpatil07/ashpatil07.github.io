@@ -38,9 +38,7 @@ In the dynamic realm of education, where innovation is the key to unlocking brig
 In conclusion the ever-evolving landscape of education, AI cameras are not just capturing moments; they are capturing the essence of transformative learning experiences. As they weave seamlessly into the educational fabric, these lenses hold the promise of creating more engaging, secure, and personalized learning environments for students around the globe. The future of education is being shaped by the watchful eyes of AI cameras, ensuring that knowledge is not just imparted but experienced in its truest form
 </p>
 
-<br>
-
-## CASE STUDIES
+![Image Using Kramdown](/assets/images/art/case.png){:class="img-responsive"}
 
 ### Case Study 1: Furen International School - Smart Classrooms for Enhanced Learning
 

@@ -5,7 +5,7 @@ title: >-
   (ITS)
 date: 2024-01-22T18:30:00.000Z
 author: admin
-post_image: /assets/images/art/tb2.webp
+post_image: /assets/images/art/sra4.jpg
 boxed_sidebar: 'true'
 permalink: >-
   /posts/navigating-the-future-a-simple-guide-to-intelligent-transportation-systems-(its)
@@ -42,9 +42,8 @@ In our fast-paced world, getting from one place to another can sometimes feel li
 In Conclusion, As we embark on the road ahead, Intelligent Transportation Systems are steering us towards a future of smart, connected, and safer travels. From talking traffic lights to roads that adapt to our needs, ITS is transforming the way we experience transportation. It’s not just about reaching our destinations; it’s about enjoying the journey with the assistance of technology that makes our roads more intelligent and responsive. As we embrace the age of ITS, we’re on a highway to a future where our travels are not just about getting there but getting there with ease, efficiency, and a touch of tech magic.
 
 </p>
-<br>
 
-## CASE STUDY
+![Image Using Kramdown](/assets/images/art/case.png){:class="img-responsive"}
 
 ### Case Study 1: SmartCity's ITS Transformation
 

@@ -34,7 +34,7 @@ In the ever-evolving landscape of defense systems, the integration of Artificial
 
 <br>
 
-## CASE STUDIES
+![Image Using Kramdown](/assets/images/art/case.png){:class="img-responsive"}
 
 ### Case Study 1: Project Maven by the United States Department of Defense (DoD)
 

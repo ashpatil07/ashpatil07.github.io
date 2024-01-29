@@ -3,7 +3,7 @@ layout: post-boxed
 title: 'Parking Made Easy: Exploring the Simplicity of Smart Parking Solutions'
 date: 2024-01-22T18:30:00.000Z
 author: admin
-post_image: /assets/images/art/tb2.webp
+post_image: /assets/images/art/sra6.jpg
 boxed_sidebar: 'true'
 permalink: /posts/parking-made-easy-exploring-the-simplicity-of-smart-parking-solutions
 ---
@@ -39,9 +39,7 @@ Finding a parking spot can be a real challenge, especially during busy times. Bu
 In conclusion, As we navigate our way through bustling city streets and crowded parking lots, Smart Parking Solutions step in as our trusty guides. They simplify the parking process, making it quicker, more convenient, and stress-free. With real-time guidance, mobile apps, and the magic of sensors, finding the perfect parking spot becomes a breeze. So, let’s embrace the simplicity of Smart Parking Solutions – where parking is no longer a challenge but a smart and effortless experience.
 
 </p>
-<br>
-
-## CASE STUDY
+![Image Using Kramdown](/assets/images/art/case.png){:class="img-responsive"}
 
 ### Case Study 1: ParkWhiz in Chicago, USA
 

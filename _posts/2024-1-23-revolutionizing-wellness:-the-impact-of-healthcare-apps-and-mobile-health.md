@@ -33,9 +33,7 @@ In an age where smartphones have become integral to our daily lives, healthcare 
 
 * As healthcare apps and mHealth technologies thrive, concerns regarding data security and privacy emerge. This section explores the ethical considerations surrounding the use of health data in mobile applications. It discusses the importance of robust security measures, informed consent, and adherence to privacy regulations to ensure that users’ health information is handled responsibly and transparently.
 
-<br>
-
-## CASE STUDIES
+![Image Using Kramdown](/assets/images/art/case.png){:class="img-responsive"}
 
 ### Case Study 1: Ada Health - Personalized Health Management
 

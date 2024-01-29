@@ -41,7 +41,7 @@ In the vast network of transportation, where every journey counts, AI cameras ar
 In the conclusion ever-moving world of transportation, AI cameras are not just capturing snapshots of the journey—they are shaping the very landscape of how we move. From easing traffic woes to ensuring vehicle safety, the watchful eyes of AI cameras promise a future where transportation is not just a means of getting from A to B, but a seamless, efficient, and safer experience for all. The road ahead is illuminated by the intelligence of AI cameras, steering us toward a future of smarter and more sustainable transportation.
 </p>
 
-## CASE STUDIES
+![Image Using Kramdown](/assets/images/art/case.png){:class="img-responsive"}
 
 ### Case Study 1: Singapore's Smart Nation Initiative - AI-Driven Traffic Management
 

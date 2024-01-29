@@ -35,9 +35,7 @@ In the ever-evolving landscape of healthcare, the integration of telemedicine an
 
 * While telemedicine holds immense promise, there are challenges to widespread adoption. This section discusses barriers such as technological disparities, privacy concerns, and regulatory issues. It also explores strategies to address these challenges, ensuring that the benefits of telemedicine and remote patient monitoring are accessible to all, fostering healthcare equity.
 
-<br>
-
-## CASE STUDIES
+![Image Using Kramdown](/assets/images/art/case.png){:class="img-responsive"}
 
 ### Case Study 1: Teladoc Health - Pioneering Telemedicine Services
 

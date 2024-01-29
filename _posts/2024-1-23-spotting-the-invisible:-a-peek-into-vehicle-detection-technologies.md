@@ -3,7 +3,7 @@ layout: post-boxed
 title: 'Spotting the Invisible: A Peek into Vehicle Detection Technologies'
 date: 2024-01-22T18:30:00.000Z
 author: admin
-post_image: /assets/images/art/tb2.webp
+post_image: /assets/images/art/sra10.jpg
 boxed_sidebar: 'true'
 permalink: /posts/spotting-the-invisible-a-peek-into-vehicle-detection-technologies
 ---
@@ -39,9 +39,7 @@ As we cruise down the roads, there’s more at play than meets the eye. Enter Ve
 in conclusion, While we’re busy enjoying our drive, Vehicle Detection Technologies work quietly in the background, ensuring our journey is smooth and safe. From the hidden loops under the road to the watchful eyes of cameras, these technologies make traffic lights smart, intersections efficient, and our roads a well-orchestrated dance of vehicles. So, next time you approach an intersection or breeze through a toll booth effortlessly, know that the invisible magic of Vehicle Detection Technologies is making it all happen.
 
 </p>
-<br>
-
-## CASE STUDY
+![Image Using Kramdown](/assets/images/art/case.png){:class="img-responsive"}
 
 ### Case Study 1: Sydney's Coordinated Adaptive Traffic System (SCATS)
 

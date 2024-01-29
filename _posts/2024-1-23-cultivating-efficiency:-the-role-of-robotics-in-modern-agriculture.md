@@ -3,7 +3,7 @@ layout: post-boxed
 title: 'Cultivating Efficiency: The Role of Robotics in Modern Agriculture'
 date: 2024-01-22T18:30:00.000Z
 author: admin
-post_image: /assets/images/art/tb2.webp
+post_image: /assets/images/art/aa7.jpg
 boxed_sidebar: 'true'
 permalink: /posts/cultivating-efficiency-the-role-of-robotics-in-modern-agriculture
 ---
@@ -32,9 +32,7 @@ As the demands on global agriculture escalate, a new era is dawning, bringing wi
 
 * Robotics in agriculture generates a wealth of data that can be harnessed for intelligent decision-making. This section explores how robotics, coupled with data analytics, contribute to farm management. From monitoring crop health to assessing soil conditions, robotic systems provide real-time data that empowers farmers to make informed decisions, optimize resource usage, and enhance overall farm productivity.
 
-<br>
-
-## CASE STUDIES
+![Image Using Kramdown](/assets/images/art/case.png){:class="img-responsive"}
 
 ### Case Study 1: Small Robot Company's "Tom" in the United Kingdom
 

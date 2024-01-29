@@ -34,7 +34,7 @@ The evolution of warfare has witnessed a transformative shift towards precision,
 
 <br>
 
-## CASE STUDIES
+![Image Using Kramdown](/assets/images/art/case.png){:class="img-responsive"}
 
 ### Case Study 1: JDAM (Joint Direct Attack Munition) - United States
 

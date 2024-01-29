@@ -3,7 +3,7 @@ layout: post-boxed
 title: 'Guardians of the Road: Understanding Automated Traffic Enforcement'
 date: 2024-01-22T18:30:00.000Z
 author: admin
-post_image: /assets/images/art/tb2.webp
+post_image: /assets/images/art/sra9.jpg
 boxed_sidebar: 'true'
 permalink: /posts/guardians-of-the-road-understanding-automated-traffic-enforcement
 ---
@@ -39,9 +39,7 @@ As we navigate the roads, there are silent guardians in place ensuring safety an
 In conclusion, Automated Traffic Enforcement may be invisible, but its impact on road safety is undeniable. From speed cameras capturing fast moments to red-light cameras ensuring intersections stay safe, these digital guardians play a crucial role in creating a secure and orderly traffic environment. As we drive along, let’s appreciate the silent watchfulness of Automated Traffic Enforcement, working tirelessly to keep our journeys smooth and safeguarded.
 
 </p>
-<br>
-
-## CASE STUDY
+![Image Using Kramdown](/assets/images/art/case.png){:class="img-responsive"}
 
 ### Case Study 1: London's Congestion Charge
 

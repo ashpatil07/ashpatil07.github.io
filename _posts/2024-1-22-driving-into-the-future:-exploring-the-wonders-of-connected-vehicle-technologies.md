@@ -5,7 +5,7 @@ title: >-
   Technologies
 date: 2024-01-21T18:30:00.000Z
 author: admin
-post_image: /assets/images/art/tb2.webp
+post_image: /assets/images/art/sra3.jpg
 boxed_sidebar: 'true'
 permalink: >-
   /posts/driving-into-the-future-exploring-the-wonders-of-connected-vehicle-technologies
@@ -39,7 +39,7 @@ permalink: >-
 In conclusion, As we steer into the future, Connected Vehicle Technologies are transforming the way we travel. No longer just modes of transportation, our cars are becoming smart, communicative partners in our daily journeys. From making our roads safer to enhancing our driving experience, these technologies are driving us into a new era of connected and intelligent transportation. As we embrace this wave of innovation, the road ahead promises not just destinations but exciting, technologically enriched adventures.
 </p>
 
-## CASE STUDY
+![Image Using Kramdown](/assets/images/art/case.png){:class="img-responsive"}
 
 ### Case Study 1: CitySmart's Intelligent Traffic Management with Connected Vehicles
 

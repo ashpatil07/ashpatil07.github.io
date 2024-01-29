@@ -38,9 +38,7 @@ In the heart of healthcare, a silent transformation is taking place, led by the 
 In the tapestry of healthcare, AI cameras are not just observers; they are architects of positive change. From vigilant monitoring to precise diagnostics, these unobtrusive lenses are quietly amplifying the compassion and efficiency of healthcare systems. As we navigate this era of technological transformation, the eyes of innovation—AI cameras—are focused on a future where healthcare is not only advanced but also profoundly human.
 </p>
 
-<br>
-
-## CASE STUDIES
+![Image Using Kramdown](/assets/images/art/case.png){:class="img-responsive"}
 
 ### Case Study 1: Cedars-Sinai Medical Center - Patient Monitoring with AI Cameras
 

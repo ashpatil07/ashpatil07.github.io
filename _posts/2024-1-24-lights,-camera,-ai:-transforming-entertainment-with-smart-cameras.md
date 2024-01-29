@@ -38,7 +38,7 @@ In the dazzling world of entertainment, where every frame tells a story, AI came
 In conclusion, dazzling world of entertainment, AI cameras are not just capturing moments—they are orchestrating a symphony of creativity and innovation. From the silver screen to personal snapshots, these intelligent lenses are transforming the way we experience and create entertainment. The future of entertainment is illuminated by the watchful eyes of AI cameras, promising a world where every frame tells a story and every experience is a masterpiece.
 </p>
 
-## CASE STUDIES
+![Image Using Kramdown](/assets/images/art/case.png){:class="img-responsive"}
 
 ### Case Study 1: Disney's MagicBand - Enhancing Theme Park Entertainment
 

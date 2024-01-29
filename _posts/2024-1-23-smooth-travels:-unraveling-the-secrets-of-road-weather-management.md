@@ -3,7 +3,7 @@ layout: post-boxed
 title: 'Smooth Travels: Unraveling the Secrets of Road Weather Management'
 date: 2024-01-22T18:30:00.000Z
 author: admin
-post_image: /assets/images/art/tb2.webp
+post_image: /assets/images/art/sra7.jpg
 boxed_sidebar: 'true'
 permalink: /posts/smooth-travels-unraveling-the-secrets-of-road-weather-management
 ---
@@ -39,9 +39,8 @@ As we hit the road, we often encounter different weather conditions that can mak
 In conclusion, As we hit the road, Road Weather Management becomes our travel companion, making sure our journeys are safe and stress-free. With sensors, salt, and smart signals, it’s like having a team of weather wizards working to keep our roads in top shape. So, whether raindrops fall or snowflakes dance, Road Weather Management ensures our travels stay smooth, no matter what the weather has in store.
 
 </p>
-<br>
 
-## CASE STUDY
+![Image Using Kramdown](/assets/images/art/case.png){:class="img-responsive"}
 
 ### Case Study 1: Norwegian Public Roads Administration's Winter Road Maintenance
 

@@ -32,9 +32,7 @@ In the age of technological innovation, drones have taken center stage, not just
 
 * In the realm of organ transplantation, drones are rewriting the timeline for organ transport. This section explores how drones are employed to transport organs rapidly, ensuring that time-sensitive medical procedures can be conducted more efficiently. The discussion includes insights into the use of big data analytics to optimize flight routes and enhance the overall success rate of organ transplant procedures.
 
-<br>
-
-## CASE STUDIES
+![Image Using Kramdown](/assets/images/art/case.png){:class="img-responsive"}
 
 ### Case Study 1: Zipline - Drone Delivery of Medical Supplies in Rwanda
 

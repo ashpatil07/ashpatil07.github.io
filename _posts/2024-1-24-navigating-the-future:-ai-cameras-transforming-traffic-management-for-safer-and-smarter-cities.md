@@ -79,9 +79,7 @@ In the bustling arteries of urban landscapes, the integration of artificial inte
 In conclusion, the fusion of AI cameras with traffic management is propelling us toward a future of smarter and safer cities. By harnessing real-time data and automating processes, these technologies not only enhance traffic flow but also contribute to a more sustainable and efficient urban environment. As we navigate this transformative journey, it is crucial to embrace these advancements responsibly, ensuring that the benefits are shared equitably while respecting individual privacy and ethical considerations.
 </p>
 
-<br>
-
-## CASE STUDIES
+![Image Using Kramdown](/assets/images/art/case.png){:class="img-responsive"}
 
 ### Case Study 1: United States - Atlanta's Smart Corridor Project
 

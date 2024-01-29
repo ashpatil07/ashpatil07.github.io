@@ -3,7 +3,7 @@ layout: post-boxed
 title: 'Nurturing Sustainability: The Essence of Climate-Smart Agriculture'
 date: 2024-01-22T18:30:00.000Z
 author: admin
-post_image: /assets/images/art/tb2.webp
+post_image: /assets/images/art/aa8.jpg
 permalink: /posts/nurturing-sustainability-the-essence-of-climate-smart-agriculture
 ---
 
@@ -31,9 +31,7 @@ In the face of escalating climate challenges, agriculture stands at the forefron
 
 * Climate-Smart Agriculture harnesses the power of climate information services to empower farmers with knowledge. This section explores how advanced weather forecasting, satellite imagery, and digital platforms provide farmers with real-time information on climate patterns. Armed with this knowledge, farmers can make informed decisions on planting, harvesting, and resource management, adapting to the dynamic conditions of a changing climate.
 
-<br>
-
-## CASE STUDIES
+![Image Using Kramdown](/assets/images/art/case.png){:class="img-responsive"}
 
 ### Case Study 1: The Sustainable Rice Platform (SRP) in Vietnam
 

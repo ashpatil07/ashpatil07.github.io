@@ -5,7 +5,7 @@ title: >-
   (ITMS)
 date: 2024-01-21T18:30:00.000Z
 author: admin
-post_image: /assets/images/art/tb2.webp
+post_image: /assets/images/art/sra2.jpg
 boxed_sidebar: 'true'
 permalink: >-
   /posts/navigating-smarter-roads-the-magic-of-intelligent-traffic-management-systems-(itms)
@@ -40,8 +40,7 @@ In the hustle and bustle of our daily lives, getting from point A to point B can
 <p>
 In conclusion, the grand play of our daily commutes, Intelligent Traffic Management Systems take the stage as silent heroes. They transform chaos into coordination, predicting problems, and keeping our roads safe and efficient. As technology continues to weave its magic, our journeys become not just about reaching a destination but enjoying the ride on smarter, more intelligent roads. With ITMS, the future of traffic management looks bright, promising us a ticket to smoother, stress-free travels.
 </p>
-<br>
-## CASE STUDY
+![Image Using Kramdown](/assets/images/art/case.png){:class="img-responsive"}
 
 ### Case Study 1: CityZ's ITMS Overhaul:
 

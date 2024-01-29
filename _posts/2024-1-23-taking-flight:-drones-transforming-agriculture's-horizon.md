@@ -3,7 +3,7 @@ layout: post-boxed
 title: 'Taking Flight: Drones Transforming Agriculture''s Horizon'
 date: 2024-01-22T18:30:00.000Z
 author: admin
-post_image: /assets/images/art/tb2.webp
+post_image: /assets/images/art/aa3.jpg
 boxed_sidebar: 'true'
 permalink: /posts/taking-flight-drones-transforming-agriculture's-horizon
 ---
@@ -32,9 +32,7 @@ In the modern landscape of agriculture, a new player has taken to the skies, pro
 
 * Drones not only capture data but also facilitate real-time data analytics. This section explores how the data collected by drones is processed instantly, providing farmers with actionable insights on the go. Real-time analytics enable quick decision-making, allowing farmers to respond promptly to changing field conditions, weather patterns, and emerging challenges, thereby maximizing the efficiency of agricultural operations.
 
-<br>
-
-## CASE STUDY
+![Image Using Kramdown](/assets/images/art/case.png){:class="img-responsive"}
 
 ### Case Study 1: PrecisionHawk's Drones in Vineyard Management
 

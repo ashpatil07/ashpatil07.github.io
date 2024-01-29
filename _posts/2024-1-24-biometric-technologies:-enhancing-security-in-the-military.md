@@ -32,9 +32,7 @@ As the landscape of military security evolves, biometric technologies have emerg
 
 * Explore the application of biometric surveillance for target identification and tracking. Discuss how advanced biometric technologies, including gait analysis and behavioral biometrics, contribute to the identification and tracking of potential threats, enhancing the intelligence and response capabilities of military forces.
 
-<br>
-
-## CASE STUDIES
+![Image Using Kramdown](/assets/images/art/case.png){:class="img-responsive"}
 
 ### Case Study 1: Defense Advanced Research Projects Agency (DARPA) Biometrics Program - United States
 
