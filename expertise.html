@@ -5,10 +5,12 @@ page_header:
   title: "Fields of Expertise"
   sub_title: "We thrive on tailoring cutting-edge strategies to provide clients with the best solutions"
   background_image: "/assets/images/art/bg1.webp"
-simple_header: true
+blogs_area:
+  enable: true
+  title: "News & Updates"
+  posts_number: 6
 ---
 
-<!-- /.wrapper -->
 <div class="wrapper gray-wrapper">
   <div class="container inner">
     <h2 class="section-title mb-40 text-center">Our Fields of Expertise</h2>
@@ -23,9 +25,12 @@ simple_header: true
       <li class="nav-item"> <a class="nav-link" data-toggle="tab" href="#tab4-3">
           <div class="icon icon-svg mb-10"><img src="{{relative_url}}/assets/images/icon/ms-cloud-computing.webp" alt=""></div><span>Drones</span>
         </a> </li>
-      <li class="nav-item"> <a class="nav-link" data-toggle="tab" href="#tab4-4">
-          <div class="icon icon-svg mb-10"><img src="{{relative_url}}/assets/images/icon/sm-setting.webp" alt=""></div><span>Software</span>
-        </a> </li>
+        <li class="nav-item"> <a class="nav-link" data-toggle="tab" href="#tab4-4">
+            <div class="icon icon-svg mb-10"><img src="{{relative_url}}/assets/images/icon/sm-setting.webp" alt=""></div><span>Software</span>
+          </a> </li>
+          <li class="nav-item"> <a class="nav-link" data-toggle="tab" href="#tab4-4">
+              <div class="icon icon-svg mb-10"><img src="{{relative_url}}/assets/images/icon/sm-setting.webp" alt=""></div><span>Public Policies</span>
+            </a> </li>
     </ul>
     <!-- /.nav-tabs -->
     <div class="space30 d-none d-md-block"></div>
@@ -127,4 +132,38 @@ simple_header: true
   </div>
   <!-- /.container -->
 </div>
+
+{% if page.blogs_area.enable %}
+<div class="wrapper light-wrapper">
+  <div class="container inner">
+    {% if page.blogs_area.title %}
+    <h2 class="section-title text-uppercase text-center mb-40">{{page.blogs_area.title}}</h2>
+    {% endif %}
+    <div class="grid-view">
+      <div class="carousel owl-carousel blog-posts" data-margin="30" data-dots="true" data-autoplay="false" data-autoplay-timeout="5000" data-responsive='{"0":{"items": "1"}, "768":{"items": "2"}, "992":{"items": "3"}}'>
+          {% for post in site.posts limit: page.blogs_area.posts_number %}
+        <div class="item">
+          <figure class="overlay overlay1 rounded mb-30">
+            {% if post.post_image %}
+              <a href="{{post.url}}"><img src="{{post.post_image}}" class="post-thumb" alt="{{post.title}}"/></a>
+            {% endif %}
+            <figcaption>
+              <h5 class="from-top mb-0">Read More</h5>
+            </figcaption>
+          </figure>
+          <div class="category">
+            <a href="/category/{{post.categories[0] | slugify}}" class="badge rounded-pill {{post.badge_color}} ">{{post.categories[0]}}</a>
+          </div>
+          <h2 class="post-title"><a href="{{post.url}}">{{post.title}}</a></h2>
+          <div class="meta mb-0"><span class="date"><i class="jam jam-clock"></i> {{post.date | date_to_string}}</span></div>
+        </div>
+        {% endfor %}
+      </div>
+      <!-- /.owl-carousel -->
+    </div>
+    <!-- /.grid-view -->
+  </div>
+  <!-- /.container -->
+</div>
 <!-- /.wrapper -->
+{% endif %}

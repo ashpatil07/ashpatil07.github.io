@@ -6,14 +6,30 @@ main_menu:
 
   - text: "Our Divisions"
     url: "/"
-    menu_type: "simple"
+    menu_type: "dropdown"
+    level_one:
+          - text: "Services"
+            url: "/services/index-2"
+
+          - text: "Smart Road"
+            url: "/smart-roads"
+
+          - text: "Agriculture"
+            url: "/agriculture"
+
+          - text: "Health"
+            url: "/health"
+
+          - text: "Defence"
+            url: "/defence"
+
 
   - text: "Expertise Areas"
-    url: "/"
+    url: "/expertise"
     menu_type: "simple"
 
   - text: "About Us"
-    url: "/"
+    url: "/about/about-3"
     menu_type: "simple"
 
   - text: "Blog"
