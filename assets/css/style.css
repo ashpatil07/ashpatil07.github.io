@@ -485,7 +485,7 @@ canvas {
     -o-transition: all 0.3s;
     transition: all 0.3s;
     -webkit-transform: translateZ();
-    height: auto;
+    height: 60px;
     width: auto;
     max-width: none;
 }
