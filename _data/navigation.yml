@@ -9,7 +9,7 @@ main_menu:
     menu_type: "dropdown"
     level_one:
           - text: "Services"
-            url: "/services/index-2"
+            url: "/services"
 
           - text: "Smart Road"
             url: "/smart-roads"
@@ -29,7 +29,7 @@ main_menu:
     menu_type: "simple"
 
   - text: "About Us"
-    url: "/about/about-3"
+    url: "/about-us"
     menu_type: "simple"
 
   - text: "Blog"
