@@ -35,3 +35,7 @@ main_menu:
   - text: "Blog"
     url: "/blogs/index"
     menu_type: "simple"
+
+  - text: "Contact Us"
+    url: "/contact"
+    menu_type: "simple"
