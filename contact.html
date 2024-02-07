@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-2
 title: "Contact Us"
 sub_title: |
   Aenean lacinia bibendum nulla sed consectetur
@@ -9,38 +9,38 @@ white_menu: true
 contact_info:
   enable: true
   contact_data:
-    - icon: "/assets/images/icons/ui-gps.webp"
-      info: "Moon Street Light Avenue<br> 14/05 Jupiter, JP 80630"
+    - icon: "/assets/images/icon/ui-gps.webp"
+      info: "No. 4-28/36/1, Kandi, Saraswati Temple Kandi,<br>Sangareddy Medak 502285 Telangana"
 
-    - icon: "/assets/images/icons/co-telephone.webp"
-      info: "00 (123) 456 78 90<br/> 00 (987) 654 32 10"
+    - icon: "/assets/images/icon/co-telephone.webp"
+      info: "+91 9663089241"
 
-    - icon: "/assets/images/icons/co-email-5.webp"
+    - icon: "/assets/images/icon/co-email-5.webp"
       info:
-      - "manager@email.com <br/>"
-      - "asistant@email.com"
+      - "info@vishvena.com <br/>"
+      - "team@vishvena.com"
 
 contact_form:
   enable: true
-  title: "Request Photography Pricing"
+  title: "Get in Touch"
   sub_title: "For more information please get in touch using the form below:"
-  action_email: "tortoizthemes@gmail.com"
+  action_email: "info@vishvena.com"
   bg_image: "/assets/images/art/bg20.webp"
-  forms_data: 
+  forms_data:
 
     - field_type: "input"
       field_name: "user_first_name"
-      placeholder: "First Name" 
+      placeholder: "First Name"
       error_message: "First Name Is required"
 
     - field_type: "input"
       field_name: "user_last_name"
-      placeholder: "Last Name" 
+      placeholder: "Last Name"
       error_message: "Last Name Is required"
 
     - field_type: "input"
       field_name: "user_phone"
-      placeholder: "Phone Number" 
+      placeholder: "Phone Number"
       error_message: "Phone Number Is required"
 
     - field_type: "input"
@@ -54,10 +54,9 @@ contact_form:
       error_message: "Message Is required"
 
 google_maps:
-  enable: true
-  
+  enable: false
+
 ---
 
 {% include contact/contact-info.html %}
 {% include contact/contact-2.html %}
-{% include contact/gmap.html %}

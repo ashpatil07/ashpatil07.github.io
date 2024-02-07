@@ -1484,7 +1484,7 @@ footer.dark-wrapper,
     position: relative;
 }
 .image-wrapper:not(.mobile) {
-    background-attachment: fixed !important
+    /*background-attachment: fixed !important*/
 }
 .image-wrapper.bg-auto {
     background-size: auto;
