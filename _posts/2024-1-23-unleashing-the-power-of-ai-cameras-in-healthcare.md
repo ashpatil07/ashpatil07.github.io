@@ -3,7 +3,7 @@ layout: post-boxed
 title: Unleashing the Power of AI Cameras in Healthcare
 date: 2024-01-22T18:30:00.000Z
 author: admin
-post_image: /assets/images/art/ha1.jpg
+post_image: /assets/images/art/ha1.webp
 boxed_sidebar: 'true'
 permalink: /posts/unleashing-the-power-of-ai-cameras-in-healthcare
 ---
@@ -32,7 +32,9 @@ In the dynamic landscape of healthcare, the integration of Artificial Intelligen
 
 * In the era of AI cameras, healthcare organizations are transitioning towards data-driven decision-making. This heading examines how the wealth of visual data processed through Big Data analytics is providing actionable insights for strategic planning, operational optimization, and ultimately shaping the future of healthcare delivery.
 
-![Image Using Kramdown](/assets/images/art/case.png){:class="img-responsive"}
+<br>
+
+## CASE STUDIES
 
 ### Case Study 1: Singapore General Hospital (SGH)-Remote Patient Monitoring
 
