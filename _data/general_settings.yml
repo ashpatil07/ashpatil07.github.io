@@ -42,26 +42,26 @@ social_accounts:
     - url: "#"
       icon: "jam jam-twitter"
 
-    - url: "#"
+    - url: "https://www.facebook.com/vishvena/"
       icon: "jam jam-facebook"
 
-    - url: "#"
+    - url: "https://www.instagram.com/vishvena_official/"
       icon: "jam jam-instagram"
 
-    - url: "#"
+    - url: "https://www.youtube.com/@vishvena"
       icon: "jam jam-youtube"
 
-    - url: "#"
+    - url: "https://www.pinterest.com/vishvenatech/"
       icon: "jam jam-pinterest"
 
 external_links:
   title: "Quick Links"
   links:
-    - url: "#"
+    - url: "https://www.vishvena.com/about-us"
       text: "About Us"
-    - url: "#"
+    - url: "https://www.vishvena.com/expertise"
       text: "Expertise Area"
-    - url: "#"
+    - url: "https://www.vishvena.com/services"
       text: "Services"
 
 
@@ -73,7 +73,7 @@ external_links_02:
       text: "Careers"
     - url: "#"
       text: "Privacy Policy"
-    - url: "#"
+    - url: "https://www.vishvena.com/contact"
       text: "Contact Us"
     - url: "#"
       text: "Terms of Use"
