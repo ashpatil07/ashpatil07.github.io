@@ -55,27 +55,24 @@ social_accounts:
       icon: "jam jam-pinterest"
 
 external_links:
-  title: "Learn More"
+  title: "Quick Links"
   links:
     - url: "#"
       text: "About Us"
     - url: "#"
-      text: "Our Story"
+      text: "Expertise Area"
     - url: "#"
-      text: "Projects"
-    - url: "#"
-      text: "Pricing"
-    - url: "#"
-      text: "Features"
+      text: "Services"
+
 
 
 external_links_02:
-  title: "Need Help?"
+  title: "Learn More"
   links:
     - url: "#"
-      text: "Support"
+      text: "Careers"
     - url: "#"
-      text: "Get Started"
+      text: "Privacy Policy"
     - url: "#"
       text: "Contact Us"
     - url: "#"
