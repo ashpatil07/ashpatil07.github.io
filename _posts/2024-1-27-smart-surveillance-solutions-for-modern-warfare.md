@@ -14,19 +14,19 @@ In the landscape of modern warfare, intelligence is a cornerstone of strategic a
 
 ### 1. Advanced Sensor Technologies: The Eyes of Smart Surveillance
 
-![Image Using Kramdown](/assets/images/art/da2a.webp){:class="img-responsive"}
+<!-- ![Image Using Kramdown](/assets/images/art/da2a.webp){:class="img-responsive"} -->
 
 * Delve into the realm of advanced sensor technologies that form the foundation of smart surveillance solutions. Explore innovations in radar systems, infrared imaging, and high-resolution cameras that provide military forces with an unparalleled ability to monitor activities on the ground, at sea, and in the air.
 
 ### 2. Unmanned Aerial Vehicles (UAVs) in Surveillance Operations
 
-![Image Using Kramdown](/assets/images/art/da2b.webp){:class="img-responsive"}
+<!-- ![Image Using Kramdown](/assets/images/art/da2b.webp){:class="img-responsive"} -->
 
 * Investigate the pivotal role of Unmanned Aerial Vehicles (UAVs) in modern surveillance. Discuss how UAVs equipped with sophisticated cameras and sensors enable real-time reconnaissance, surveillance of vast areas, and the ability to gather critical intelligence without risking human lives.
 
 ### 3. Artificial Intelligence in Video Analytics: Enhancing Insight
 
-![Image Using Kramdown](/assets/images/art/da2c.webp){:class="img-responsive"}
+<!-- ![Image Using Kramdown](/assets/images/art/da2c.webp){:class="img-responsive"} -->
 
 * Explore how Artificial Intelligence (AI) transforms raw video data into actionable intelligence through advanced video analytics. Highlight the capabilities of AI-driven algorithms in detecting anomalies, tracking movements, and analyzing patterns, providing military forces with rapid and accurate insights.
 
@@ -36,11 +36,11 @@ In the landscape of modern warfare, intelligence is a cornerstone of strategic a
 
 ### 5. Privacy and Ethical Considerations in Smart Surveillance
 
-![Image Using Kramdown](/assets/images/art/da2d.webp){:class="img-responsive"}
+<!-- ![Image Using Kramdown](/assets/images/art/da2d.webp){:class="img-responsive"} -->
 
 * Address the ethical considerations surrounding smart surveillance solutions. Discuss concerns related to privacy, data security, and the responsible use of surveillance technologies in military operations. Explore the importance of striking a balance between security imperatives and respecting individual rights.
 
-![Image Using Kramdown](/assets/images/art/case.webp){:class="img-responsive"}
+<!-- ![Image Using Kramdown](/assets/images/art/case.webp){:class="img-responsive"} -->
 
 ### Case Study 1: Project Maven in the United States
 
@@ -55,8 +55,6 @@ In the landscape of modern warfare, intelligence is a cornerstone of strategic a
 #### Results:
 
 * Project Maven demonstrated the effectiveness of smart surveillance solutions in augmenting military capabilities. By harnessing the power of AI in video analytics, the project significantly improved the efficiency of processing and interpreting complex visual data. The success of Project Maven showcases how smart surveillance, coupled with artificial intelligence, enhances situational awareness and decision-making in defense operations
-
-<br>
 
 ### Case Study 2: Israel's Employment of Advanced Surveillance Systems
 
