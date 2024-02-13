@@ -51,6 +51,8 @@ social_accounts:
     - url: "#"
       icon: "jam jam-youtube"
 
+    - url: "#"
+      icon: "jam jam-pinterest"
 
 external_links:
   title: "Learn More"

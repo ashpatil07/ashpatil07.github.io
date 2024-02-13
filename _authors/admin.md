@@ -15,4 +15,6 @@ social_accounts:
     url: "#"
   - icon: "jam jam-instagram"
     url: "#"
+  - icon: "jam jam-youtube"
+    url: "#"
 ---
