@@ -39,7 +39,7 @@ google_map: |
 social_accounts:
   title: "Follow Us"
   links:
-    - url: "https://twitter.com/VishvenaS32111"
+    - url: "https://twitter.com/vishvenatech"
       icon: "jam jam-twitter"
 
     - url: "https://www.facebook.com/vishvena/"
