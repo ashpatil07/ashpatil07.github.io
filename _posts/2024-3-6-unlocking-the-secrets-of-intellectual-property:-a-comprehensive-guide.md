@@ -75,3 +75,4 @@ Understanding and protecting your [intellectual property](https://www.vishvena.c
 [*Intellectual property*](https://www.vishvena.com/about-us), patents, trademarks, copyright, trade secrets, protection, innovation, brand reputation
 </dd>
 </dl>
+[I'm an inline-style link](https://www.google.com)
