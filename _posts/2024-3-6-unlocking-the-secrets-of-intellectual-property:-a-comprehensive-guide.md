@@ -27,7 +27,7 @@ permalink: /posts/unlocking-the-secrets-of-intellectual-property-a-comprehensive
 
 <dl>
   <dt>What is Intellectual Property?</dt>
-  <dd>Intellectual property (IP) refers to creations of the mind, such as inventions, literary and artistic works, designs, symbols, names, and images used in commerce. It is divided into two categories: industrial property (patents, trademarks, industrial designs) and copyright (literary and artistic works).</dd>
+  <dd>[Intellectual property](https://www.vishvena.com/) refers to creations of the mind, such as inventions, literary and artistic works, designs, symbols, names, and images used in commerce. It is divided into two categories: industrial property (patents, trademarks, industrial designs) and copyright (literary and artistic works).</dd>
 </dl> 
 
 <dl>
