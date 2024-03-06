@@ -18,4 +18,4 @@ permalink: /posts/unlocking-the-secrets-of-intellectual-property-a-comprehensive
   <dd>4.	Importance of Intellectual Property</dd>
   <dd>5.	How to Protect Your Intellectual Property</dd>
   <dd>6.	Conclusion</dd>
-</dl>
+</dl> 
