@@ -130,8 +130,23 @@ gallery:
   - img: "/assets/images/art/z7.svg"
   - img: "/assets/images/art/z8.svg"
   
-  
-services:
+
+Home_services:
+  links:
+    - text: "AI Cameras"
+      url: "#ai-cameras"
+    - text: "Internet of Things"
+      url: "#internet-of-things"
+    - text: "Artificial Intelligance"
+      url: "#artificial-intelligence"
+    - text: "Smart Roads"
+      url: "#smart-roads"
+    - text: "Agriculture"
+      url: "#agriculture"
+    - text: "Health"
+      url: "#health"
+
+services_page:
   links:
     - text: "AI Cameras"
       url: "#ai-cameras"
