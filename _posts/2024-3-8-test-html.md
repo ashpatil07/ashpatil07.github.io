@@ -115,3 +115,11 @@ Summarize the key points discussed in your article. \[You]\(([https://openai.com
 
 If you've referenced any sources in your article, list them here.
 [OpenAI's website](https://openai.com "OpenAI")
+
+## Section 3: Adding an Image
+
+Here is an image in the middle of the article:
+
+<img src="/assets/images/art/ip1.webp" alt="Image Description" style="max-width:100%; height:auto;">
+
+Continue with your article after the image.
