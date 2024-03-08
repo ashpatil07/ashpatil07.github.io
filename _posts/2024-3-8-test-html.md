@@ -8,7 +8,7 @@ boxed_sidebar: ''
 permalink: /posts/genius-ways-to-protect-your-intellectual-property
 ---
 
-<html lang="en">
+<html>
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -17,7 +17,7 @@ permalink: /posts/genius-ways-to-protect-your-intellectual-property
 </head>
 <body>
 
-```html
+```
 <nav>
     <h2>Table of Contents</h2>
     <ul>
@@ -98,7 +98,7 @@ permalink: /posts/genius-ways-to-protect-your-intellectual-property
 <article>
     <section id="introduction">
         <h2>Introduction</h2>
-        <p>Provide an introduction to your topic. This should briefly explain what your article is about and why it's important or interesting.</p>
+        <p>In the present advanced age, protecting your <a href="https://www.vishvena.com/"><b>Intellectual Property<b></a> is more urgent than any other time in recent memory. Whether you're a sprouting business visionary, a carefully prepared innovator, or a laid out entrepreneur, safeguarding your imaginative thoughts and developments is fundamental for keeping up with your strategic advantage and protecting your well deserved resources. The following are seven virtuoso ways of invigorating your :</p>
     </section>
 
     <section id="main-section">
