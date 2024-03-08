@@ -17,7 +17,7 @@ permalink: /posts/genius-ways-to-protect-your-intellectual-property
 </head>
 <body>
 
-```
+```html
 <nav>
     <h2>Table of Contents</h2>
     <ul>
