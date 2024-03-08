@@ -8,8 +8,6 @@ boxed_sidebar: ''
 permalink: /posts/test-html
 ---
 
-<!DOCTYPE html>
-
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -65,7 +63,7 @@ permalink: /posts/test-html
         <section>
             <h2>Adding an Image</h2>
             <p>Here is an image in the middle of the article:</p>
-            <img src="image_url" alt="Description of the image">
+            <img src="/assets/images/art/ip1.webp" alt="Description of the image">
             <p>Continue with your article after the image.</p>
         </section>
         <section>
