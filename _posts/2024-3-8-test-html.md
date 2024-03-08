@@ -109,7 +109,7 @@ permalink: /posts/genius-ways-to-protect-your-intellectual-property
 		<section id="subsection-2">
             <h3>Subsection 2</h3>
             <p>This subsection includes a text link: <a href="https://example.com">Example Link</a>. You can add more text links throughout your article.</p>
-            <p>Here is an image in the middle of the article: <img src="/assets/images/art/ip1.webp" alt="Description of the image" style="max-width:100%; height:auto;"></a></p>
+            <p>Here is an image in the middle of the article: <img src="/assets/images/art/ip1.webp" alt="Description of the image" style="max-width:100%; height:auto;"></p>
             <p>Continue with your article after the image.</p>
         </section>
    
