@@ -16,12 +16,8 @@ permalink: /posts/genius-ways-to-protect-your-intellectual-property
     <meta name="description" content="Brief description of your article for search engines">
 </head>
 <body>
-    <header>
-        <h1>Genius Ways to Protect Your  Intellectual Property</h1>
-        <p>Published on March 8, 2024 by Goutham</p>
-    </header>
 
-```html
+```
 <nav>
     <h2>Table of Contents</h2>
     <ul>
