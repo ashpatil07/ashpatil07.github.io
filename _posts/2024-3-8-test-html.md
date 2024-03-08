@@ -21,7 +21,7 @@ permalink: /posts/genius-ways-to-protect-your-intellectual-property
         <p>Published on March 8, 2024 by Goutham</p>
     </header>
 
-```
+```html
 <nav>
     <h2>Table of Contents</h2>
     <ul>
