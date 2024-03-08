@@ -68,7 +68,7 @@ permalink: /posts/test-html
         </section>
         <section>
             <h2>Conclusion</h2>
-            <p>Summarize the key points discussed in your article.</p>
+            <p>Summarize the key points discussed in your <a href="https://www.google.com">GOUTHAM</a> article.</p>
         </section>
         <footer>
             <p>&copy; 2024 Your Website Name. All rights reserved.</p>
