@@ -109,8 +109,9 @@ Continue discussing the second main point.
 
 ## Conclusion
 
-Summarize the key points discussed in your article. You can also provide any final thoughts or recommendations here.
+Summarize the key points discussed in your article. \[You]\(([https://openai.com](https://openai.com) "OpenAI") can also provide any final thoughts or recommendations here.
 
 ## References
 
 If you've referenced any sources in your article, list them here.
+[OpenAI's website](https://openai.com "OpenAI")
