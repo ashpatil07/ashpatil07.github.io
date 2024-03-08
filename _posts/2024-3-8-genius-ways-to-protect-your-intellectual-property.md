@@ -49,7 +49,7 @@ permalink: /posts/genius-ways-to-protect-your-intellectual-property
     </section>
 
 	<img src="/assets/images/art/ip2.webp" alt="Register Your Intellectual Property" style="max-width:100%; height:auto;">
-    <br>
+    <br><br>
 	
     <section id="1.Register Your Intellectual Property">
         <h2>1.Register Your Intellectual Property</h2>
