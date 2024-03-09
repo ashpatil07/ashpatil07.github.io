@@ -14,7 +14,7 @@ permalink: /posts/genius-ways-to-protect-your-intellectual-property
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Genius Ways to Safeguard Your Intellectual Property: A Comprehensive Guide - Vishvena</title>
+    <title>Genius Ways to Protect Your Intellectual Property - Vishvena</title>
     <meta name="description" content="Brief description of your article for search engines">
 </head>
 <body>
