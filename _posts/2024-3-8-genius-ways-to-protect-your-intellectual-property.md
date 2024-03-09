@@ -8,6 +8,8 @@ boxed_sidebar: ''
 permalink: /posts/genius-ways-to-protect-your-intellectual-property
 ---
 
+###### Category: Intellectual Property
+
 <html>
 <head>
     <meta charset="UTF-8">
