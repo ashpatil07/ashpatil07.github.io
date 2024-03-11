@@ -15,7 +15,8 @@
       <div class="ms-auto">
         <ul class="social social-mute social-s ms-auto text-right">
           {% for social_links in site.data.general_settings.social_accounts.links %}
-          <li><a href="{{social_links.url}}"><i class="{{social_links.icon}}"></i></a></li>
+          
+		  <li><a href="{{social_links.url}}" target="_blank"><i class="{{social_links.icon}}"></i></a></li>
           {% endfor %}
         </ul>
       </div>
