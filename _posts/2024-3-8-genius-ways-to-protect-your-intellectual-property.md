@@ -14,7 +14,7 @@ permalink: /posts/genius-ways-to-protect-your-intellectual-property
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Genius Ways to Protect Your Intellectual Property</title>
+    <title><h1>Genius Ways to Protect Your Intellectual Property</h1></title>
     <meta name="description" content="Discover expert strategies to safeguard your Intellectual Property in the digital age. Learn how to register, protect, and maximize its value.">
 </head>
 <body>
