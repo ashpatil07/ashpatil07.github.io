@@ -1,6 +1,6 @@
 ---
 layout: post-boxed
-title: The Value of Patents: Safeguarding Your Ideas for Business Success
+title: The Value of Patents-Safeguarding Your Ideas for Business Success
 meta_description: |
   Unlock the potential of your business with patents. Safeguard your ideas, drive innovation, and gain a competitive edge in the market.
 date: 2024-03-07T18:30:00.000Z
@@ -16,7 +16,7 @@ permalink: /posts/the-value-of-patents-safeguarding-your-ideas-for-business-succ
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title><h1>The Value of Patents: Safeguarding Your Ideas for Business Success</h1></title>
+    <title><h1>The Value of Patents-Safeguarding Your Ideas for Business Success</h1></title>
     <meta name="description" content="Unlock the potential of your business with patents. Safeguard your ideas, drive innovation, and gain a competitive edge in the market.">
 	<!-- Canonical Tag -->
     <link rel="canonical" href="https://www.vishvena.com/posts/the-value-of-patents-safeguarding-your-ideas-for-business-success">
