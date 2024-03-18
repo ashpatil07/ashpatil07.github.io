@@ -19,7 +19,7 @@ permalink: /posts/genius-ways-to-protect-your-intellectual-property
     <title><h1>Genius Ways to Protect Your Intellectual Property</h1></title>
     <meta name="description" content="Discover expert strategies to safeguard your Intellectual Property in the digital age. Learn how to register, protect, and maximize its value.">
 	<!-- Canonical Tag -->
-    <link rel="canonical" href="#">
+    <link rel="canonical" href="https://www.vishvena.com/posts/genius-ways-to-protect-your-intellectual-property">
 </head>
 <body>
 
