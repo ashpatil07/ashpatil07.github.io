@@ -29,10 +29,7 @@ permalink: /posts/the-value-of-patents-safeguarding-your-ideas-for-business-succ
 		<li><a href="#2.Benefits of Patenting Your Ideas">2.Benefits of Patenting Your Ideas</a></li>
 		<li><a href="#3.Strategies for Leveraging Patents Effectively">3.Strategies for Leveraging Patents Effectively</a></li>
 		<li><a href="#conclusion">Conclusion</a></li>
-
-```
-</ul>
-```
+	</ul>
 
 </nav>
 
@@ -42,7 +39,6 @@ permalink: /posts/the-value-of-patents-safeguarding-your-ideas-for-business-succ
         <p>In a world driven by innovation and competition, protecting your intellectual property is crucial for staying ahead in business. One of the most powerful tools available for this purpose is the patent. Patents not only safeguard your ideas but also give you a competitive edge in the market. If you're an inventor or innovator looking to solidify your position in the industry, understanding the power of patents is essential. Let's delve into how patents can benefit your business and how you can leverage them effectively.</p>
     </section>
 
-```
 	<section id="1.Understanding the Basics of Patents">
 		<h2>1.Understanding the Basics of Patents</h2>
 		<img src="/assets/images/art/ip2.webp" alt="Understanding the Basics of Patents" style="max-width:100%; height:auto;"><br>
@@ -100,7 +96,6 @@ permalink: /posts/the-value-of-patents-safeguarding-your-ideas-for-business-succ
 		
 		<p>Remember, a patent isn't just a legal document - it's a testament to your creativity and vision. Embrace the power of patents and watch your ideas transform into a valuable asset for your business.</p>
 	</section>
-```
 
 </article>
 
