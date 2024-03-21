@@ -377,41 +377,29 @@ blogs_area:
     <!-- /.rev_slider -->
   </div>
 </div>
-  <!-- Features Wrapper-->
-  {% if page.services_area.enable %}
-  <div class="wrapper light-wrapper">
-    <div class="container inner">
-      <h1 class="display-3 text-center">Our Domains & Areas</h1>
-      <p class="lead larger text-center">We encourage you to Think Big too! Our end-to-end services, domains, and areas expertise in cutting edge tech and ability to build whatever you dream up, makes us your ideal partner. Explore our Domains & Areas.</p>
-      <div class="space40"></div>
-
-      <div class="row text-center">
-        {% for services in page.services_area.services %}
-
-        {% assign loopindex = forloop.index %}
-
-        {% if loopindex == 3 %}
-        <div class="space30 d-none d-md-block d-lg-none"></div>
-        {% elsif loopindex == 4 %}
-        <div class="space30 d-none d-lg-block"></div>
-        {% elsif loopindex == 5 %}
-        <div class="space30 d-none d-md-block d-lg-none"></div>
-        {% endif %}
-        <div class="col-md-6 col-lg-4">
-          <div class="box bg-white shadow shadow-hover">
-            <div class="icon icon-svg mb-20"><img src="{{services.icon}}" alt=""></div>
-            <h5>{{services.title}}</h5>
-            <p>{{services.sub_title}}</p>
-            <a href="{{services.link}}">Read More</a>
-          </div>
-          <!--/.box -->
+ <!-- Features Wrapper-->
+{% if page.services_area.enable %}
+<div class="wrapper light-wrapper">
+  <div class="container inner">
+    <h1 class="display-3 text-center">Our Domains & Areas</h1>
+    <p class="lead larger text-center">We encourage you to Think Big too! Our end-to-end services, domains, and areas expertise in cutting edge tech and ability to build whatever you dream up, makes us your ideal partner. Explore our Domains & Areas.</p>
+    <div class="row row-cols-1 row-cols-md-2 row-cols-lg-3 g-4 justify-content-left">
+      {% for services in page.services_area.services %}
+      <div class="col">
+        <div class="box bg-white shadow shadow-hover">
+          <div class="icon icon-svg mb-20"><img src="{{services.icon}}" alt=""></div>
+          <h5>{{services.title}}</h5>
+          <p>{{services.sub_title}}</p>
+          <a href="{{services.link}}">Read More</a>
         </div>
-        <!--/column -->
-        {% endfor %}
+        <!--/.box -->
       </div>
+      <!--/column -->
+      {% endfor %}
     </div>
   </div>
-  {% endif %}
+</div>
+{% endif %}
 
   <div class="wrapper gray-wrapper">
     <div class="container inner">
