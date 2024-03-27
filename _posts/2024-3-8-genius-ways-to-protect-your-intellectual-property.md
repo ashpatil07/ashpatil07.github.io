@@ -54,7 +54,10 @@ permalink: /posts/genius-ways-to-protect-your-intellectual-property
 
 <p>Registration serves as a fundamental pillar of IP protection. By officially registering your patents, trademarks, copyrights, or trade secrets with the relevant authorities, you establish legal ownership and gain exclusive rights to exploit and defend your creations. Patent registration, for instance, provides a monopoly over the invention, preventing others from making, using, or selling the patented invention without your permission. Trademark registration protects your brand identity, preventing competitors from using similar marks that could cause confusion among consumers. Copyright registration establishes ownership of original works of authorship, such as literary, artistic, or musical creations, and grants you the exclusive right to reproduce, distribute, or perform the work. Trade secret registration, although less common, can offer additional protection for valuable confidential information that provides a competitive advantage.</p>
 
-<blockquote style="position:relative;"><p><b style="font-size:1.5em;">"If you seek further information on how Vishvena Techno Solutions facilitates the registration of your intellectual properties (IPs), kindly visit the provided link and <a href="/contact"><i>complete the form</i></a>."</b></p><div style="position:absolute; top:0; bottom:0; left:-15px; border-left:2px solid black;"></div></blockquote>
+<blockquote style="position:relative;">
+<p><b style="font-size:1em;">"<br>If you seek further information on how Vishvena Techno Solutions facilitates the registration of your intellectual properties (IPs), kindly visit the provided link and <a href="/contact"><i>complete the form</i></a>.<br>"</b></p>
+<div style="position:absolute; top:0; bottom:0; left:-15px; border-left:5px solid black;"></div>
+</blockquote>
 
 </section>
 
