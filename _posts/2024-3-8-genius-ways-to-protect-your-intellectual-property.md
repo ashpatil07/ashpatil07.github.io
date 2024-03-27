@@ -75,8 +75,8 @@ permalink: /posts/genius-ways-to-protect-your-intellectual-property
 ```
 <p>In today's digital landscape, technological advancements offer a myriad of tools and techniques to protect <i>intellectual property</i> assets from unauthorized access, replication, or distribution. Encryption algorithms encode sensitive data to render it unreadable without the corresponding decryption key, safeguarding confidential information from interception or theft. Access controls restrict unauthorized users from accessing or modifying intellectual property assets, ensuring that only authorized individuals or entities can interact with protected resources. Digital rights management (DRM) systems enforce copyright protection by controlling the distribution and usage of digital content, thereby preventing unauthorized copying, sharing, or modification. Watermarking technologies embed imperceptible identifiers into digital media, enabling content owners to track and trace instances of unauthorized use or distribution. By leveraging these technology solutions, you can bolster the security of your <b>intellectual property</b> assets and mitigate the risk of infringement or misappropriation.</p>
 
-<!-- Contact Us information -->
-<p style="text-align: center;">For more information, <a href="/contact" class="contact-button">Contact Us</a>.</p>
+<!-- Contact Us button -->
+<a href="/contact" class="btn info contact-button">Contact Us</a>
 ```
 
 </section>
