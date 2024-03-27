@@ -81,8 +81,6 @@ permalink: /posts/genius-ways-to-protect-your-intellectual-property
 <p style="text-align: center;">For more information, <a href="/contact" class="contact-button" style="padding: 10px 20px; background-color: #007bff; color: #fff; text-decoration: none; border-radius: 5px; border: none;">Contact Us</a>.</p>
 	<!-- Contact Us information -->
 <p style="text-align: center;">For more information, <a href="#contact-form" class="contact-button">Contact Us</a>.</p>
-	<a href="/contact" style="text-decoration: none;">
-<button class="btn info" style="border-color: #2196F3; color: dodgerblue; background-color: white; padding: 14px 28px; font-size: 16px; cursor: pointer; margin-right: 10px;">Info</button>
 ```
 
 </section>
