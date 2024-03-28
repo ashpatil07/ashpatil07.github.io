@@ -88,7 +88,7 @@ permalink: /posts/5-ways-artificial-intelligence-is-revolutionizing-the-business
 </article>
 
 <footer>
-    <p>&copy; 2024 <a href="https://vishvena.com"><b>Vishvena Techno Solutions Pvt. Ltd.</b></a>. All rights reserved.</p>
+    <center><p>&copy; 2024 <a href="https://vishvena.com"><b>Vishvena Techno Solutions Pvt. Ltd.</b></a>. All rights reserved.</p></center>
 </footer>
 </body>
 </html>
