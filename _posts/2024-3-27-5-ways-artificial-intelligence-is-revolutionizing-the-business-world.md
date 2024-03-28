@@ -40,10 +40,10 @@ permalink: /posts/5-ways-artificial-intelligence-is-revolutionizing-the-business
 <section id="data-analysis">
     <h2>1. Enhanced Data Analysis and Insights</h2>
     <img src="/assets/images/art/ai-da.webp" alt="data-analysis" style="max-width:100%; height:auto;">
-<blockquote style="position:relative;">
+<center><blockquote style="position:relative;">
 <p><b style="font-size:1em;">"If you seek further information on how Vishvena Techno Solutions facilitates the Services on Artificial Intelligence [AI]..., kindly visit the provided link and <a href="/contact"><i>Complete the form</i></a>."</b></p>
 <div style="position:absolute; top:0; bottom:0; left:-15px; border-left:5px solid black;"></div>
-</blockquote>
+</blockquote></center>
     <p>In today's hyper-connected world, businesses are inundated with a deluge of data. AI emerges as a potent tool for efficiently parsing through this vast expanse of information, unearthing invaluable insights that underpin informed decision-making. Employing sophisticated algorithms and machine learning techniques, <a href="/artificial-intelligence"><i><b>Artificial Intelligence</b></i></a> has the capability to discern patterns, trends, and correlations within datasets, thereby empowering businesses to optimize processes, anticipate market shifts, and deliver personalized experiences to their clientele. By harnessing the analytical prowess of AI, businesses gain a competitive edge in navigating the intricacies of an increasingly dynamic marketplace.</p>
 </section>
 
