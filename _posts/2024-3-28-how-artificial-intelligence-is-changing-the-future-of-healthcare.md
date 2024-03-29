@@ -77,6 +77,7 @@ permalink: /posts/how-artificial-intelligence-is-changing-the-future-of-healthca
 <a href="/contact">
   <img src="/assets/images/art/inlinead1.webp" alt="inlinead" style="max-width:100%; height:auto;">
 </a>
+<br>
 
 
 <section id="precision">
