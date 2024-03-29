@@ -74,6 +74,11 @@ permalink: /posts/how-artificial-intelligence-is-changing-the-future-of-healthca
     <p>One area where AI is making significant strides is in medical imaging. AI algorithms trained on vast repositories of medical images can assist radiologists in detecting abnormalities, tumors, and other anomalies with greater precision. By analyzing images from MRI scans, CT scans, and X-rays, AI systems can flag suspicious areas for further examination, leading to earlier detection of diseases such as cancer and improving patient outcomes. Additionally, AI-powered imaging tools can streamline workflow, reduce interpretation errors, and enhance the overall efficiency of diagnostic procedures.</p>
 </section>
 
+<a href="/contact">
+  <img src="/assets/images/art/inlinead1.webp" alt="inlinead" style="max-width:100%; height:auto;">
+</a>
+
+
 <section id="precision">
     <h2>Personalized Treatment and Precision Medicine</h2>
 	
