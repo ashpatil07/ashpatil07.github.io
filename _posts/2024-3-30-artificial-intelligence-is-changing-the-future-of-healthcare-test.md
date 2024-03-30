@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Artificial Intelligence is Changing the Future of Healthcare-Test
+title: Ads-Test
 date: 2024-02-29T18:30:00.000Z
 author: admin
 post_image: /assets/images/art/ai-hc1.webp
-permalink: /posts/artificial-intelligence-is-changing-the-future-of-healthcare-test
+permalink: /posts/ads-test
 ---
 
 ###### Category: Artificial Intelligence
