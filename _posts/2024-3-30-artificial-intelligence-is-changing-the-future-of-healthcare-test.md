@@ -182,6 +182,24 @@ permalink: /posts/artificial-intelligence-is-changing-the-future-of-healthcare-t
     <a href="/contact" style="background-color: #2196F3; color: white; padding: 8px 16px; text-decoration: none; border-radius: 5px; font-weight: bold;">Click</a>
 </div>
 
+ 
+<blockquote style="position:relative;">
+ <table style="border-collapse: collapse; width: 100%;">
+    <tr>
+      <td style="border-right: 3px solid black; padding: 10px; width: auto;">
+        <!-- Vertical line -->
+      </td>
+      <td style="padding: 10px; width: auto%;">
+        <b style="font-size:1em;">"If you seek further information on how Vishvena Techno Solutions facilitates the Services on HealthCare using Artificial Intelligence [AI], kindly visit the provided link and fill the form"</b>
+      </td>
+      <td style="padding: 10px; width: auto;">
+        <a href="/contact" style="display: inline-block; background-color: #2196F3; color: white; padding: 8px 16px; text-decoration: none; border-radius: 5px; font-weight: bold;">click</a>
+      </td>
+    </tr>
+  </table>
+  </blockquote>
+
+
 
 
 </body>
