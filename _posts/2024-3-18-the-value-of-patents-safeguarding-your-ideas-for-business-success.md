@@ -4,7 +4,7 @@ meta_description: >
   drive innovation, and gain a competitive edge in the market.
 layout: post-boxed
 title: The Value of Patents-Safeguarding Your Ideas for Business Success
-date: 2024-03-07T18:30:00.000Z
+date: 2024-03-28T18:30:00.000Z
 author: admin
 post_image: /assets/images/art/patent_article.webp
 boxed_sidebar: ''
