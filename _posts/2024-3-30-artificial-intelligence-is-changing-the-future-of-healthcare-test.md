@@ -154,5 +154,21 @@ permalink: /posts/artificial-intelligence-is-changing-the-future-of-healthcare-t
 <center><p>&copy; 2024 <a href="https://vishvena.com"><b>Vishvena Techno Solutions Pvt. Ltd.</b></a>. All rights reserved.</p></center>
 
 </footer>
+<a href="/contact">
+  <img src="/assets/images/art/inlinead8.webp" alt="inlinead" style="max-width:100%; height:auto;">
+</a>
+<br>
+<a href="/contact">
+  <img src="/assets/images/art/inlinead9.webp" alt="inlinead" style="max-width:100%; height:auto;">
+</a>
+<br>
+<a href="/contact">
+  <img src="/assets/images/art/inlinead10.webp" alt="inlinead" style="max-width:100%; height:auto;">
+</a>
+<br>
+<a href="/contact">
+  <img src="/assets/images/art/inlinead11.webp" alt="inlinead" style="max-width:100%; height:auto;">
+</a>
+<br>
 </body>
 </html>
