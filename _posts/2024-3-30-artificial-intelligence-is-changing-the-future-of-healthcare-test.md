@@ -119,6 +119,15 @@ permalink: /posts/artificial-intelligence-is-changing-the-future-of-healthcare-t
 
 </section>
 
+<a href="/contact">
+  <img src="/assets/images/art/inlinead10.webp" alt="inlinead" style="max-width:100%; height:auto;">
+</a>
+<br>
+<a href="/contact">
+  <img src="/assets/images/art/inlinead11.webp" alt="inlinead" style="max-width:100%; height:auto;">
+</a>
+<br>
+
  <section id="savings">
     <h2>Healthcare Operational Efficiency and Cost Savings</h2>
 
@@ -162,13 +171,6 @@ permalink: /posts/artificial-intelligence-is-changing-the-future-of-healthcare-t
   <img src="/assets/images/art/inlinead9.png" alt="inlinead" style="max-width:100%; height:auto;">
 </a>
 <br>
-<a href="/contact">
-  <img src="/assets/images/art/inlinead10.webp" alt="inlinead" style="max-width:100%; height:auto;">
-</a>
-<br>
-<a href="/contact">
-  <img src="/assets/images/art/inlinead11.webp" alt="inlinead" style="max-width:100%; height:auto;">
-</a>
-<br>
+
 </body>
 </html>
