@@ -23,25 +23,20 @@ permalink: /posts/welcome-to-vishvena's-technology-Infused-ip-services
        <nav>
 			<ul>
 				<li><a href="#introduction">Introduction</a></li>
-
-```
-			<li><a href="#1">1. Patent Services</a></li>
-			<li><a href="#2">2. Trademark Services</a></li>
-			<li><a href="#3">3. Copyright Services</a></li>
-			<li><a href="#4">4. Trade Secret Services</a></li>	
-			<li><a href="#5">5. IP Licensing and Contracts</a></li>	
-			<li><a href="#6">6. IP Strategy and Consulting</a></li>
-			<li><a href="#7">7. IP Litigation and Dispute Resolution</a></li>
-			<li><a href="#8">8. IP Legal Services</a></li>
-			<li><a href="#9">9. IP Audits and Due Diligence</a></li>
-			<li><a href="#10">10. IP Training and Education</a></li>
-			<li><a href="#11">11. IP Analytics and Reporting</a></li>
-
-			<li><a href="#conclusion">Conclusion</a></li>
-	</ul>
-</nav>
-```
-
+				<li><a href="#1">1. Patent Services</a></li>
+				<li><a href="#2">2. Trademark Services</a></li>
+				<li><a href="#3">3. Copyright Services</a></li>
+				<li><a href="#4">4. Trade Secret Services</a></li>	
+				<li><a href="#5">5. IP Licensing and Contracts</a></li>	
+				<li><a href="#6">6. IP Strategy and Consulting</a></li>
+				<li><a href="#7">7. IP Litigation and Dispute Resolution</a></li>
+				<li><a href="#8">8. IP Legal Services</a></li>
+				<li><a href="#9">9. IP Audits and Due Diligence</a></li>
+				<li><a href="#10">10. IP Training and Education</a></li>
+				<li><a href="#11">11. IP Analytics and Reporting</a></li>
+				<li><a href="#conclusion">Conclusion</a></li>
+		</ul>
+	</nav>
 </header>
 
 <center><blockquote style="position:relative;">
