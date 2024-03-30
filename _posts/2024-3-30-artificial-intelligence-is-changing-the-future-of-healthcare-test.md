@@ -1,5 +1,5 @@
 ---
-layout: post-boxed
+layout: post
 title: Artificial Intelligence is Changing the Future of Healthcare-Test
 date: 2024-03-27T18:30:00.000Z
 author: admin
