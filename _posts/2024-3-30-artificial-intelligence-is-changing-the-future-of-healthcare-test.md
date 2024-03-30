@@ -56,9 +56,11 @@ permalink: /posts/artificial-intelligence-is-changing-the-future-of-healthcare-t
 
 </section>
 
+<center>
 <a href="/contact">
   <img src="/assets/images/art/inlinead3.webp" alt="inlinead" style="max-width:100%; height:auto;">
 </a>
+</center>
 <br>
 
 <section id="understanding">
