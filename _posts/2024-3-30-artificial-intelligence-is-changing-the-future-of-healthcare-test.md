@@ -4,7 +4,6 @@ title: Artificial Intelligence is Changing the Future of Healthcare-Test
 date: 2024-03-27T18:30:00.000Z
 author: admin
 post_image: /assets/images/art/ai-hc1.webp
-boxed_sidebar: 'false'
 permalink: /posts/artificial-intelligence-is-changing-the-future-of-healthcare-test
 ---
 
@@ -160,9 +159,12 @@ permalink: /posts/artificial-intelligence-is-changing-the-future-of-healthcare-t
 <center><p>&copy; 2024 <a href="https://vishvena.com"><b>Vishvena Techno Solutions Pvt. Ltd.</b></a>. All rights reserved.</p></center>
 
 </footer>
+
+<center>
 <a href="/contact">
   <img src="/assets/images/art/inlinead8.png" alt="inlinead" style="max-width:100%; height:auto;">
 </a>
+</center>
 <br>
 
 <center>
