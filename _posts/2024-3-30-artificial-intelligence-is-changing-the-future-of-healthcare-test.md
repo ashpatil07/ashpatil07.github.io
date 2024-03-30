@@ -139,11 +139,6 @@ permalink: /posts/artificial-intelligence-is-changing-the-future-of-healthcare-t
 
 </section>
 
-<a href="/contact">
-  <img src="/assets/images/art/inlinead6.webp" alt="inlinead" style="max-width:100%; height:auto;">
-</a>
-<br>
-
 <section id="conclusion">
 	<h2>Conclusion</h2>
 	<p>As we stand on the cusp of a new era in healthcare, fueled by the transformative power of artificial intelligence, the possibilities are endless. From precision medicine to remote patient monitoring, AI is reshaping every facet of healthcare delivery, ushering in a future where personalized, proactive, and patient-centric care is the norm. However, realizing the full potential of AI in healthcare requires collaboration, innovation, and a commitment to leveraging technology for the greater good. By embracing AI as a catalyst for change, we can build a healthier, more equitable future for generations to come.</p>
@@ -169,10 +164,27 @@ permalink: /posts/artificial-intelligence-is-changing-the-future-of-healthcare-t
   <img src="/assets/images/art/inlinead8.png" alt="inlinead" style="max-width:100%; height:auto;">
 </a>
 <br>
-<a href="/contact">
-  <img src="/assets/images/art/inlinead9.png" alt="inlinead" style="max-width:100%; height:auto;">
-</a>
-<br>
+
+<center>
+  <blockquote style="position:relative;">
+    <p><b style="font-size:1em;">"If you seek further information on how Vishvena Techno Solutions facilitates the Services on HealthCare using Artificial Intelligence [AI], kindly visit the provided link and</b></p>
+
+```
+<div style="position:absolute; top:0; bottom:0; left:-15px; border-left:5px solid black;"></div>
+<p><a href="/contact" style="background-color: #2196F3; color: white; padding: 8px 16px; text-decoration: none; border-radius: 5px; font-weight: bold;">Complete the form</a></p>
+```
+
+  </blockquote>
+</center>
+
+<center>
+  <div style="display: flex; align-items: center;">
+    <img src="/assets/images/art/testad.jpg" alt="Image" style="max-width: 100px; height: auto;">
+    <p style="margin: 0 20px;">For details on how Vishvena Techno Solutions employs AI in healthcare services, please inquire further.,</p>
+    <br>
+    <a href="/contact" style="background-color: #2196F3; color: white; padding: 8px 16px; text-decoration: none; border-radius: 5px; font-weight: bold;">Your button text</a>
+  </div>
+</center>
 
 </body>
 </html>
