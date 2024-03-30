@@ -22,9 +22,7 @@ permalink: /posts/revolutionizing-intellectual-property-management-with-technolo
 	<h2>Table of Contents</h2>
        <nav>
 			<ul>
-				<li><a href="#introduction">Introduction</a></li>
-
-```
+			<li><a href="#introduction">Introduction</a></li>
 			<li><a href="#1">1. AI-Powered Patent Services</a></li>
 			<li><a href="#2">2. Blockchain-Backed Trademark Services</a></li>
 			<li><a href="#3">3. Digital Copyright Solutions</a></li>
@@ -39,7 +37,6 @@ permalink: /posts/revolutionizing-intellectual-property-management-with-technolo
 		</ul>
 	</nav>
 </header>
-```
 
 <center><blockquote style="position:relative;">
 <p><b style="font-size:1em;">"If you seek further information on how Vishvena Techno Solutions facilitates the Services on Intellectuall Property, kindly visit the provided link and <a href="/contact"><i>Complete the form</i></a>."</b></p>
@@ -51,7 +48,6 @@ permalink: /posts/revolutionizing-intellectual-property-management-with-technolo
         <h2>Introduction</h2>
         <p>In today's fast-paced digital landscape, the protection and management of intellectual property (IP) assets are paramount for businesses aiming to stay ahead of the competition. Enter Vishvena Techno Solutions, a visionary company at the forefront of revolutionizing IP services through the seamless integration of cutting-edge technology. Offering end-to-end IP solutions under one roof, Vishvena leverages technology to provide innovative, efficient, and comprehensive services that empower businesses to safeguard, manage, and leverage their intellectual assets effectively.</p>
 
-```
 </section>
 
 <section id="1">
@@ -133,7 +129,6 @@ permalink: /posts/revolutionizing-intellectual-property-management-with-technolo
 	<p>In conclusion, Vishvena Techno Solutions stands as a trailblazer in the field of technology-driven IP services, offering innovative, efficient, and comprehensive solutions that empower businesses to protect, manage, and leverage their intellectual assets effectively in the digital age. With Vishvena as a strategic partner, businesses can unlock the full potential of their intellectual assets and drive innovation and growth in today's competitive global market.</p>
 
 </section>
-```
 
 </article>
 
