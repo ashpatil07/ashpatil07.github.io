@@ -182,7 +182,7 @@ permalink: /posts/artificial-intelligence-is-changing-the-future-of-healthcare-t
     <img src="/assets/images/art/testad.jpg" alt="Image" style="max-width: 100px; height: auto;">
     <p style="margin: 0 20px;">For details on how Vishvena Techno Solutions employs AI in healthcare services, please inquire further.,</p>
     <br>
-    <a href="/contact" style="background-color: #2196F3; color: white; padding: 8px 16px; text-decoration: none; border-radius: 5px; font-weight: bold;">Your button text</a>
+    <a href="/contact" style="background-color: #2196F3; color: white; padding: 8px 16px; text-decoration: none; border-radius: 5px; font-weight: bold;">Click Here</a>
   </div>
 </center>
 
