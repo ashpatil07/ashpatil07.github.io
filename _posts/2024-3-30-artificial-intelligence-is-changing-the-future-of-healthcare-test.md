@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Artificial Intelligence is Changing the Future of Healthcare-Test
-date: 2024-03-27T18:30:00.000Z
+date: 2024-02-29T18:30:00.000Z
 author: admin
 post_image: /assets/images/art/ai-hc1.webp
 permalink: /posts/artificial-intelligence-is-changing-the-future-of-healthcare-test
@@ -177,14 +177,12 @@ permalink: /posts/artificial-intelligence-is-changing-the-future-of-healthcare-t
   </blockquote>
 </center>
 
-
 <div style="display: flex; align-items: center; border: 2px solid #000; padding: 10px;">
     <img src="/assets/images/art/testad.jpg" alt="Image" style="max-width: 100px; height: auto;">
     <p style="margin: 0 20px;">For details on how Vishvena Techno Solutions employs AI in healthcare services, please inquire further.</p>
     <a href="/contact" style="background-color: #2196F3; color: white; padding: 8px 16px; text-decoration: none; border-radius: 5px; font-weight: bold;">Click</a>
 </div>
 
- 
 <blockquote style="position:relative;">
  <table style="border-collapse: collapse; width: 100%;">
     <tr>
@@ -200,9 +198,6 @@ permalink: /posts/artificial-intelligence-is-changing-the-future-of-healthcare-t
     </tr>
   </table>
   </blockquote>
-
-
-
 
 </body>
 </html>
