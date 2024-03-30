@@ -169,22 +169,20 @@ permalink: /posts/artificial-intelligence-is-changing-the-future-of-healthcare-t
   <blockquote style="position:relative;">
     <p><b style="font-size:1em;">"If you seek further information on how Vishvena Techno Solutions facilitates the Services on HealthCare using Artificial Intelligence [AI], kindly visit the provided link and</b></p>
 
-```
 <div style="position:absolute; top:0; bottom:0; left:-15px; border-left:5px solid black;"></div>
 <p><a href="/contact" style="background-color: #2196F3; color: white; padding: 8px 16px; text-decoration: none; border-radius: 5px; font-weight: bold;">Complete the form</a></p>
-```
 
   </blockquote>
 </center>
 
-<center>
-  <div style="display: flex; align-items: center;">
+
+<div style="display: flex; align-items: center; border: 2px solid #000; padding: 10px;">
     <img src="/assets/images/art/testad.jpg" alt="Image" style="max-width: 100px; height: auto;">
-    <p style="margin: 0 20px;">For details on how Vishvena Techno Solutions employs AI in healthcare services, please inquire further.,</p>
-    <br>
-    <a href="/contact" style="background-color: #2196F3; color: white; padding: 8px 16px; text-decoration: none; border-radius: 5px; font-weight: bold;">Click Here</a>
-  </div>
-</center>
+    <p style="margin: 0 20px;">For details on how Vishvena Techno Solutions employs AI in healthcare services, please inquire further.</p>
+    <a href="/contact" style="background-color: #2196F3; color: white; padding: 8px 16px; text-decoration: none; border-radius: 5px; font-weight: bold;">Click</a>
+</div>
+
+
 
 </body>
 </html>
