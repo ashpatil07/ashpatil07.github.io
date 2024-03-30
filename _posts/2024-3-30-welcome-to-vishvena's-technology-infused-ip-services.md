@@ -8,7 +8,7 @@ boxed_sidebar: ''
 permalink: /posts/welcome-to-vishvena's-technology-Infused-ip-services
 ---
 
-###### Category: Artificial Intelligence
+###### Category: Intellectual Property
 
 <html lang="en">
 <head>
