@@ -15,7 +15,7 @@ permalink: /posts/welcome-to-vishvena's-technology-Infused-ip-services
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title><h1>Welcome to Vishvena's Technology-Infused IP Services</h1></title>
-    <meta name="description" content="Explore how artificial intelligence (AI) is revolutionizing the healthcare industry, from diagnosis to treatment, and its impact on the future of healthcare delivery.">
+    <meta name="description" content=""Discover Vishvena's cutting-edge IP services integrating technology for comprehensive protection, management, and valuation of intellectual assets in the digital era">
 </head>
 <body>
    <header>
