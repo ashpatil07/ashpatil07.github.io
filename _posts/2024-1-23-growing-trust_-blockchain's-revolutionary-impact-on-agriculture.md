@@ -1,6 +1,7 @@
 ---
 layout: post-boxed
 title: 'Growing Trust: Blockchain''s Revolutionary Impact on Agriculture'
+categories: [All, Agriculture]
 date: 2024-01-22T18:30:00.000Z
 author: admin
 post_image: /assets/images/art/aa11.webp

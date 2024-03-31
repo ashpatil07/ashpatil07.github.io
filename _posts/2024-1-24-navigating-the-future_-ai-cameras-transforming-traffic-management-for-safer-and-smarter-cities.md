@@ -4,6 +4,7 @@ title: >-
   Navigating the Future: AI Cameras Transforming Traffic Management for Safer
   and Smarter Cities
 date: 2024-01-23T18:30:00.000Z
+categories: [All, AI Cameras]
 author: admin
 post_image: /assets/images/art/aia2.webp
 boxed_sidebar: 'true'

@@ -4,6 +4,7 @@ title: >-
   Beyond the Scoreboard: How AI Cameras Are Changing the Game in Sports
   Analytics
 date: 2024-01-23T18:30:00.000Z
+categories: [All, AI Cameras]
 author: admin
 post_image: /assets/images/art/aia10.webp
 boxed_sidebar: 'false'

@@ -1,6 +1,7 @@
 ---
 layout: post-boxed
 title: 5 Ways Artificial Intelligence is Revolutionizing the Business World
+categories: [All, Artificial Intelligence]
 date: 2024-03-25T18:30:00.000Z
 author: admin
 post_image: /assets/images/art/ai1.webp

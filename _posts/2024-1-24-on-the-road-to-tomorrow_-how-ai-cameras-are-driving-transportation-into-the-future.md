@@ -4,6 +4,7 @@ title: >-
   On the Road to Tomorrow: How AI Cameras Are Driving Transportation into the
   Future
 date: 2024-01-23T18:30:00.000Z
+categories: [All, AI Cameras, Smart Roads]
 author: admin
 post_image: /assets/images/art/aia12.webp
 boxed_sidebar: 'true'

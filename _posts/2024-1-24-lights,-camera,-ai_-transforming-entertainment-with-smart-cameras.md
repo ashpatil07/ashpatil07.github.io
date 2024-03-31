@@ -1,6 +1,7 @@
 ---
 layout: post-boxed
 title: 'Lights, Camera, AI: Transforming Entertainment with Smart Cameras'
+categories: [All, AI Cameras]
 date: 2024-01-23T18:30:00.000Z
 author: admin
 post_image: /assets/images/art/aia15.webp

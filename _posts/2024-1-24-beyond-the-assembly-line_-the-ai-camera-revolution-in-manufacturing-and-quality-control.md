@@ -4,6 +4,7 @@ title: >-
   Beyond the Assembly Line: The AI Camera Revolution in Manufacturing and
   Quality Control
 date: 2024-01-23T18:30:00.000Z
+categories: [All, AI Cameras]
 author: admin
 post_image: /assets/images/art/aia5.webp
 boxed_sidebar: 'true'

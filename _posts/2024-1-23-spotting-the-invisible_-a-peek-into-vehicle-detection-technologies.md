@@ -1,6 +1,7 @@
 ---
 layout: post-boxed
 title: 'Spotting the Invisible: A Peek into Vehicle Detection Technologies'
+categories: [All, Smart Roads]
 date: 2024-01-22T18:30:00.000Z
 author: admin
 post_image: /assets/images/art/sra14.webp

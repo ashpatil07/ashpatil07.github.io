@@ -1,6 +1,7 @@
 ---
 layout: post-boxed
 title: 'Home Harmony: How AI Cameras Are Making Your Living Space Smarter'
+categories: [All, AI Cameras]
 date: 2024-01-23T18:30:00.000Z
 author: admin
 post_image: /assets/images/art/aia14.webp

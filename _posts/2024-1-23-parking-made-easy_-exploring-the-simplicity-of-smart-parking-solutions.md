@@ -1,6 +1,7 @@
 ---
 layout: post-boxed
 title: 'Parking Made Easy: Exploring the Simplicity of Smart Parking Solutions'
+categories: [All, Smart Roads]
 date: 2024-01-22T18:30:00.000Z
 author: admin
 post_image: /assets/images/art/sra6.webp

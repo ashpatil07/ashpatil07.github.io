@@ -1,6 +1,7 @@
 ---
 layout: post-boxed
 title: Welcome to Vishvena's Technology-Infused IP Services
+categories: [All, Intellectual Property]
 date: 2024-03-29T18:30:00.000Z
 author: admin
 post_image: /assets/images/art/vip.webp

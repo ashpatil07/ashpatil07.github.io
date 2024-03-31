@@ -4,6 +4,7 @@ title: >-
   Navigating the Future: A Simple Guide to Intelligent Transportation Systems
   (ITS)
 date: 2024-01-22T18:30:00.000Z
+categories: [All, Smart Roads]
 author: admin
 post_image: /assets/images/art/sra16.webp
 boxed_sidebar: 'true'

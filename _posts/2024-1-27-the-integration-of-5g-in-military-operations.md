@@ -1,6 +1,7 @@
 ---
 layout: post-boxed
 title: "How 5G is Transforming Military Communications and\_Capabilities"
+categories: [All, Defence]
 date: 2024-01-26T18:30:00.000Z
 author: admin
 post_image: /assets/images/art/da06.webp

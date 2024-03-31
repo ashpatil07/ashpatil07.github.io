@@ -1,6 +1,7 @@
 ---
 layout: post-boxed
 title: 'Guardians of the Road: Understanding Automated Traffic Enforcement'
+categories: [All, Smart Roads]
 date: 2024-01-22T18:30:00.000Z
 author: admin
 post_image: /assets/images/art/sr9.webp

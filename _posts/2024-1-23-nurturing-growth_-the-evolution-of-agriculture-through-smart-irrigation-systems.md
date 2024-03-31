@@ -4,6 +4,7 @@ title: >-
   Nurturing Growth: The Evolution of Agriculture through Smart Irrigation
   Systems
 date: 2024-01-22T18:30:00.000Z
+categories: [All, Agriculture]
 author: admin
 post_image: /assets/images/art/aa6.webp
 permalink: >-

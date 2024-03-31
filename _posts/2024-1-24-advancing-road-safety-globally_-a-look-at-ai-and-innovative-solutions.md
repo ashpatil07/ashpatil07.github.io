@@ -1,6 +1,7 @@
 ---
 layout: post-boxed
 title: 'Advancing Road Safety Globally: A Look at AI and Innovative Solutions'
+categories: [All, AI Cameras]
 date: 2024-01-23T18:30:00.000Z
 author: admin
 post_image: /assets/images/art/aia1.webp

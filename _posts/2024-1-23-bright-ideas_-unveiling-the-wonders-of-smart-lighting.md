@@ -1,6 +1,7 @@
 ---
 layout: post-boxed
 title: 'Bright Ideas: Unveiling the Wonders of Smart Lighting'
+categories: [All, Smart Roads]
 date: 2024-01-22T18:30:00.000Z
 author: admin
 post_image: /assets/images/art/sra18.webp

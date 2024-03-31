@@ -1,6 +1,7 @@
 ---
 layout: post-boxed
 title: 'Unleashing the Healing Power: Artificial Intelligence in Healthcare'
+categories: [All, Healthcare]
 date: 2024-01-22T18:30:00.000Z
 author: admin
 post_image: /assets/images/art/ha5.webp

@@ -4,6 +4,7 @@ title: >-
   Driving into the Future: Exploring the Wonders of Connected Vehicle
   Technologies
 date: 2024-01-21T18:30:00.000Z
+categories: [All, Smart Roads]
 author: admin
 post_image: /assets/images/art/sra17.webp
 boxed_sidebar: 'true'

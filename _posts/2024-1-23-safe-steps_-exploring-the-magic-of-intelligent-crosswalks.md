@@ -1,6 +1,7 @@
 ---
 layout: post-boxed
 title: 'Safe Steps: Exploring the Magic of Intelligent Crosswalks'
+categories: [All, Smart Roads]
 date: 2024-01-22T18:30:00.000Z
 author: admin
 post_image: /assets/images/art/sra15.webp

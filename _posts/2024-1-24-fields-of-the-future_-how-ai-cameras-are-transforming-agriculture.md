@@ -1,6 +1,7 @@
 ---
 layout: post-boxed
 title: 'Fields of the Future: How AI Cameras Are Transforming Agriculture'
+categories: [All, AI Cameras]
 date: 2024-01-23T18:30:00.000Z
 author: admin
 post_image: /assets/images/art/aia8.webp

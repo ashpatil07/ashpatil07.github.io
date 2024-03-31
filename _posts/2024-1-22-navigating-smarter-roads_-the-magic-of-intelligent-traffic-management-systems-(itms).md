@@ -4,6 +4,7 @@ title: >-
   Navigating Smarter Roads: The Magic of Intelligent Traffic Management Systems
   (ITMS)
 date: 2024-01-21T18:30:00.000Z
+categories: [All, Smart Roads]
 author: admin
 post_image: /assets/images/art/sra19.webp
 boxed_sidebar: 'true'

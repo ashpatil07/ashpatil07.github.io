@@ -4,6 +4,7 @@ title: >-
   Guardians of the Green: How AI Cameras Are Preserving Our Planet Through
   Environment Monitoring
 date: 2024-01-23T18:30:00.000Z
+categories: [All, AI Cameras, Agriculture]
 author: admin
 post_image: /assets/images/art/aia13.webp
 boxed_sidebar: 'true'

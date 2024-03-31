@@ -4,6 +4,7 @@ title: >-
   Unraveling Insights: The Transformative Power of Big Data Analytics in
   Healthcare
 date: 2024-01-22T18:30:00.000Z
+categories: [All, Healthcare]
 author: admin
 post_image: /assets/images/art/ha8.webp
 boxed_sidebar: 'true'

@@ -1,6 +1,7 @@
 ---
 layout: post-boxed
 title: 'Eyes of Innovation: How AI Cameras are Revolutionizing Healthcare'
+categories: [All, Healthcare, AI Cameras]
 date: 2024-01-23T18:30:00.000Z
 author: admin
 post_image: /assets/images/art/aia4.webp

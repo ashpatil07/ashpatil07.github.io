@@ -1,6 +1,7 @@
 ---
 layout: post-boxed
 title: 'Zooming Past Toll Booths: The Simple Magic of Electronic Toll Collection (ETC)'
+categories: [All, Smart Roads]
 date: 2024-01-22T18:30:00.000Z
 author: admin
 post_image: /assets/images/art/sra5.webp

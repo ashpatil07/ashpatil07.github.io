@@ -1,6 +1,7 @@
 ---
 layout: post-boxed
 title: How Artificial Intelligence is Changing the Future of Healthcare
+categories: [All, Artificial Intelligence, Healthcare]
 date: 2024-03-27T18:30:00.000Z
 author: admin
 post_image: /assets/images/art/ai-hc1.webp

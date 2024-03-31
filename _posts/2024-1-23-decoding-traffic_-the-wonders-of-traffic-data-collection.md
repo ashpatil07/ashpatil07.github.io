@@ -1,6 +1,7 @@
 ---
 layout: post-boxed
 title: 'Decoding Traffic: The Wonders of Traffic Data Collection'
+categories: [All, Smart Roads]
 date: 2024-01-22T18:30:00.000Z
 author: admin
 post_image: /assets/images/art/sra11.webp

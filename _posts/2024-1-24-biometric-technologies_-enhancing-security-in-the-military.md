@@ -1,6 +1,7 @@
 ---
 layout: post-boxed
 title: 'Biometric Technologies: Enhancing Security in the Military'
+categories: [All, Defence]
 date: 2024-01-23T18:30:00.000Z
 author: admin
 post_image: /assets/images/art/da5.webp

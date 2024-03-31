@@ -4,6 +4,7 @@ title: >-
   Bridging the Gap: Telemedicine and Remote Patient Monitoring in Modern
   Healthcare
 date: 2024-01-22T18:30:00.000Z
+categories: [All, Healthcare]
 author: admin
 post_image: /assets/images/art/ha3.webp
 boxed_sidebar: 'true'

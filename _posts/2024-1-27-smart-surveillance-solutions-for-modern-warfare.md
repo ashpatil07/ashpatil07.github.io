@@ -1,6 +1,7 @@
 ---
 layout: post-boxed
 title: Smart Surveillance Solutions for Modern Warfare
+categories: [All, Defence]
 date: 2024-01-26T18:30:00.000Z
 author: admin
 post_image: /assets/images/art/da4.webp

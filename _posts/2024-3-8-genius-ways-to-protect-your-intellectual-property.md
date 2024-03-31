@@ -4,6 +4,7 @@ meta_description: >
   digital age. Learn how to register, protect, and maximize its value.
 layout: post-boxed
 title: Genius Ways to Protect Your Intellectual Property
+categories: [All, Intellectual Property]
 date: 2024-03-28T18:30:00.000Z
 author: admin
 post_image: /assets/images/art/ip1.webp

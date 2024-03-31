@@ -4,6 +4,7 @@ title: >-
   Revolutionizing Retail: The AI Camera Experience in Redefining Customer
   Engagement
 date: 2024-01-23T18:30:00.000Z
+categories: [All, AI Cameras]
 author: admin
 post_image: /assets/images/art/aia3.webp
 boxed_sidebar: 'true'
