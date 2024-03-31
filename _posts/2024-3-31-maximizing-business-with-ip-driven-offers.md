@@ -56,7 +56,7 @@ permalink: /posts/maximizing-business-with-ip-driven-offers
 <section id="1">
 	<h2>1. Licensing Agreements:</h2>
 
-	<img src="/assets/images/art/vipa31.webp" alt="" style="max-width:100%; height:auto;"><br>
+	<img src="/assets/images/art/vipa31.webp" alt="" style="max-width:100%; height:auto;"><br><br>
 
 	<p>Companies may grant licenses for their patented technology, copyrighted content, or trademarked brands to other businesses in exchange for royalties or fees. These agreements allow the licensee to use the IP for specific purposes while the licensor retains ownership.</p>
 
@@ -65,7 +65,7 @@ permalink: /posts/maximizing-business-with-ip-driven-offers
 <section id="2">
 	<h2>2. Technology Transfer:</h2>
 
-	<img src="/assets/images/art/vipa32.webp" alt="" style="max-width:100%; height:auto;"><br>
+	<img src="/assets/images/art/vipa32.webp" alt="" style="max-width:100%; height:auto;"><br><br>
 
 	<p>Universities, research institutions, and companies may engage in technology transfer agreements to commercialize inventions or innovations. This involves transferring IP rights from the inventor or institution to a company for further development, manufacturing, and commercialization.</p>
 
@@ -74,7 +74,7 @@ permalink: /posts/maximizing-business-with-ip-driven-offers
 <section id="3">
 	<h2>3. Product Sales:</h2>
 
-	<img src="/assets/images/art/vipa33.webp" alt="" style="max-width:100%; height:auto;"><br>
+	<img src="/assets/images/art/vipa33.webp" alt="" style="max-width:100%; height:auto;"><br><br>
 
 	<p>Some businesses build their entire business models around selling products or services that are protected by IP rights. For instance, pharmaceutical companies sell patented drugs, software companies sell copyrighted software, and fashion brands sell trademarked apparel.</p>
 
@@ -83,7 +83,7 @@ permalink: /posts/maximizing-business-with-ip-driven-offers
 <section id="4">
 	<h2>4. Strategic Partnerships:</h2>
 
-	<img src="/assets/images/art/vipa34.webp" alt="" style="max-width:100%; height:auto;"><br>
+	<img src="/assets/images/art/vipa34.webp" alt="" style="max-width:100%; height:auto;"><br><br>
 
 	<p>Companies may form strategic partnerships to jointly develop or market products, leveraging each other's IP assets. These partnerships can lead to mutual benefits such as expanded market reach, increased product offerings, and shared R&D resources.</p>
 
@@ -92,7 +92,7 @@ permalink: /posts/maximizing-business-with-ip-driven-offers
 <section id="5">
 	<h2>5. Franchising:</h2>
 
-	<img src="/assets/images/art/vipa35.webp" alt="" style="max-width:100%; height:auto;"><br>
+	<img src="/assets/images/art/vipa35.webp" alt="" style="max-width:100%; height:auto;"><br><br>
 
 	<p>Franchising involves granting others the right to use a company's brand name, business model, and operational systems in exchange for fees and royalties. Franchisors often provide franchisees with access to proprietary IP, including trademarks, trade secrets, and operational know-how.</p>
 
@@ -106,7 +106,7 @@ permalink: /posts/maximizing-business-with-ip-driven-offers
 <section id="6">
 	<h2>6. Intellectual Property Monetization:</h2>
 
-	<img src="/assets/images/art/vipa36.webp" alt="" style="max-width:100%; height:auto;"><br>
+	<img src="/assets/images/art/vipa36.webp" alt="" style="max-width:100%; height:auto;"><br><br>
 
 	<p>Companies may monetize their IP assets by selling or licensing them to third parties, participating in patent pools, or enforcing their IP rights through litigation or settlements.</p>
 
@@ -115,7 +115,7 @@ permalink: /posts/maximizing-business-with-ip-driven-offers
 <section id="7">
 	<h2>7. Joint Ventures and Collaborations:</h2>
 
-	<img src="/assets/images/art/vipa37.webp" alt="" style="max-width:100%; height:auto;"><br>
+	<img src="/assets/images/art/vipa37.webp" alt="" style="max-width:100%; height:auto;"><br><br>
 
 	<p> Companies may form joint ventures or collaborations with other entities to combine their respective IP assets and expertise. These partnerships can lead to the development of new products, technologies, or services that neither party could have achieved independently.</p>
 
