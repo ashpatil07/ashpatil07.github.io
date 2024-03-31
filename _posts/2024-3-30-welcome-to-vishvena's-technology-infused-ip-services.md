@@ -54,7 +54,7 @@ permalink: /posts/welcome-to-vishvena's-technology-Infused-ip-services
 <section id="1">
 	<h2>1. Patent Services:</h2>
 
-<img src="/assets/images/art/vip1.webp" alt="" style="max-width:100%; height:auto;"><br>
+<img src="/assets/images/art/vip1.webp" alt="" style="max-width:100%; height:auto;"><br><br>
 
 <p>Revolutionize patent research with our AI-powered tools. Expedite applications with automated drafting and seamless collaboration, ensuring accuracy and compliance.</p>
 
@@ -63,7 +63,7 @@ permalink: /posts/welcome-to-vishvena's-technology-Infused-ip-services
 <section id="2">
 	<h2>2. Trademark Services:</h2>
 
-<img src="/assets/images/art/vip2.webp" alt="" style="max-width:100%; height:auto;"><br>
+<img src="/assets/images/art/vip2.webp" alt="" style="max-width:100%; height:auto;"><br><br>
 
 <p>Employ AI-enhanced tools for accurate conflict identification. Ensure brand protection with blockchain-backed registration and digital enforcement against infringement risks.</p>
 
@@ -72,7 +72,7 @@ permalink: /posts/welcome-to-vishvena's-technology-Infused-ip-services
 <section id="3">
 	<h2>3. Copyright Services:</h2>
 
-<img src="/assets/images/art/vip3.webp" alt="" style="max-width:100%; height:auto;"><br>
+<img src="/assets/images/art/vip3.webp" alt="" style="max-width:100%; height:auto;"><br><br>
 
 <p>Secure creative works with blockchain-based registration and DRM solutions. Streamline licensing and monetization processes for maximum protection and revenue generation.</p>
 
@@ -81,7 +81,7 @@ permalink: /posts/welcome-to-vishvena's-technology-Infused-ip-services
 <section id="4">
 	<h2>4. Trade Secret Services:</h2>
 
-<img src="/assets/images/art/vip4.webp" alt="" style="max-width:100%; height:auto;"><br>
+<img src="/assets/images/art/vip4.webp" alt="" style="max-width:100%; height:auto;"><br><br>
 
 <p>Protect proprietary information with advanced encryption and access controls. Enforce confidentiality with automated strategies, safeguarding your competitive advantage.</p>
 
@@ -95,7 +95,7 @@ permalink: /posts/welcome-to-vishvena's-technology-Infused-ip-services
 <section id="5">
 	<h2>5. IP Licensing and Contracts:</h2>
 
-<img src="/assets/images/art/vip5.webp" alt="" style="max-width:100%; height:auto;"><br>
+<img src="/assets/images/art/vip5.webp" alt="" style="max-width:100%; height:auto;"><br><br>
 
 <p>Streamline transactions with blockchain-integrated smart contracts, ensuring secure and transparent agreements. Maintain compliance throughout the process.</p>
 
@@ -104,7 +104,7 @@ permalink: /posts/welcome-to-vishvena's-technology-Infused-ip-services
 <section id="6">
 	<h2>6. IP Strategy and Consulting:</h2>
 
-<img src="/assets/images/art/vip6.webp" alt="" style="max-width:100%; height:auto;"><br>
+<img src="/assets/images/art/vip6.webp" alt="" style="max-width:100%; height:auto;"><br><br>
 
 <p>Optimize IP strategy with AI-driven portfolio management, gaining actionable insights and recommendations. Stay ahead of emerging trends with predictive analytics.</p>
 
@@ -113,7 +113,7 @@ permalink: /posts/welcome-to-vishvena's-technology-Infused-ip-services
 <section id="7">
 	<h2>7. IP Litigation and Dispute Resolution:</h2>
 
-<img src="/assets/images/art/vip7.webp" alt="" style="max-width:100%; height:auto;"><br>
+<img src="/assets/images/art/vip7.webp" alt="" style="max-width:100%; height:auto;"><br><br>
 
 <p>Resolve disputes efficiently with technology-enabled solutions, including streamlined evidence management and accurate infringement analysis. Save time and costs with online alternative dispute resolution platforms.</p>
 
@@ -122,7 +122,7 @@ permalink: /posts/welcome-to-vishvena's-technology-Infused-ip-services
 <section id="8">
 	<h2>8. IP Legal Services:</h2>
 
-<img src="/assets/images/art/vip8.webp" alt="" style="max-width:100%; height:auto;"><br>
+<img src="/assets/images/art/vip8.webp" alt="" style="max-width:100%; height:auto;"><br><br>
 
 <p>Access expert advice through virtual consultations, ensuring compliance with digital document preparation services. Stay informed with AI-based legal research tools.</p>
 
@@ -136,7 +136,7 @@ permalink: /posts/welcome-to-vishvena's-technology-Infused-ip-services
 <section id="9">
 	<h2>9. IP Audits and Due Diligence:</h2>
 
-<img src="/assets/images/art/vip9.webp" alt="" style="max-width:100%; height:auto;"><br>
+<img src="/assets/images/art/vip9.webp" alt="" style="max-width:100%; height:auto;"><br><br>
 
 <p>Identify vulnerabilities with technology-enabled risk assessment tools. Conduct thorough audits and due diligence checks with AI-driven checklists, ensuring adherence to regulations.</p>
 
@@ -154,7 +154,7 @@ permalink: /posts/welcome-to-vishvena's-technology-Infused-ip-services
 <section id="11">
 	<h2>11. IP Analytics and Reporting:</h2>
 
-<img src="/assets/images/art/vip11.webp" alt="" style="max-width:100%; height:auto;"><br>
+<img src="/assets/images/art/vip11.webp" alt="" style="max-width:100%; height:auto;"><br><br>
 
 <p>Track performance metrics with advanced analytics and customizable dashboards. Make informed decisions with comprehensive, technology-driven reports.</p>
 
