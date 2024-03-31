@@ -87,6 +87,11 @@ permalink: /posts/welcome-to-vishvena's-technology-Infused-ip-services
 
 </section>
 
+<center><blockquote style="position:relative;">
+<p><b style="font-size:1em;">"If you seek further information on how Vishvena Techno Solutions facilitates the Services on Intellectuall Property, kindly visit the provided link and <a href="/contact"><i>Complete the form</i></a>."</b></p>
+<div style="position:absolute; top:0; bottom:0; left:-15px; border-left:5px solid black;"></div>
+</blockquote></center>
+
 <section id="5">
 	<h2>5. IP Licensing and Contracts:</h2>
 
@@ -122,6 +127,11 @@ permalink: /posts/welcome-to-vishvena's-technology-Infused-ip-services
 <p>Access expert advice through virtual consultations, ensuring compliance with digital document preparation services. Stay informed with AI-based legal research tools.</p>
 
 </section>
+
+<center><blockquote style="position:relative;">
+<p><b style="font-size:1em;">"If you seek further information on how Vishvena Techno Solutions facilitates the Services on Intellectuall Property, kindly visit the provided link and <a href="/contact"><i>Complete the form</i></a>."</b></p>
+<div style="position:absolute; top:0; bottom:0; left:-15px; border-left:5px solid black;"></div>
+</blockquote></center>
 
 <section id="9">
 	<h2>9. IP Audits and Due Diligence:</h2>
