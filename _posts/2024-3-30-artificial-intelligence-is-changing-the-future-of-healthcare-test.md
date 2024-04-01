@@ -190,10 +190,10 @@ permalink: /posts/ads-test
         <!-- Vertical line -->
       </td>
       <td style="padding: 10px; width: auto%;">
-        <b style="font-size:1em;">"If you seek further information on how Vishvena Techno Solutions facilitates the Services on HealthCare using Artificial Intelligence [AI], kindly visit the provided link and fill the form"</b>
+        <b style="font-size:1em;">"If you seek further information on how Vishvena facilitates the Services on Intellectual Properties, kindly visit the provided link and fill the form"</b>
       </td>
       <td style="padding: 10px; width: auto;">
-        <a href="/contact" style="display: inline-block; background-color: #2196F3; color: white; padding: 8px 16px; text-decoration: none; border-radius: 5px; font-weight: bold;">click</a>
+        <a href="/contact" style="display: inline-block; background-color: #2196F3; color: white; padding: 8px 16px; text-decoration: none; border-radius: 5px; font-weight: bold;">Contact</a>
       </td>
     </tr>
   </table>
