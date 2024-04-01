@@ -135,7 +135,7 @@ permalink: /posts/welcome-to-vishvena's-technology-Infused-ip-services
     <img src="/assets/images/art/testad.jpg" alt="Image" style="width: 100px; height: auto;">
     <p style="margin: 0 20px; width: 300px;">For more details on how Vishvena employs IP services, please inquire further.</p>
     <a href="/contact" style="background-color: #2196F3; color: white; padding: 8px 32px; text-decoration: none; border-radius: 5px; font-weight: bold; width: 100px; text-align: center;">Inquiry</a>
-</div>
+</div><br><br>
 
 <section id="9">
 	<h2>9. IP Audits and Due Diligence:</h2>
