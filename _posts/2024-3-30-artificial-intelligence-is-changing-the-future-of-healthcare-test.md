@@ -179,7 +179,7 @@ permalink: /posts/ads-test
 
 <div style="display: flex; align-items: center; border: 2px solid #000; padding: 10px;">
     <img src="/assets/images/art/testad.jpg" alt="Image" style="max-width: 100px; height: auto;">
-    <p style="margin: 0 20px;">For details on how Vishvena Techno Solutions employs AI in healthcare services, please inquire further.</p>
+    <p style="margin: 0 20px;">For more details on how Vishvena employs IP services, please inquire further.</p>
     <a href="/contact" style="background-color: #2196F3; color: white; padding: 8px 16px; text-decoration: none; border-radius: 5px; font-weight: bold;">Click</a>
 </div>
 
