@@ -1,7 +1,9 @@
 ---
+categories:
+  - All
+  - Intellectual Property
 layout: post-boxed
 title: Welcome to Vishvena's Technology-Infused IP Services
-categories: [All, Intellectual Property]
 date: 2024-03-29T18:30:00.000Z
 author: admin
 post_image: /assets/images/art/vip.webp
@@ -40,10 +42,10 @@ permalink: /posts/welcome-to-vishvena's-technology-Infused-ip-services
 	</nav>
 </header>
 
-<center><blockquote style="position:relative;">
-<p><b style="font-size:1em;">"If you seek further information on how Vishvena Techno Solutions facilitates the Services on Intellectuall Property, kindly visit the provided link and <a href="/contact"><i>Complete the form</i></a>."</b></p>
-<div style="position:absolute; top:0; bottom:0; left:-15px; border-left:5px solid black;"></div>
-</blockquote></center>
+<a href="/contact">
+  <img src="/assets/images/art/inlinead2.webp" alt="inlinead" style="max-width:100%; height:auto;">
+</a>
+<br>
 
 <article>
     <section id="introduction">
@@ -79,6 +81,11 @@ permalink: /posts/welcome-to-vishvena's-technology-Infused-ip-services
 
 </section>
 
+<center><blockquote style="position:relative;">
+<p><b style="font-size:1em;">"If you seek further information on how Vishvena Techno Solutions facilitates the Services on Intellectuall Property, kindly visit the provided link and <a href="/contact"><i>Complete the form</i></a>."</b></p>
+<div style="position:absolute; top:0; bottom:0; left:-15px; border-left:5px solid black;"></div>
+</blockquote></center>
+
 <section id="4">
 	<h2>4. Trade Secret Services:</h2>
 
@@ -87,11 +94,6 @@ permalink: /posts/welcome-to-vishvena's-technology-Infused-ip-services
 <p>Protect proprietary information with advanced encryption and access controls. Enforce confidentiality with automated strategies, safeguarding your competitive advantage.</p>
 
 </section>
-
-<center><blockquote style="position:relative;">
-<p><b style="font-size:1em;">"If you seek further information on how Vishvena Techno Solutions facilitates the Services on Intellectuall Property, kindly visit the provided link and <a href="/contact"><i>Complete the form</i></a>."</b></p>
-<div style="position:absolute; top:0; bottom:0; left:-15px; border-left:5px solid black;"></div>
-</blockquote></center>
 
 <section id="5">
 	<h2>5. IP Licensing and Contracts:</h2>
@@ -129,10 +131,11 @@ permalink: /posts/welcome-to-vishvena's-technology-Infused-ip-services
 
 </section>
 
-<center><blockquote style="position:relative;">
-<p><b style="font-size:1em;">"If you seek further information on how Vishvena Techno Solutions facilitates the Services on Intellectuall Property, kindly visit the provided link and <a href="/contact"><i>Complete the form</i></a>."</b></p>
-<div style="position:absolute; top:0; bottom:0; left:-15px; border-left:5px solid black;"></div>
-</blockquote></center>
+<div style="display: flex; align-items: center; border: 2px solid #000; padding: 10px;">
+    <img src="/assets/images/art/testad.jpg" alt="Image" style="max-width: 100px; height: auto;">
+    <p style="margin: 0 20px;">For more details on how Vishvena employs IP services, please inquire further.</p>
+    <a href="/contact" style="background-color: #2196F3; color: white; padding: 8px 32px; text-decoration: none; border-radius: 5px; font-weight: bold;">Inquiry</a>
+</div>
 
 <section id="9">
 	<h2>9. IP Audits and Due Diligence:</h2>
