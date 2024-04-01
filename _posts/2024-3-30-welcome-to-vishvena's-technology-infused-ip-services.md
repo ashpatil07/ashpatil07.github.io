@@ -45,7 +45,7 @@ permalink: /posts/welcome-to-vishvena's-technology-Infused-ip-services
 <a href="/contact">
   <img src="/assets/images/art/inlinead2.webp" alt="inlinead" style="max-width:100%; height:auto;">
 </a>
-<br>
+<br><br>
 
 <article>
     <section id="introduction">
