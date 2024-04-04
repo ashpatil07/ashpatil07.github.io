@@ -49,8 +49,6 @@ permalink: /posts/global-ip-strategy-unlocking-maximum-value-across-borders
 <section id="1">
 	<h2>1. Understanding the Importance of Global IP Strategy</h2>
 
-<img src="/assets/images/art/vip1.webp" alt="" style="max-width:100%; height:auto;"><br><br>
-
 <p>In today's interconnected world, businesses operate across borders, making it essential to develop robust global IP strategies. Effective IP management not only safeguards inventions and innovations but also enhances competitiveness and fosters growth in international markets. By aligning IP strategy with business objectives, companies can capitalize on opportunities while mitigating risks associated with global expansion.</p>
 
 </section>
@@ -65,8 +63,6 @@ permalink: /posts/global-ip-strategy-unlocking-maximum-value-across-borders
 <section id="3">
 	<h2>a. International Patent Filings</h2>
 
-<img src="/assets/images/art/vip3.webp" alt="" style="max-width:100%; height:auto;"><br><br>
-
 <p>We assist clients in navigating the complex process of filing patents internationally, ensuring comprehensive protection for their inventions in key markets around the world. Our team of experts guides clients through the intricacies of patent laws and regulations in different jurisdictions, optimizing their patent portfolio for maximum value and protection.</p>
 
 </section>
@@ -79,8 +75,6 @@ permalink: /posts/global-ip-strategy-unlocking-maximum-value-across-borders
 <section id="4">
 	<h2>b. Cross-Border Trademark Protection</h2>
 
-<img src="/assets/images/art/vip4.webp" alt="" style="max-width:100%; height:auto;"><br><br>
-
 <p>Trademarks are valuable assets that distinguish a company's products and services in the marketplace. We help clients secure trademark protection across borders, safeguarding their brand identity and reputation in international markets. From conducting thorough trademark searches to filing applications and managing trademark portfolios, we provide comprehensive support at every stage of the process.</p>
 
 </section>
@@ -88,16 +82,12 @@ permalink: /posts/global-ip-strategy-unlocking-maximum-value-across-borders
 <section id="5">
 	<h2>c. IP Due Diligence and Portfolio Management</h2>
 
-<img src="/assets/images/art/vip5.webp" alt="" style="max-width:100%; height:auto;"><br><br>
-
 <p>Our team conducts thorough IP due diligence assessments to identify and evaluate intellectual assets, risks, and opportunities associated with mergers, acquisitions, and other business transactions. We also offer strategic portfolio management services to optimize the value and effectiveness of clients' IP portfolios, ensuring alignment with their long-term business goals.</p>
 
 </section>
 
 <section id="6">
 	<h2>3. Navigating Global IP Laws and Regulations</h2>
-
-<img src="/assets/images/art/vip6.webp" alt="" style="max-width:100%; height:auto;"><br><br>
 
 <p>Navigating global IP laws and regulations requires expertise and experience to ensure compliance and maximize protection. Our team stays abreast of the latest developments in IP laws around the world, providing clients with up-to-date guidance and support. Whether it's addressing regulatory changes, enforcing IP rights, or resolving disputes, we leverage our deep understanding of global IP landscape to protect our clients' interests effectively.</p>
 
