@@ -38,7 +38,7 @@ permalink: >-
 </header>
 
 <a href="/contact">
-  <img src="/assets/images/art/inlinead2.webp" alt="inlinead" style="max-width:100%; height:auto;">
+  <img src="/assets/images/art/ip ads a.webp" alt="inlinead" style="max-width:100%; height:auto;">
 </a>
 <br><br>
 
