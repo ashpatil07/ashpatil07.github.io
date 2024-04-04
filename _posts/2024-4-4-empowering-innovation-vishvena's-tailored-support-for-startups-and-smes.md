@@ -38,7 +38,7 @@ permalink: /posts/empowering-innovation-vishvena's-tailored-support-for-startups
 </header>
 
 <a href="/contact">
-  <img src="/assets/images/art/inlinead2.webp" alt="inlinead" style="max-width:100%; height:auto;">
+  <img src="/assets/images/art/ip ads a.webp" alt="inlinead" style="max-width:100%; height:auto;">
 </a>
 <br><br>
 
@@ -60,8 +60,6 @@ permalink: /posts/empowering-innovation-vishvena's-tailored-support-for-startups
 
 <section id="2">
 	<h2>2. Tailored IP Solutions for Startups and SMEs</h2>
-
-<img src="/assets/images/art/vip2.webp" alt="" style="max-width:100%; height:auto;"><br><br>
 
 <p>Vishvena offers a range of specialized IP services designed to address the unique needs and challenges of startups and SMEs:</p>
 
@@ -101,8 +99,6 @@ permalink: /posts/empowering-innovation-vishvena's-tailored-support-for-startups
 
 <section id="6">
 	<h2>3. Driving Success: The Benefits of Startup and SME Support</h2>
-
-<img src="/assets/images/art/vip6.webp" alt="" style="max-width:100%; height:auto;"><br><br>
 
 <p>By partnering with Vishvena for their IP needs, startups and SMEs can unlock several benefits:</p>
 
