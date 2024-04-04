@@ -137,7 +137,7 @@ permalink: >-
 </section>
 
 <section id="10">
-	<h2>7. Conclusion</h2>
+	<h2>Conclusion</h2>
 
 <img src="/assets/images/art/vip7.webp" alt="" style="max-width:100%; height:auto;"><br><br>
 
