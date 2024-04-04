@@ -8,8 +8,7 @@ author: admin
 post_image: /assets/images/art/ip101.webp
 boxed_sidebar: ''
 permalink: >-
-  /posts/unlocking-innovation-with-intellectual-property-solutions-for-emerging
-  -technologies
+  /posts/unlocking-innovation-with-intellectual-property-solutions-for-emerging-technologies
 ---
 
 ###### Category: Intellectual Property
