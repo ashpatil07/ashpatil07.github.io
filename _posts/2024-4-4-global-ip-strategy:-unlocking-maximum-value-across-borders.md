@@ -106,7 +106,7 @@ permalink: /posts/global-ip-strategy-unlocking-maximum-value-across-borders
 </section>
 
 <section id="7">
-	<h2>7. Conclusion</h2>
+	<h2>Conclusion</h2>
 
 <img src="/assets/images/art/vip7.webp" alt="" style="max-width:100%; height:auto;"><br><br>
 
