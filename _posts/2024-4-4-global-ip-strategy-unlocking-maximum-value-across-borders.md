@@ -58,8 +58,6 @@ permalink: /posts/global-ip-strategy-unlocking-maximum-value-across-borders
 <section id="2">
 	<h2>2. Key Components of Global IP Strategy</h2>
 
-<img src="/assets/images/art/vip2.webp" alt="" style="max-width:100%; height:auto;"><br><br>
-
 <p>A successful global IP strategy encompasses various components tailored to meet the specific needs and objectives of each client. This may include:</p>
 
 </section>
@@ -107,8 +105,6 @@ permalink: /posts/global-ip-strategy-unlocking-maximum-value-across-borders
 
 <section id="7">
 	<h2>Conclusion</h2>
-
-<img src="/assets/images/art/vip7.webp" alt="" style="max-width:100%; height:auto;"><br><br>
 
 <p>In an increasingly globalized business environment, developing a comprehensive global IP strategy is essential for businesses looking to protect and maximize the value of their intellectual assets. At Vishvena, we specialize in crafting tailored IP solutions that align with our clients' business objectives and navigate the complexities of global IP laws and regulations. From international patent filings to cross-border trademark protection, we provide expert guidance and support to help our clients succeed in today's competitive marketplace.</p>
 
