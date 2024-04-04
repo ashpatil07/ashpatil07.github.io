@@ -15,7 +15,7 @@ permalink: >-
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title><h1>Empowering Innovation Vishvena's Tailored Support for Startups and SMEs</h1></title>
+    <title><h1>Empowering Innovation-Vishvena's Tailored Support for Startups and SMEs</h1></title>
     <meta name="description" content="Discover how Vishvena's tailored IP support empowers startups and SMEs to protect their intellectual assets, secure funding, and achieve long-term success in the competitive market.">
 </head>
 <body>
