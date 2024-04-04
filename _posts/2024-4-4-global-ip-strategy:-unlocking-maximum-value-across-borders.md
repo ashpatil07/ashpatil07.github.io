@@ -1,6 +1,6 @@
 ---
 layout: post-boxed
-title: 'Global IP Strategy: Unlocking Maximum Value Across Borders'
+title: Global IP Strategy Unlocking Maximum Value Across Borders
 date: 2024-03-28T18:30:00.000Z
 author: admin
 post_image: /assets/images/art/ip102.webp
