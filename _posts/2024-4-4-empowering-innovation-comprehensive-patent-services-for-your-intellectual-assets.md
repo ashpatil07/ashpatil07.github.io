@@ -56,8 +56,6 @@ permalink: >-
 <section id="1">
 	<h2>1. Why Patent Protection Matters</h2>
 
-<img src="/assets/images/art/vip1.webp" alt="" style="max-width:100%; height:auto;"><br><br>
-
 <p>In today's competitive landscape, intellectual property (IP) protection is crucial for businesses seeking to maintain a competitive edge. Patents grant inventors exclusive rights to their inventions, enabling them to prevent others from making, using, or selling their creations without permission. By securing patent protection, businesses can safeguard their innovations, deter competitors, and capitalize on their market advantage.</p>
 
 </section>
@@ -65,16 +63,12 @@ permalink: >-
 <section id="2">
 	<h2>2. Our Comprehensive Patent Services</h2>
 
-<img src="/assets/images/art/vip2.webp" alt="" style="max-width:100%; height:auto;"><br><br>
-
 <p>Vishvena's Patent Services offer a range of solutions tailored to meet the unique needs and objectives of our clients:</p>
 
 </section>
 
 <section id="3">
 	<h2>a. Strategic Planning</h2>
-
-<img src="/assets/images/art/vip3.webp" alt="" style="max-width:100%; height:auto;"><br><br>
 
 <p>Our team of experienced patent attorneys works closely with clients to develop strategic patent plans aligned with their business objectives. We assess the technological landscape, identify patentable inventions, and formulate a comprehensive strategy to protect our clients' innovations effectively.</p>
 
@@ -88,16 +82,12 @@ permalink: >-
 <section id="4">
 	<h2>b. Drafting and Prosecution</h2>
 
-<img src="/assets/images/art/vip4.webp" alt="" style="max-width:100%; height:auto;"><br><br>
-
 <p>We specialize in drafting high-quality patent applications tailored to the specific requirements of each client's invention. Our attorneys possess technical expertise across diverse technology domains, ensuring that patents are drafted with precision and accuracy. We also handle patent prosecution, navigating the complexities of the examination process to secure granted patents for our clients.</p>
 
 </section>
 
 <section id="5">
 	<h2>c. Portfolio Management</h2>
-
-<img src="/assets/images/art/vip5.webp" alt="" style="max-width:100%; height:auto;"><br><br>
 
 <p>Managing a portfolio of patents requires careful oversight and strategic planning. Vishvena offers comprehensive portfolio management services, assisting clients in evaluating, maintaining, and monetizing their patent portfolios effectively. We help clients optimize their patent assets to maximize value and achieve their business goals.</p>
 
@@ -106,16 +96,12 @@ permalink: >-
 <section id="6">
 	<h2>d. Enforcement and Litigation</h2>
 
-<img src="/assets/images/art/vip6.webp" alt="" style="max-width:100%; height:auto;"><br><br>
-
 <p>In cases of patent infringement, Vishvena provides expert guidance and representation to enforce our clients' patent rights. Our team of litigators has extensive experience in patent litigation, representing clients in disputes and defending their intellectual property against infringement.</p>
 
 </section>
 
 <section id="7">
 	<h2>3. Driving Success with Patent Protection</h2>
-
-<img src="/assets/images/art/vip7.webp" alt="" style="max-width:100%; height:auto;"><br><br>
 
 <p>By partnering with Vishvena for Patent Services, clients can unlock several benefits:</p>
 
@@ -124,8 +110,6 @@ permalink: >-
 <section id="8">
 	<h2>a. Comprehensive Protection</h2>
 
-<img src="/assets/images/art/vip7.webp" alt="" style="max-width:100%; height:auto;"><br><br>
-
 <p>Our end-to-end solutions ensure that clients' innovations are comprehensively protected, from drafting to enforcement.</p>
 
 </section>
@@ -133,14 +117,10 @@ permalink: >-
 <section id="9">
 	<h2>b. Market Advantage</h2>
 
-<img src="/assets/images/art/vip7.webp" alt="" style="max-width:100%; height:auto;"><br><br>
-
 <p> Securing patent protection provides businesses with a competitive edge in the marketplace, allowing them to capitalize on their innovations and differentiate themselves from competitors.</p>
 
 <section id="10">
 	<h2>c. Maximized Value</h2>
-
-<img src="/assets/images/art/vip7.webp" alt="" style="max-width:100%; height:auto;"><br><br>
 
 <p>Patents are valuable assets that can be leveraged to generate revenue through licensing, partnerships, and other commercialization opportunities.</p>
 
@@ -148,8 +128,6 @@ permalink: >-
 
 <section id="11">
 	<h2>Conclusion</h2>
-
-<img src="/assets/images/art/vip7.webp" alt="" style="max-width:100%; height:auto;"><br><br>
 
 <p>At Vishvena, we are committed to empowering innovation through our comprehensive Patent Services. From strategic planning to enforcement, we provide end-to-end solutions to protect our clients' intellectual assets and drive their success in the marketplace. With Vishvena as your trusted partner, you can rest assured that your innovations are in capable hands, safeguarded and positioned for maximum value and impact.</p>
 
