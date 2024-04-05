@@ -3,7 +3,7 @@ layout: post-boxed
 title: How Artificial Intelligence Revolutionizes Intellectual Property Management
 date: 2024-03-28T18:30:00.000Z
 author: admin
-post_image: /assets/images/art/ip1111.webp
+post_image: /assets/images/art/ip111.webp
 boxed_sidebar: ''
 permalink: >-
   /posts/how-artificial-intelligence-revolutionizes-intellectual-property-management
