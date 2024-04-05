@@ -3,7 +3,7 @@ layout: post-boxed
 title: How Intellectual Property Policies Differ Across Countries
 date: 2024-03-28T18:30:00.000Z
 author: admin
-post_image: /assets/images/art/ip113.webp
+post_image: /assets/images/art/41033.jpg
 boxed_sidebar: ''
 permalink: /posts/how-intellectual-property-policies-differ-across-countries
 ---
