@@ -64,8 +64,6 @@ permalink: /posts/dream-video-generator
 	<h2>2. Interact and Acquire</h2>
 
 ```
-<img src="/assets/images/art/." alt="Boosting" style="max-width:100%; height:auto;">
-
 <p><b>Chatbots and messaging features:</b>Interacting with customers is facilitated through the use of chatbots and messaging features. These tools enable businesses to engage with users in real-time, providing assistance, answering queries, and guiding them through the acquisition process.</p>
 <p><b>Media-driven interactions:</b>Media-driven interactions enhance user engagement by incorporating multimedia elements into communication channels. This includes features such as audio and video messages, image sharing, and interactive media content.</p>
 <p><b>Support for likes, ratings, and reviews:</b>To foster user engagement and trust, businesses provide support for likes, ratings, and reviews. This allows customers to express their opinions, share feedback, and contribute to the community.</p>
