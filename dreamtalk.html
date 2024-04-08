@@ -579,26 +579,28 @@ contact_area:
 <div class="wrapper dark-wrapper inverse-text">
     <div class="container inner">
         <div class="row">
-            <div class="col-md-12 text-center">
+            <div class="col-md-7 mx-auto">
                 {% if page.services_area.title %}
-                <h2 class="title-color color-white">{{ page.services_area.title }}</h2>
+                <h2 class="title-color color-white text-center">{{ page.services_area.title }}</h2>
                 {% endif %}
                 {% if page.services_area.sub_title %}
-                <h3 class="display-3">{{ page.services_area.sub_title }}</h3>
+                <h3 class="display-3 text-center">{{ page.services_area.sub_title }}</h3>
                 {% endif %}
                 <div class="space40"></div>
             </div>
         </div>
-        <div class="row gutter-50 justify-content-left">
+        <div class="row gutter-50">
             {% for service in page.services_area.services %}
-            <div class="col-md-4 mb-4">
-                <div class="d-flex flex-column align-items-left">
-                    <div class="icon color-default fs-38 mb-3">
-                        <i class="{{ service.icon }}"></i>
+            <div class="col-md-6 col-lg-4 {% if forloop.index > 3 %} mb-4 mb-lg-0 {% else %} mb-4 {% endif %}">
+                <div class="d-flex flex-row justify-content-center">
+                    <div>
+                        <div class="icon color-default fs-38 mr-25">
+                            <i class="{{ service.icon }}"></i>
+                        </div>
                     </div>
-                    <div class="text-left">
+                    <div>
                         <h5>{{ service.title }}</h5>
-                        <p>{{ service.sub_title }}</p>
+                        <p class="mb-0">{{ service.sub_title }}</p>
                         <a href="{{ service.url }}" class="cta-link">{{ service.cta }}</a>
                     </div>
                 </div>
