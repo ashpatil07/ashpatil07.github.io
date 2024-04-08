@@ -568,46 +568,6 @@ blogs_area:
     <!-- Add CSS for making slider text and buttons mobile responsive -->
 </head>
 
-<div class="wrapper dark-wrapper">
-    <div class="rev_slider_wrapper fullscreen-container">
-        <div id="slider" class="rev_slider fullscreenbanner" data-version="5.4.7">
-            <ul>
-                {% for slider in page.slider_area.sliders %}
-                <li data-transition="fade" data-thumb="">
-                    <img src="{{slider.img}}" alt="{{slider.alt_text}}" />
-                    <div class="tp-caption font-weight-500 color-white {% cycle 'text-center', '', '', 'text-center' %}"
-                        data-x="{{slider.title.x}}" data-y="{{slider.title.y}}" data-voffset="{{slider.title.voffset}}"
-                        data-hoffset="{{slider.title.hoffset}}" data-fontsize="{{slider.title.fontsize}}"
-                        data-lineheight="{{slider.title.lineheight}}" data-width="{{slider.title.width}}"
-                        data-textAlign="{{slider.title.textAlign}}" data-whitespace="{{slider.title.whitespace}}"
-                        data-frames='[{"delay":1000,"speed":1200,"frame":"0","from":"y:-50px;opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"auto:auto;","ease":"Power3.easeInOut"}]'
-                        data-responsive="on" data-responsive_offset="on" style="z-index: 9;"> {{slider.title.heading}}
-                    </div>
-                    {% for sub_title in slider.sub_title %}
-                    <div class="tp-caption font-weight-400 color-white {% cycle 'text-center', '', 'text-center' %}"
-                        data-x="{{sub_title.x}}" data-y="{{sub_title.y}}" data-voffset="{{sub_title.voffset}}"
-                        data-hoffset="{{sub_title.hoffset}}" data-fontsize="{{sub_title.fontsize}}"
-                        data-lineheight="{{sub_title.lineheight}}" data-width="{{sub_title.width}}"
-                        data-textAlign="{{sub_title.textAlign}}" data-whitespace="{{sub_title.whitespace}}"
-                        data-frames='[{"delay":1500,"speed":1200,"frame":"0","from":"x:-50px;opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"auto:auto;","ease":"Power3.easeInOut"}]'
-                        data-responsive="on" data-responsive_offset="on" style="z-index: 9;"> {{sub_title.subheading}}
-                    </div>
-                    {% endfor %}
-                    {% for button in slider.button %}
-                    <a class="tp-caption btn btn-l btn-white btn-strong-hover scroll"
-                        data-x="{{button.x}}" data-y="{{button.y}}" data-voffset="{{button.voffset}}"
-                        data-hoffset="{{button.hoffset}}" data-width="{{button.width}}"
-                        data-textAlign="{{button.textAlign}}" href="{{button.url}}">
-                        {{button.text}}
-                    </a>
-                    {% endfor %}
-                </li>
-                {% endfor %}
-            </ul>
-            <div class="tp-bannertimer tp-bottom"></div>
-        </div>
-    </div>
-</div>
 
 <body>
     <!-- Your page content here -->
