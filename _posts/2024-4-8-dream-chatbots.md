@@ -49,8 +49,6 @@ permalink: /posts/dream-chatbots
 
 <section id="1">
 	<h2>1. Improvement in the business Growth</h2>
-
-```
 <div>
 <p>
     Festival open air berg was able to provide a better experience for their attendees through chatbots, ticketing, and referral system. Chatbots improve your business growth by:
@@ -69,8 +67,6 @@ permalink: /posts/dream-chatbots
 <p>
     WotNot chatbots are meant to work fluidly across numerous channels and technologies, regardless of the platform. Integrate bots into your users' preferred platforms and meet them where they are.
 </p>
-```
-
 </div>
 
 </section>
@@ -78,20 +74,16 @@ permalink: /posts/dream-chatbots
 <section id="2">
 	<h2>2. DreamTalk Chatbots: Boosting Sales and Leads</h2>
 
-```
 <img src="/assets/images/art/bt1a.webp" alt="Boosting" style="max-width:100%; height:auto;">
 
 <p>Our team determined the functional requirement of system by their business objectives, target user, competition and also prospective market segments to understand Execution of the framework.</p>
-```
 
 </section>
 
 <section id="3">
 	<h2>3. Business Integration: A Comprehensive Overview</h2>
 
-```
 <p>DREAMTALK takes complete responsibility to build setup, deliver and maintain the bot from start to finish. DREAMTALK gives you everything you need to successfully build and manage the Chatbots. Our team enables the integrations by using some software, backend system, company knowledge and target Chatbots platform. </p>
-```
 
 </section>
 
@@ -102,35 +94,25 @@ permalink: /posts/dream-chatbots
 
 <section id="4">
 	<h2>4. Training, Monitoring, and Optimization</h2>
-
-```
 <p>Chatbots constantly evolving and effectively self-learn under supervision through quality data training in order to fix error excel personalized communications and flow the business process with ease. The bot performance is monitor by analyzed conversational logs and usage insight to fix the breakage point. Analytics also helps to measure the Bots ROI and run A/B test to optimize the conversational flow and customer experiences. </p>
-```
 
 </section>
 
 <section id="5">
 	<h2>5. Process Upgrades and Automation</h2>
-
-```
 <p>DREAMTALK enhance your existing process and improve their performance instead of introducing new process. DREAMTALK ensure accuracy and independence from human errors. Our expert determine the solution to take a close up look at industry specific use case, application and impact of chatbots from your business.</p>
-```
 
 </section>
 
 <section id="6">
 	<h2>6. Customization and Consultation Services</h2>
-
-```
 <p>A solid chatbot strategy ensures optimal execution by analyzing user stories, technology platform and product roadmap. Execution ensure right from conception and deliberation to conversational flow visualization, developing a POC, publishing and maintenance of bot. Customer experience improve by using Al technologies intelligence and automatic conversation. Al technologies analyzed conversational performance from the input.</p>
-```
 
 </section>
 
 <section id="7">
 	<h2>7. Offerings</h2>
 
-```
 <img src="/assets/images/art/bt1b.webp" alt="Offerings" style="max-width:100%; height:auto;">
 
 <div>
@@ -144,7 +126,6 @@ permalink: /posts/dream-chatbots
     <li>Analytics and Human Handover: Through a human handover function, a bot can comprehend user expectations and solve difficult issues and escalations</li>
     <li>BIGTALK AI chatbots easily available on all your favorite channels such as Whatsapp, Facebook Messenger, Websites, and Instagram</li>
 </ul>
-```
 
 </div>
 
