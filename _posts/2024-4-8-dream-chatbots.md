@@ -87,10 +87,21 @@ permalink: /posts/dream-chatbots
 
 </section>
 
-<center><blockquote style="position:relative;">
-<p><b style="font-size:1em;">"If you seek further information on how Vishvena Techno Solutions facilitates the Services on Intellectuall Property, kindly visit the provided link and <a href="/contact"><i>Complete the form</i></a>."</b></p>
-<div style="position:absolute; top:0; bottom:0; left:-15px; border-left:5px solid black;"></div>
-</blockquote></center>
+<blockquote style="position:relative;">
+ <table style="border-collapse: collapse; width: 100%;">
+    <tr>
+      <td style="border-right: 3px solid black; padding: 10px; width: auto;">
+        <!-- Vertical line -->
+      </td>
+      <td style="padding: 10px; width: auto;">
+        <b style="font-size:1em;">"If you seek further information on how Vishvena facilitates the Services on Intellectual Properties, kindly visit the provided link and fill the form"</b>
+      </td>
+      <td style="padding: 10px; width: auto;">
+        <a href="/contact" style="display: inline-block; background-color: #2196F3; color: white; padding: 8px 16px; text-decoration: none; border-radius: 5px; font-weight: bold;">Contact</a>
+      </td>
+    </tr>
+  </table>
+  </blockquote>
 
 <section id="4">
 	<h2>4. Training, Monitoring, and Optimization</h2>
