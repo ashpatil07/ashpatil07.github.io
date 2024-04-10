@@ -46,43 +46,38 @@ permalink: /posts/dream-storage-&-security-next-generation
 
 <section id="1">
 	<h2>1. Security & Access Control:</h2>
-
-```
 <p>One of the core features of Dream Storage & Security Next Generation is its robust security and access control mechanisms. With the ability to share data across teams while managing hierarchies within and outside the organization, users have complete control over who can access what in real-time. Whether it's defining access levels for different teams or implementing strict access rules, our platform ensures that sensitive data remains secure at all times.</p>
-```
-
 </section>
 
 <section id="2">
 	<h2>2. Data Loss Prevention:</h2>
-
-```
 <p>Data loss can have devastating consequences for businesses, ranging from financial loss to reputational damage. Dream Storage & Security Next Generation mitigates the risk of data loss by addressing common scenarios such as employees leaving the organization, lack of storage for old data, and failure to recognize the importance of certain data. With our platform, organizations can rest assured that their data is protected against loss or misuse, allowing them to focus on driving business growth without compromising security.</p>
-```
-
 </section>
+
+<blockquote style="position:relative;">
+ <table style="border-collapse: collapse; width: 100%;">
+    <tr>
+      <td style="border-right: 3px solid black; padding: 10px; width: auto;">
+        <!-- Vertical line -->
+      </td>
+      <td style="padding: 10px; width: auto;">
+        <b style="font-size:1em;">"If you seek further information on how Vishvena facilitates the Services on Intellectual Properties, kindly visit the provided link and fill the form"</b>
+      </td>
+      <td style="padding: 10px; width: auto;">
+        <a href="/contact" style="display: inline-block; background-color: #2196F3; color: white; padding: 8px 16px; text-decoration: none; border-radius: 5px; font-weight: bold;">Contact</a>
+      </td>
+    </tr>
+  </table>
+  </blockquote>
 
 <section id="3">
 	<h2>3. Business Rules & Customizations:</h2>
-
-```
 <p>Our platform goes beyond basic storage solutions, offering a range of business rules and customizations to enhance data management and security. Users can define access control logic based on their organization's design, spanning across locations, branches, teams, and more. Additionally, our competitive pricing and partnerships with world-class storage providers ensure that organizations get the best value for their investment while leaving the technical aspects to us.</p>
-```
-
 </section>
-
-<center><blockquote style="position:relative;">
-<p><b style="font-size:1em;">"If you seek further information on how Vishvena Techno Solutions facilitates the Services on Intellectuall Property, kindly visit the provided link and <a href="/contact"><i>Complete the form</i></a>."</b></p>
-<div style="position:absolute; top:0; bottom:0; left:-15px; border-left:5px solid black;"></div>
-</blockquote></center>
 
 <section id="4">
 	<h2>Conclusion:</h2>
-
-```
 <p>Dream Storage & Security Next Generation sets a new standard for data storage and security, offering unparalleled features and customization options to meet the evolving needs of modern organizations. With robust access control, customizable business rules, and proactive data loss prevention measures, our platform provides unmatched peace of mind for businesses of all sizes. Experience the next generation of storage and security solutions with Dream Storage & Security Next Generation and safeguard your organization's data with confidence.</p>
-```
-
 </section>
 
 </article>
