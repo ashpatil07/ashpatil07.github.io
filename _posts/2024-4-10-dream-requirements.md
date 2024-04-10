@@ -38,58 +38,44 @@ permalink: /posts/dream-requirements
 <br><br>
 
 <article>
-
-```
 <section id="#introduction">
     <h2>Introduction</h2>
     <p>In today's rapidly evolving digital landscape, businesses must stay ahead of the curve to remain competitive. Dream Tech Solutions offers a comprehensive suite of services to help businesses thrive in the digital realm. Whether you're looking to establish an online presence, upgrade your technology infrastructure, or explore innovative solutions, we have you covered.</p>
 </section>
-
 <section id="0">
     <h2>Go Online and/or Go Digital Today</h2>
     <p>In an increasingly digital world, establishing an online presence is essential for business success. Whether you're looking to sell products online or attract more customers through digital channels, Dream Tech Solutions can help you achieve your goals. Our team specializes in developing customized online solutions tailored to your business needs, ensuring a seamless transition to the digital realm.</p>
 </section>
-```
-
 <section id="1">
 	<h2>Upgrade or Revamp Today</h2>
-
-```
 <p>Is your technology infrastructure due for an upgrade? Are you looking to revamp outdated systems or modules? Dream Tech Solutions offers expert guidance and support to help you take your technology to the next level. From software upgrades to complete system overhauls, our team has the expertise to ensure a smooth and successful transition.</p>
-```
-
 </section>
 
 <section id="2">
 	<h2>Take the First Step</h2>
-
-```
 <p>Ready to embark on your digital journey? Take the first step by booking a call with Dream Tech Solutions today. Our team of experts will work closely with you to understand your needs and develop a customized plan to achieve your digital objectives. Don't wait any longer – unlock your digital potential with Dream Tech Solutions.</p>
-```
-
 </section>
 
+  <blockquote style="position:relative;">
+    <p><b style="font-size:1em;">"If you seek further information on how Vishvena Techno Solutions facilitates the Services on Intellectual Property, kindly visit the provided link and</b></p>
+
+<div style="position:absolute; top:0; bottom:0; left:-15px; border-left:5px solid black;"></div>
+<p><a href="/contact" style="background-color: #2196F3; color: white; padding: 8px 16px; text-decoration: none; border-radius: 5px; font-weight: bold;">Complete the form</a></p>
+  </blockquote>
 <section id="3">
 
-```
 <p><b>Web Apps:</b>Discover the power of web applications with Dream Tech Solutions. From e-commerce platforms to customer portals, we develop intuitive and feature-rich web apps to meet your business needs.</p>
 <p><b>Mobile Apps:</b>Reach your customers wherever they are with custom mobile apps from Dream Tech Solutions. Our team specializes in developing user-friendly and engaging mobile applications for iOS and Android platforms.</p>
 <p><b>AI Engines:</b>Harness the power of artificial intelligence with Dream Tech Solutions' AI engine development services. From chatbots to predictive analytics, we help businesses leverage AI technology to drive efficiency and innovation.</p>
 <p><b>Media Tech:</b>Transform your media strategy with Dream Tech Solutions' media tech solutions. From content management systems to digital marketing tools, we provide the technology and expertise to elevate your media presence and drive results.</p>
-```
-
 </section>
-
 </article>
-
 <center><blockquote style="position:relative;">
 <p><b style="font-size:1em;">"If you seek further information on how Vishvena Techno Solutions facilitates the Services on Intellectuall Property, kindly visit the provided link and <a href="/contact"><i>Complete the form</i></a>."</b></p>
 <div style="position:absolute; top:0; bottom:0; left:-15px; border-left:5px solid black;"></div>
 </blockquote></center>
-
 <footer>
 <center><p>&copy; 2024 <a href="https://vishvena.com"><b>Vishvena Techno Solutions Pvt. Ltd.</b></a>. All rights reserved.</p></center>
-
 </footer>
 </body>
 </html>
