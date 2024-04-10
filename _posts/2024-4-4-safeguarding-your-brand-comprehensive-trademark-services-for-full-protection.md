@@ -1,6 +1,7 @@
 ---
 layout: post-boxed
 title: Safeguarding Your Brand Comprehensive Trademark Services for Full Protection
+categories: [All, Intellectual Property]
 date: 2024-03-28T18:30:00.000Z
 author: admin
 post_image: /assets/images/art/ip106.webp

@@ -1,6 +1,7 @@
 ---
 layout: post-boxed
 title: Synergizing Legal and Technical Mastery Unrivaled IP Solutions
+categories: [All, Intellectual Property]
 date: 2024-03-28T18:30:00.000Z
 author: admin
 post_image: /assets/images/art/ip110.webp
@@ -24,19 +25,15 @@ permalink: /posts/synergizing-legal-and-technical-mastery-unrivaled-ip-solutions
 			<ul>
 				<li><a href="#introduction">Introduction</a></li>
 				<li><a href="#1">1. Elevating IP Solutions with Multidisciplinary Excellence</a></li>
-
-```
-			<li><a href="#2">2. Tailored Solutions for Every IP Challenge</a></li>
-			<li><a href="#3">a. Precision Patent Drafting</a></li>
-			<li><a href="#4">b. Comprehensive Portfolio Management</a></li>	
-			<li><a href="#5">c. Litigation Support</a></li>
-			<li><a href="#6">Unlocking Success Through Collaboration</a></li>
-			
-			<li><a href="#7">Conclusion</a></li>
+				<li><a href="#2">2. Tailored Solutions for Every IP Challenge</a></li>
+				<li><a href="#3">a. Precision Patent Drafting</a></li>
+				<li><a href="#4">b. Comprehensive Portfolio Management</a></li>	
+				<li><a href="#5">c. Litigation Support</a></li>
+				<li><a href="#6">Unlocking Success Through Collaboration</a></li>
+				<li><a href="#7">Conclusion</a></li>
 		
 	</ul>
 </nav>
-```
 
 </header>
 
@@ -49,8 +46,6 @@ permalink: /posts/synergizing-legal-and-technical-mastery-unrivaled-ip-solutions
     <section id="introduction">
         <h2>Introduction</h2>
         <p>In the intricate realm of intellectual property (IP), success demands a harmonious fusion of legal acumen and technical prowess. At Vishvena, our multidisciplinary team embodies this synergy, offering tailored IP solutions that seamlessly blend legal expertise with technical know-how. From precision patent drafting to unwavering litigation support, we provide unparalleled guidance through the complexities of intellectual property law, empowering our clients to navigate with confidence and clarity.</p>
-
-```
 </section>
 
 <section id="1">
@@ -59,8 +54,6 @@ permalink: /posts/synergizing-legal-and-technical-mastery-unrivaled-ip-solutions
 	<p>Innovation knows no boundaries—it transcends both legal intricacies and technical nuances. Recognizing this, Vishvena has curated a team of experts proficient in both legal and technical domains. Our attorneys possess a deep understanding of intellectual property law, while our technical specialists boast unparalleled expertise in diverse fields. Together, they form a formidable force capable of delivering IP solutions that transcend expectations and drive success.</p>
 
 </section>
-```
-
 <section id="2">
 	<h2>2. Tailored Solutions for Every IP Challenge</h2>
 
@@ -89,11 +82,7 @@ permalink: /posts/synergizing-legal-and-technical-mastery-unrivaled-ip-solutions
 
 <section id="5">
 	<h2>c. Litigation Support</h2>
-
-```
 <p> In the face of IP disputes, our team stands ready to provide unwavering support, offering expert guidance and representation to safeguard our clients' interests and uphold their rights.</p>
-```
-
 </section>
 
 <section id="6">

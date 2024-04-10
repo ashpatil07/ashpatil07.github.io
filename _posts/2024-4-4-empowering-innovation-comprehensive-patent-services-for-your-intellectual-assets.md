@@ -4,6 +4,7 @@ title: >-
   Empowering Innovation-Comprehensive Patent Services for Your Intellectual
   Assets
 date: 2024-03-28T18:30:00.000Z
+categories: [All, Intellectual Property]
 author: admin
 post_image: /assets/images/art/ip105.webp
 boxed_sidebar: ''

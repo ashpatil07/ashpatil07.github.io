@@ -4,6 +4,7 @@ title: >-
   Unlocking Innovation with Intellectual Property Solutions for Emerging
   Technologies
 date: 2024-03-28T18:30:00.000Z
+categories: [All, Intellectual Property]
 author: admin
 post_image: /assets/images/art/ip101.webp
 boxed_sidebar: ''

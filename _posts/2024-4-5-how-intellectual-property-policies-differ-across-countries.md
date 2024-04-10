@@ -1,6 +1,7 @@
 ---
 layout: post-boxed
 title: How Intellectual Property Policies Differ Across Countries
+categories: [All, Intellectual Property]
 date: 2024-03-28T18:30:00.000Z
 author: admin
 post_image: /assets/images/art/41033.jpg

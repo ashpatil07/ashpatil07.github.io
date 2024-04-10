@@ -1,6 +1,7 @@
 ---
 layout: post-boxed
 title: Empowering Innovation Vishvena's Tailored Support for Startups and SMEs
+categories: [All, Intellectual Property]
 date: 2024-03-28T18:30:00.000Z
 author: admin
 post_image: /assets/images/art/ip103.webp

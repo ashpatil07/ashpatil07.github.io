@@ -4,6 +4,7 @@ title: >-
   Preserving Your Creativity Professional Copyright Services for Comprehensive
   Protection
 date: 2024-03-28T18:30:00.000Z
+categories: [All, Intellectual Property]
 author: admin
 post_image: /assets/images/art/ip107.webp
 boxed_sidebar: ''
@@ -36,12 +37,8 @@ permalink: >-
 				<li><a href="#8">b. Monetization Opportunities</a></li>
 				<li><a href="#9">c. Peace of Mind</a></li>
 				<li><a href="#10">Conclusion</a></li>
-
-```
 	</ul>
 </nav>
-```
-
 </header>
 
 <a href="/contact">

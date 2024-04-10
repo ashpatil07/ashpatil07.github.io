@@ -1,6 +1,7 @@
 ---
 layout: post-boxed
 title: Dream Workflows Generation
+categories: [All, DreamTalk]
 date: 2024-03-26T18:30:00.000Z
 author: admin
 post_image: /assets/images/art/dwg.webp
