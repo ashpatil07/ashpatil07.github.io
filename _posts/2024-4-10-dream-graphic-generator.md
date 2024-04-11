@@ -45,6 +45,9 @@ permalink: /posts/dream-graphic-generator
     <section id="introduction">
         <h2>Introduction</h2>
         <p>Dream Graphics Generator introduces a revolutionary solution for graphic automation, empowering marketing teams to create theme-driven graphics effortlessly. By leveraging your existing designs and branding, our system automates the creation of pictures, videos, GIFs, and more, allowing you to generate limitless graphics with your unique brand identity.</p>
+		
+		<!-- Replace 'VIDEO_ID' with the actual ID of your YouTube video -->
+    <center><iframe width="560" height="315" src="https://www.youtube.com/embed/TRYAtyIE0bc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 	</section>
 
 <section id="1">
