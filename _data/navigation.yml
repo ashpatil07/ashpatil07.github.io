@@ -24,6 +24,10 @@ main_menu:
           - text: "DreamTalk"
             url: "/dreamtalk"
 
+          - text: "MediaCraft"
+            url: "/mediacraft"
+          
+
 
   - text: "Expertise Areas"
     url: "/expertise"
