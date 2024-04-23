@@ -28,16 +28,17 @@ permalink: /posts/revolutionizing-interviews-with-vidconnect
 		<br><br>
 		
      <!-- Table of Contents -->
-    <nav>
-        <h2>Table of Contents</h2>
-        <ul>
-            <li><a href="#1"></a>What is VidConnect?</li>
-            <li><a href="#2"></a>How Does VidConnect Work?</li>
-            <li><a href="#3"></a>Benefits of VidConnect</li>
-            <li><a href="#4"></a>Tips for Successful VidConnect Interviews</li>
-			<li><a href="#5"></a>Conclusion</li>
-        </ul>
-    </nav>
+		<nav>
+			<h2>Table of Contents</h2>
+			<ul>
+				<li><a href="#1">What is VidConnect?</a></li>
+				<li><a href="#2">How Does VidConnect Work?</a></li>
+				<li><a href="#3">Benefits of VidConnect</a></li>
+				<li><a href="#4">Tips for Successful VidConnect Interviews</a></li>
+				<li><a href="#5">Conclusion</a></li>
+			</ul>
+		</nav>
+
     
     <article>
         
