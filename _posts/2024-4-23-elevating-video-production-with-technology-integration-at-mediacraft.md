@@ -6,7 +6,7 @@ date: 2024-04-23T18:30:00.000Z
 author: admin
 post_image: /assets/images/art/DT_FA1.png
 boxed_sidebar: ''
-permalink: /posts/elevating-video-production-with-technology-integration-at-mediaCraft
+permalink: /posts/elevating-video-production-with-technology-integration-at-mediacraft
 ---
 
 ###### Category: MediaCraft
