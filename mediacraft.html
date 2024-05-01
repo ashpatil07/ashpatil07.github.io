@@ -635,53 +635,51 @@ contact_area:
 </div>
 {% endif %}
 
-
-
-
-		
-		
-		
-        {% endif %}
-        {% if page.blogs_area.enable %}
-        <div class="wrapper white-wrapper">
-            <div class="container inner">
-                <div class="row">
-                    <div class="col-md-7 mx-auto">
-                        {% if page.blogs_area.title %}
-                         <h2 class="title-color color-gray text-center">{{page.blogs_area.title}}</h2>
-                        {% endif %} {% if page.blogs_area.sub_title %}
-                         <h3 class="display-3 text-center">{{page.blogs_area.sub_title}}</h3>
-                        {% endif %}
-                    </div>
-                </div>
-                <div class="space40"></div>
-                <div class="grid-view">
-                    <div class="carousel owl-carousel blog-posts" data-margin="30" data-dots="true" data-autoplay="false" data-autoplay-timeout="5000" data-responsive='{"0":{"items": "1"}, "768":{"items": "2"}, "992":{"items": "3"}}'>
-                        {% for post in site.posts limit: page.blogs_area.posts_number  %}
-                        <div class="item">
-                            {% if post.post_image %}
-                            <figure class="overlay overlay1 rounded mb-30">
-                                <a href="{{post.url}}"> <img class="post-thumb" src="{{post.post_image}}" alt="{{post.title}}" /></a>
-                                <figcaption>
-                                    <h5 class="from-top mb-0">Read More</h5>
-                                </figcaption>
-                            </figure>
-                            {% endif %}
-                            <h2 class="post-title mb-0">
-                                <a href="{{post.url}}">{{post.title}}</a>
-                            </h2>
-                        </div>
-                        <!-- /.item -->
-                        {% endfor %}
-                    </div>
-                    <!-- /.owl-carousel -->
-                </div>
-                <!-- /.grid-view -->
+{% endif %}
+{% if page.blogs_area.enable %}
+<div class="wrapper white-wrapper">
+    <div class="container inner">
+        <div class="row">
+            <div class="col-md-7 mx-auto">
+                {% if page.blogs_area.title %}
+                <h2 class="title-color color-gray text-center">{{ page.blogs_area.title }}</h2>
+                {% endif %} 
+                {% if page.blogs_area.sub_title %}
+                <h3 class="display-3 text-center">{{ page.blogs_area.sub_title }}</h3>
+                {% endif %}
             </div>
-            <!-- /.container -->
         </div>
-        <!-- /.wrapper -->
-        {% endif %}
+        <div class="space40"></div>
+        <div class="grid-view">
+            <div class="carousel owl-carousel blog-posts" data-margin="30" data-dots="true" data-autoplay="false" data-autoplay-timeout="5000" data-responsive='{"0":{"items": "1"}, "768":{"items": "2"}, "992":{"items": "3"}}'>
+                {% for post in site.posts limit: page.blogs_area.posts_number %}
+                {% if post.categories contains 'MediaCraft' %}
+                <div class="item">
+                    {% if post.post_image %}
+                    <figure class="overlay overlay1 rounded mb-30">
+                        <a href="{{ post.url }}"> <img class="post-thumb" src="{{ post.post_image }}" alt="{{ post.title }}" /></a>
+                        <figcaption>
+                            <h5 class="from-top mb-0">Read More</h5>
+                        </figcaption>
+                    </figure>
+                    {% endif %}
+                    <h2 class="post-title mb-0">
+                        <a href="{{ post.url }}">{{ post.title }}</a>
+                    </h2>
+                </div>
+                <!-- /.item -->
+                {% endif %}
+                {% endfor %}
+            </div>
+            <!-- /.owl-carousel -->
+        </div>
+        <!-- /.grid-view -->
+    </div>
+    <!-- /.container -->
+</div>
+<!-- /.wrapper -->
+{% endif %}
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
