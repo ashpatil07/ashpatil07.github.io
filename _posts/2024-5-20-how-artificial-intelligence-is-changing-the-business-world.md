@@ -20,7 +20,6 @@ permalink: /posts/how-artificial-intelligence-is-changing-the-business-world
 </head>
 <body>
 
-```
 <p>Artificial intelligence (AI) is transforming the way businesses operate across industries. From automating repetitive tasks to generating predictive insights, AI is revolutionizing the business landscape. This article explores how AI is changing the world of business, highlighting key applications and the impact on various sectors.</p>
 
 <p>Businesses are harnessing the power of AI to drive efficiency, enhance customer experiences, and uncover new opportunities. The integration of AI-powered automation, machine learning, and advanced analytics is enabling organizations to streamline operations, make more informed decisions, and stay ahead of the competition. As the adoption of AI continues to grow, companies that embrace this transformative technology will be well-positioned to succeed in the digital age.</p>
@@ -32,11 +31,9 @@ permalink: /posts/how-artificial-intelligence-is-changing-the-business-world
 </a>
 <br><br>
 	
-```
 
 <article>
 
-```
 <h2>Key Takeaways</h2>
 
 
@@ -115,7 +112,6 @@ permalink: /posts/how-artificial-intelligence-is-changing-the-business-world
 <h3>How are businesses using conversational AI and computer vision to enhance customer experience?</h3>
 <p>Conversational AI, such as chatbots and virtual assistants, is improving customer service by providing instant, personalized responses to customer inquiries. Additionally, computer vision and robotics are being used to automate tasks like inventory management, quality control, and even customer interactions, enhancing the overall customer experience.</p>
 		        
-```
 
 </article>
 
