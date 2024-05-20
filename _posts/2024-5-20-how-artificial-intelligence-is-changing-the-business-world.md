@@ -1,6 +1,7 @@
 ---
 layout: post-boxed
 title: How Artificial Intelligence is Changing the Business World
+categories: [All, Artificial Intelligence]
 date: 2024-05-19T18:30:00.000Z
 author: admin
 post_image: /assets/images/art/AI4.webp
