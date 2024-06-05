@@ -32,7 +32,7 @@ permalink: >-
 
 <h2>Understanding Intellectual Property</h2>
 <h3>What is Intellectual Property?</h3>
-
+<p>Intellectual property refers to creations of the mind, such as inventions, literary and artistic works, designs, symbols, names, and images used in commerce. It encompasses a broad range of assets that can be legally protected to prevent unauthorized use or reproduction.</p>
 <h2>Types of Intellectual Property</h2>
 <ul>
     <li><strong>Patents:</strong> Protect inventions and grant exclusive rights to the inventor for a specific period, typically 20 years.</li>
