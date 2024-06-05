@@ -10,7 +10,7 @@ permalink: >-
   /posts/maximize-your-innovation-ultimate-guide-to-protecting-intellectual-property
 ---
 
-###### Category: Artificial Intelligence
+###### Category: Intellectual Property
 
 <html lang="en">
 <head>
