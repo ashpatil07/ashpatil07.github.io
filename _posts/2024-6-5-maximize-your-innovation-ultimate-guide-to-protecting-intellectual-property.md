@@ -1,6 +1,7 @@
 ---
 layout: post-boxed
 title: Maximize Your Innovation-Ultimate Guide to Protecting Intellectual Property
+categories: [All, Intellectual Property]
 date: 2024-06-04T18:30:00.000Z
 author: admin
 post_image: /assets/images/art/ai111.webp
