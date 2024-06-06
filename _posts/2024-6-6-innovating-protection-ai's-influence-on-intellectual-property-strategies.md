@@ -1,6 +1,7 @@
 ---
 layout: post-boxed
 title: Innovating Protection-AI's Influence on Intellectual Property Strategies
+categories: [All, Artificial Intelligence]
 date: 2024-06-05T18:30:00.000Z
 author: admin
 post_image: /assets/images/art/ai13.webp
