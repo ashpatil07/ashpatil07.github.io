@@ -9,8 +9,6 @@ boxed_sidebar: ''
 permalink: /posts/navigating-the-ai-frontier-transforming-business-operations-in-2024
 ---
 
-<!DOCTYPE html>
-
 <html lang="en">
 <head>
     <meta charset="UTF-8">
