@@ -1,7 +1,6 @@
 ---
 layout: post-boxed
 title: Unlocking the Potential of IoT in Education
-categories: [All, Internet of Things]
 date: 2024-06-12T18:30:00.000Z
 author: admin
 post_image: /assets/images/art/iot_a_3.webp
