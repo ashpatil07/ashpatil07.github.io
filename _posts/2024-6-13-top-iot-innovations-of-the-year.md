@@ -1,6 +1,7 @@
 ---
 layout: post-boxed
 title: Top IoT Innovations of the Year
+categories: [All, Internet of Things]
 date: 2024-06-12T18:30:00.000Z
 author: admin
 post_image: /assets/images/art/iot_a_5.webp
