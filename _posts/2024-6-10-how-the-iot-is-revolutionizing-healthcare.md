@@ -1,6 +1,7 @@
 ---
 layout: post-boxed
 title: How the IoT is Revolutionizing Healthcare
+categories: [All, Internet of Things]
 date: 2024-06-09T18:30:00.000Z
 author: admin
 post_image: /assets/images/art/IoT1.webp
