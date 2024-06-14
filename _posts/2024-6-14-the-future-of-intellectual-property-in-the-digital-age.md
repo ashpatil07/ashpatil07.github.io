@@ -1,6 +1,7 @@
 ---
 layout: post-boxed
 title: The Future of Intellectual Property in the Digital Age
+categories: [All, Intellectual Property]
 date: 2024-06-13T18:30:00.000Z
 author: admin
 post_image: /assets/images/art/ip_a_2.webp

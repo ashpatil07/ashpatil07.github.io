@@ -1,6 +1,7 @@
 ---
 layout: post-boxed
 title: What Are the Current Issues Related to Intellectual Property
+categories: [All, Intellectual Property]
 date: 2024-06-13T18:30:00.000Z
 author: admin
 post_image: /assets/images/art/ip_a_1.webp
