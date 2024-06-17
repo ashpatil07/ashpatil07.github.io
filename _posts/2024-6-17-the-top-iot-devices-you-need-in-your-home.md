@@ -1,6 +1,7 @@
 ---
 layout: post-boxed
 title: The Top IoT Devices You Need in Your Home
+categories: [All, Internet of Things]
 date: 2024-06-16T18:30:00.000Z
 author: admin
 post_image: /assets/images/art/iot_a_6.webp
@@ -21,7 +22,7 @@ permalink: /posts/the-top-iot-devices-you-need-in-your-home
 ```
 <!-- Image Banner Ad -->
 <a href="/contact">
-    <img src="/assets/images/art/ip_ads_a.webp" alt="Advertisement for Vishvena Techno Solutions intellectual property services" style="max-width:100%; height:auto;">
+    <img src="/assets/images/art/ip ads a.webp" alt="Advertisement for Vishvena Techno Solutions intellectual property services" style="max-width:100%; height:auto;">
 </a>
 <br><br>
 
