@@ -8,8 +8,6 @@ boxed_sidebar: ''
 permalink: /posts/how-iot-is-reshaping-the-manufacturing-industry
 ---
 
-<!DOCTYPE html>
-
 <html lang="en">
 <head>
     <meta charset="UTF-8">
