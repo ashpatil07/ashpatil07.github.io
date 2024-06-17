@@ -8,8 +8,6 @@ boxed_sidebar: ''
 permalink: /posts/the-top-iot-devices-you-need-in-your-home
 ---
 
-<!DOCTYPE html>
-
 <html lang="en">
 <head>
     <meta charset="UTF-8">
